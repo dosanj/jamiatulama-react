@@ -1399,12 +1399,6 @@ export const sideMenuDetails: ISideMenuItem[] = [
               videosList: [
                 {
                   url: 'https://youtube.com/embed/M4m8r-Z3l4k',
-                  urduText: '',
-                  hindiText: '',
-                  englishText: '',
-                },
-                {
-                  url: 'https://youtube.com/embed/M4m8r-Z3l4k',
                   urduText: ',لڑکا لڑکی کی اجازت اور ایک دوسرے کو دیکھنا',
                   hindiText: 'लड़का लड़की की इजाज़त और एक बार दूसरे को देखना',
                   englishText: 'Boy/girl permission and seeing eachother',

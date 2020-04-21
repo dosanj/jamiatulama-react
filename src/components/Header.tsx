@@ -5,49 +5,47 @@ import Brightness2Outlined from '@material-ui/icons/Brightness2Outlined';
 import Brightness2 from '@material-ui/icons/Brightness2';
 import { IHeaderProps } from '../models/components.props';
 
-export class Header extends React.Component<IHeaderProps> {
-  getThemeSwitcherIcon = () => {
-    if (this.props.isLightMode) {
+export function Header(props: IHeaderProps) {
+  const getThemeSwitcherIcon = () => {
+    if (props.isLightMode) {
       return <Brightness2Outlined />;
     }
     return <Brightness2 />;
   };
 
-  getMenuIcon = () => {
-    if (this.props.isMenuOpen) {
+  const getMenuIcon = () => {
+    if (props.isMenuOpen) {
       return <MenuOpenRounded />;
     }
     return <Menu />;
   };
-  showMenuIcon = () => {
-    if (this.props.isSmallDevice) {
+  const showMenuIcon = () => {
+    if (props.isSmallDevice) {
       return (
         <span
           className="app-header--logo__icon primary-color"
-          onClick={this.props.toggleMenu}
+          onClick={props.toggleMenu}
         >
-          {this.getMenuIcon()}
+          {getMenuIcon()}
         </span>
       );
     }
     return null;
   };
-  render() {
-    return (
-      <header className="app-header">
-        <div className="app-header--logo">
-          {this.showMenuIcon()}
-          <span className="app-header--logo__name">Jamiat Ulama Solapur</span>
-        </div>
-        <div className="app-header--right-side">
-          <span
-            className={`app-header--right-side__theme-switcher clickable`}
-            onClick={this.props.toggleTheme}
-          >
-            {this.getThemeSwitcherIcon()}
-          </span>
-        </div>
-      </header>
-    );
-  }
+  return (
+    <header className="app-header">
+      <div className="app-header--logo">
+        {showMenuIcon()}
+        <span className="app-header--logo__name">Jamiat Ulama Solapur</span>
+      </div>
+      <div className="app-header--right-side">
+        <span
+          className={`app-header--right-side__theme-switcher clickable`}
+          onClick={props.toggleTheme}
+        >
+          {getThemeSwitcherIcon()}
+        </span>
+      </div>
+    </header>
+  );
 }
