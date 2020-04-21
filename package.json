@@ -2,6 +2,7 @@
   "name": "jamiatulama-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://dosanj.github.io/jamiatulama-react/",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@material-ui/icons": "^4.9.1",
@@ -26,7 +27,9 @@
     "start": "npm-run-all -p watch:scss start:ts",
     "build": "npm run build:scss && react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -45,6 +48,7 @@
   },
   "devDependencies": {
     "@types/node-sass": "^4.11.0",
+    "gh-pages": "^2.2.0",
     "node-sass": "^4.13.1",
     "npm-run-all": "^4.1.5"
   }

@@ -8,11 +8,12 @@ import {
   IContentData,
 } from './data/navigation-page.data';
 import { createUrl, getContentData } from './services/utility-service';
-import { useParams, useHistory } from 'react-router-dom';
+import { useParams, useHistory, useRouteMatch } from 'react-router-dom';
 
 export function App(props: Readonly<{}>) {
   // Hooks
   const { link } = useParams();
+  const match = useRouteMatch();
   const history = useHistory();
   const contentData = getContentData();
 
@@ -50,7 +51,7 @@ export function App(props: Readonly<{}>) {
       if (item.url) {
         window.open(item.url, '_blank');
       } else {
-        history.push(createUrl(item) as string);
+        history.push(match.url + (createUrl(item) as string));
       }
     }
     if (isSmallDevice) {

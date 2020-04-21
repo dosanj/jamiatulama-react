@@ -11,6 +11,9 @@ ReactDOM.render(
         <Route path="/:link">
           <App />
         </Route>
+        <Route path="/">
+          <App />
+        </Route>
       </Switch>
     </Router>
   </React.StrictMode>,
