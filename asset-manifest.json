@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/jamiatulama-react/static/css/main.02ccf131.chunk.css",
-    "main.js": "/jamiatulama-react/static/js/main.2fb4d80a.chunk.js",
-    "main.js.map": "/jamiatulama-react/static/js/main.2fb4d80a.chunk.js.map",
+    "main.js": "/jamiatulama-react/static/js/main.3e83fbab.chunk.js",
+    "main.js.map": "/jamiatulama-react/static/js/main.3e83fbab.chunk.js.map",
     "runtime-main.js": "/jamiatulama-react/static/js/runtime-main.24c45fdd.js",
     "runtime-main.js.map": "/jamiatulama-react/static/js/runtime-main.24c45fdd.js.map",
-    "static/js/2.df431db1.chunk.js": "/jamiatulama-react/static/js/2.df431db1.chunk.js",
-    "static/js/2.df431db1.chunk.js.map": "/jamiatulama-react/static/js/2.df431db1.chunk.js.map",
+    "static/js/2.ccb95013.chunk.js": "/jamiatulama-react/static/js/2.ccb95013.chunk.js",
+    "static/js/2.ccb95013.chunk.js.map": "/jamiatulama-react/static/js/2.ccb95013.chunk.js.map",
     "index.html": "/jamiatulama-react/index.html",
-    "precache-manifest.51c6d69e7eaa36da7c9c4b3c100e5d92.js": "/jamiatulama-react/precache-manifest.51c6d69e7eaa36da7c9c4b3c100e5d92.js",
+    "precache-manifest.7f15d6885255bba433b646b35db1cfd9.js": "/jamiatulama-react/precache-manifest.7f15d6885255bba433b646b35db1cfd9.js",
     "service-worker.js": "/jamiatulama-react/service-worker.js",
     "static/css/main.02ccf131.chunk.css.map": "/jamiatulama-react/static/css/main.02ccf131.chunk.css.map",
-    "static/js/2.df431db1.chunk.js.LICENSE.txt": "/jamiatulama-react/static/js/2.df431db1.chunk.js.LICENSE.txt",
+    "static/js/2.ccb95013.chunk.js.LICENSE.txt": "/jamiatulama-react/static/js/2.ccb95013.chunk.js.LICENSE.txt",
     "static/media/index.css": "/jamiatulama-react/static/media/UrduFont.caae9c53.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.24c45fdd.js",
-    "static/js/2.df431db1.chunk.js",
+    "static/js/2.ccb95013.chunk.js",
     "static/css/main.02ccf131.chunk.css",
-    "static/js/main.2fb4d80a.chunk.js"
+    "static/js/main.3e83fbab.chunk.js"
   ]
 }
