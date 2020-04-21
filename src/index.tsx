@@ -2,28 +2,20 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './css/index.css';
 import { App } from './App';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Redirect,
-} from 'react-router-dom';
+import { Switch, Route, HashRouter } from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router>
+    <HashRouter>
       <Switch>
-        <Route path="/jamiatulama-react/:link">
-          <App />
-        </Route>
-        <Route path="/jamiatulama-react/">
+        <Route path="/:link">
           <App />
         </Route>
         <Route path="/">
-          <Redirect to="/jamiatulama-react/" />
+          <App />
         </Route>
       </Switch>
-    </Router>
+    </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );
