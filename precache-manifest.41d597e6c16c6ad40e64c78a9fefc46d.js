@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0404f349977fedd384ecc0acbcf5f16",
+    "revision": "5f126c8d0f99a3f4964375b5b8a0be02",
     "url": "/jamiatulama-react/index.html"
   },
   {
-    "revision": "6fb6f324080bbfce9254",
+    "revision": "dc9d35ec60fefc05db98",
     "url": "/jamiatulama-react/static/css/main.c149eae2.chunk.css"
   },
   {
-    "revision": "3314ae3d3179f48c16d6",
-    "url": "/jamiatulama-react/static/js/2.597e1bf9.chunk.js"
+    "revision": "e7684278704b114b5ee0",
+    "url": "/jamiatulama-react/static/js/2.2cd086d5.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/jamiatulama-react/static/js/2.597e1bf9.chunk.js.LICENSE.txt"
+    "url": "/jamiatulama-react/static/js/2.2cd086d5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6fb6f324080bbfce9254",
-    "url": "/jamiatulama-react/static/js/main.75dc32d0.chunk.js"
+    "revision": "dc9d35ec60fefc05db98",
+    "url": "/jamiatulama-react/static/js/main.5d9dad59.chunk.js"
+  },
+  {
+    "revision": "f379a18f3977e4148192e2ff182acd17",
+    "url": "/jamiatulama-react/static/js/main.5d9dad59.chunk.js.LICENSE.txt"
   },
   {
     "revision": "aed4bbff9fdab8c2824d",
