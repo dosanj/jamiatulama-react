@@ -6,6 +6,7 @@ export interface IHeaderProps {
   isSmallDevice: boolean;
   toggleTheme: () => void;
   toggleMenu: () => void;
+  goToHomePage: () => void;
 }
 
 export interface ISideNavProps {

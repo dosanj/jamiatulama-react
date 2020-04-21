@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { Header } from './components/Header';
 import { SideNav } from './components/SideNav';
 import { AppContent } from './components/AppContent';
@@ -68,12 +68,8 @@ export function App(props: Readonly<{}>) {
     }
   };
 
-  // Logic
-  useEffect(() => {
-    const markItemSelected = (
-      item: ISideMenuItem,
-      link: string | null
-    ): boolean => {
+  const markItemSelected = useCallback(
+    (item: ISideMenuItem, link: string | null): boolean => {
       if (!item.children || item.children.length === 0) {
         item.selected = item.name && link ? createUrl(item) === link : false;
         return item.selected;
@@ -84,15 +80,28 @@ export function App(props: Readonly<{}>) {
         item.expand = selected || item.expand;
       });
       return item.expand;
-    };
-    const selectionChanged = (link: string): void => {
+    },
+    []
+  );
+  const selectionChanged = useCallback(
+    (link: string): void => {
       sideNavData.forEach((item) => {
         item.expand = false;
         const selected = markItemSelected(item, link);
         item.expand = selected || item.expand;
       });
       setSideNavData([...sideNavData]);
-    };
+    },
+    [markItemSelected, sideNavData]
+  );
+  // Logic
+  const goToHomePage = () => {
+    setCurrentLink('/');
+    selectionChanged('/');
+    history.push('/');
+    setCurrentSelectedItem((null as unknown) as IContentData);
+  };
+  useEffect(() => {
     setIsSmallDevice(checkIfSmallDevice());
     setIsMenuOpen(!isSmallDevice);
     if (link && link !== currentLink) {
@@ -100,11 +109,29 @@ export function App(props: Readonly<{}>) {
       selectionChanged(link);
       setCurrentSelectedItem(contentData[link]);
     }
-  }, [link, currentLink, contentData, isSmallDevice, sideNavData]);
+    const handleSwipeLeft = () => {
+      if (isSmallDevice) {
+        setIsMenuOpen(false);
+      }
+    };
+    if (isSmallDevice) {
+      document.removeEventListener('swiped-left', handleSwipeLeft);
+      document.addEventListener('swiped-left', handleSwipeLeft);
+    }
+  }, [
+    link,
+    currentLink,
+    contentData,
+    isSmallDevice,
+    sideNavData,
+    history,
+    selectionChanged,
+  ]);
 
   return (
     <div className={isLightMode ? 'light-mode main-app' : 'dark-mode main-app'}>
       <Header
+        goToHomePage={goToHomePage}
         isSmallDevice={isSmallDevice}
         isLightMode={isLightMode}
         isMenuOpen={isMenuOpen}

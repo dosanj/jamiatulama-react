@@ -32,11 +32,19 @@ export function Header(props: IHeaderProps) {
     }
     return null;
   };
+  const goToHomePage = () => {
+    props.goToHomePage();
+  };
   return (
     <header className="app-header">
       <div className="app-header--logo">
         {showMenuIcon()}
-        <span className="app-header--logo__name">Jamiat Ulama Solapur</span>
+        <span
+          className="app-header--logo__name clickable"
+          onClick={goToHomePage}
+        >
+          Jamiat Ulama Solapur
+        </span>
       </div>
       <div className="app-header--right-side">
         <span
