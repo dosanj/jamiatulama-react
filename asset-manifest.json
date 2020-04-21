@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jamiatulama-react/static/css/main.02ccf131.chunk.css",
+    "main.css": "/jamiatulama-react/static/css/main.182cf269.chunk.css",
     "main.js": "/jamiatulama-react/static/js/main.fa7e75da.chunk.js",
     "main.js.map": "/jamiatulama-react/static/js/main.fa7e75da.chunk.js.map",
     "runtime-main.js": "/jamiatulama-react/static/js/runtime-main.24c45fdd.js",
@@ -8,16 +8,16 @@
     "static/js/2.597e1bf9.chunk.js": "/jamiatulama-react/static/js/2.597e1bf9.chunk.js",
     "static/js/2.597e1bf9.chunk.js.map": "/jamiatulama-react/static/js/2.597e1bf9.chunk.js.map",
     "index.html": "/jamiatulama-react/index.html",
-    "precache-manifest.3d4ee41f481db511f95af1d7503a18d6.js": "/jamiatulama-react/precache-manifest.3d4ee41f481db511f95af1d7503a18d6.js",
+    "precache-manifest.7462bee2dab4df76d01e5bb44b2a553c.js": "/jamiatulama-react/precache-manifest.7462bee2dab4df76d01e5bb44b2a553c.js",
     "service-worker.js": "/jamiatulama-react/service-worker.js",
-    "static/css/main.02ccf131.chunk.css.map": "/jamiatulama-react/static/css/main.02ccf131.chunk.css.map",
+    "static/css/main.182cf269.chunk.css.map": "/jamiatulama-react/static/css/main.182cf269.chunk.css.map",
     "static/js/2.597e1bf9.chunk.js.LICENSE.txt": "/jamiatulama-react/static/js/2.597e1bf9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/jamiatulama-react/static/media/UrduFont.caae9c53.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.24c45fdd.js",
     "static/js/2.597e1bf9.chunk.js",
-    "static/css/main.02ccf131.chunk.css",
+    "static/css/main.182cf269.chunk.css",
     "static/js/main.fa7e75da.chunk.js"
   ]
 }
