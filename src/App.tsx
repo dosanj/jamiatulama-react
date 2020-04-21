@@ -51,7 +51,10 @@ export function App(props: Readonly<{}>) {
       if (item.url) {
         window.open(item.url, '_blank');
       } else {
-        history.push(match.url + (createUrl(item) as string));
+        const url = Object.keys(match.params).length
+          ? match.path.replace(':link', createUrl(item) as string)
+          : match.url + createUrl(item);
+        history.push(url);
       }
     }
     if (isSmallDevice) {
@@ -59,30 +62,6 @@ export function App(props: Readonly<{}>) {
     }
   };
 
-  const selectionChanged = (link: string): void => {
-    sideNavData.forEach((item) => {
-      item.expand = false;
-      const selected = markItemSelected(item, link);
-      item.expand = selected || item.expand;
-    });
-    setSideNavData([...sideNavData]);
-  };
-
-  const markItemSelected = (
-    item: ISideMenuItem,
-    link: string | null
-  ): boolean => {
-    if (!item.children || item.children.length === 0) {
-      item.selected = item.name && link ? createUrl(item) === link : false;
-      return item.selected;
-    }
-    item.expand = false;
-    item.children.forEach((i) => {
-      const selected = markItemSelected(i, link);
-      item.expand = selected || item.expand;
-    });
-    return item.expand;
-  };
   const hideSideNav = () => {
     if (isSmallDevice) {
       setIsMenuOpen(false);
@@ -91,14 +70,37 @@ export function App(props: Readonly<{}>) {
 
   // Logic
   useEffect(() => {
+    const markItemSelected = (
+      item: ISideMenuItem,
+      link: string | null
+    ): boolean => {
+      if (!item.children || item.children.length === 0) {
+        item.selected = item.name && link ? createUrl(item) === link : false;
+        return item.selected;
+      }
+      item.expand = false;
+      item.children.forEach((i) => {
+        const selected = markItemSelected(i, link);
+        item.expand = selected || item.expand;
+      });
+      return item.expand;
+    };
+    const selectionChanged = (link: string): void => {
+      sideNavData.forEach((item) => {
+        item.expand = false;
+        const selected = markItemSelected(item, link);
+        item.expand = selected || item.expand;
+      });
+      setSideNavData([...sideNavData]);
+    };
     setIsSmallDevice(checkIfSmallDevice());
     setIsMenuOpen(!isSmallDevice);
     if (link && link !== currentLink) {
       setCurrentLink(link);
       selectionChanged(link);
-      setCurrentSelectedItem(contentData['/' + link]);
+      setCurrentSelectedItem(contentData[link]);
     }
-  }, [link, currentLink, selectionChanged, contentData, isSmallDevice]);
+  }, [link, currentLink, contentData, isSmallDevice, sideNavData]);
 
   return (
     <div className={isLightMode ? 'light-mode main-app' : 'dark-mode main-app'}>

@@ -31,7 +31,7 @@ export function createUrl(item: ISideMenuItem): string | null {
     return item.url;
   }
   if (item && item.name && !item.children) {
-    return '/' + item.name.toLowerCase().replace(/ /g, '-');
+    return item.name.toLowerCase().replace(/ /g, '-');
   }
   return null;
 }
