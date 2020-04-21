@@ -43,7 +43,8 @@ export function Header(props: IHeaderProps) {
           className="app-header--logo__name clickable"
           onClick={goToHomePage}
         >
-          Jamiat Ulama Solapur
+          <span className="app-header--logo__name__main">Jamiat Ulama</span>{' '}
+          Solapur
         </span>
       </div>
       <div className="app-header--right-side">

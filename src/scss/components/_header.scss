@@ -21,6 +21,10 @@
 
     &__name {
       font-weight: 500;
+
+      &__main {
+        color: var(--color-accent);
+      }
     }
   }
 
