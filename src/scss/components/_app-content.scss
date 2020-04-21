@@ -1,0 +1,53 @@
+.app-content {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1rem;
+
+    p {
+        color: var(--color-text-tertiary);
+        font-weight: 400;
+        text-align: center;
+    }
+
+    .videos-list {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 0 -16px;
+        justify-content: flex-start;
+    }
+
+    .yt-video {
+        margin: 16px auto;
+        box-shadow: inset 0px 0px 8px var(--color-shadow-dark);
+        overflow: hidden;
+        width: 310px;
+
+        @include if-mobile() {
+            width: calc(100% - 32px);
+        }
+
+        /* white-space: normal; */
+        /* word-break: inherit;*/
+    }
+
+    .yt-video-text {
+        padding: 8px 8px 0 8px;
+
+        &:last-child {
+            padding-bottom: 8px;
+        }
+
+        text-align: center;
+    }
+
+    iframe {
+        margin-bottom: -5px;
+        height: 300px;
+        width: 310px;
+
+        @media screen and (max-width: 576px) {
+            width: 100%;
+        }
+    }
+
+}

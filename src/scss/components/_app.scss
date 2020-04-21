@@ -1,0 +1,12 @@
+.main-app {
+  color: var(--color-text);
+  line-height: 1;
+}
+
+.app-layout {
+  padding-top: 60px;
+  display: flex;
+  height: calc(100vh - 60px);
+  background-color: var(--color-background);
+  overflow: hidden;
+}

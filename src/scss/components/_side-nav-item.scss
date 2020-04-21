@@ -1,0 +1,38 @@
+.side-nav {
+    &--item {
+        cursor: pointer;
+
+        &__name {
+            height: 3rem;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            &__icon {
+                padding-right: 1rem;
+
+                &.expanded {
+                    color: var(--color-accent);
+                }
+            }
+
+            &:hover {
+                color: var(--color-accent);
+
+                background-color: var(--color-hover);
+            }
+
+            &.selected {
+                color: var(--color-text);
+                background-color: var(--color-accent);
+
+                &:hover {
+                    background-color: var(--color-accent-hover);
+                }
+
+            }
+
+        }
+
+    }
+}

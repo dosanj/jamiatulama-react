@@ -1,0 +1,32 @@
+.clickable {
+    cursor: pointer;
+}
+
+.primary-color {
+    color: var(--color-accent);
+
+    &:hover {
+        color: var(--color-accent-hover);
+    }
+}
+
+.text-background-color {
+    background: var(--color-text);
+}
+
+h1 {
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+@font-face {
+    font-family: 'UrduFont';
+    src: url('../assets/fonts/UrduFont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.urduText {
+    font-family: UrduFont;
+}
