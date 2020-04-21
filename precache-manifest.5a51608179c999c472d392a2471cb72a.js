@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed5908d7585c4d858cff2371dfc43fba",
+    "revision": "f48c6f69d7378b94b9fe589d578bf17f",
     "url": "/jamiatulama-react/index.html"
   },
   {
-    "revision": "584d982572e6dc31042f",
+    "revision": "57acc956e8ecc6387233",
     "url": "/jamiatulama-react/static/css/main.02ccf131.chunk.css"
   },
   {
-    "revision": "c1310160d1a67ee9c89a",
-    "url": "/jamiatulama-react/static/js/2.ccb95013.chunk.js"
+    "revision": "81c9a10726f42002d08f",
+    "url": "/jamiatulama-react/static/js/2.efc867bf.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/jamiatulama-react/static/js/2.ccb95013.chunk.js.LICENSE.txt"
+    "url": "/jamiatulama-react/static/js/2.efc867bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "584d982572e6dc31042f",
-    "url": "/jamiatulama-react/static/js/main.7a9b06e7.chunk.js"
+    "revision": "57acc956e8ecc6387233",
+    "url": "/jamiatulama-react/static/js/main.8ba711db.chunk.js"
   },
   {
     "revision": "aed4bbff9fdab8c2824d",
