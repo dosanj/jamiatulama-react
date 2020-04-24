@@ -2,7 +2,6 @@
   "name": "jamiatulama-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dosanj.github.io/jamiatulama-react/",
   "dependencies": {
     "@material-ui/core": "^4.9.11",
     "@material-ui/icons": "^4.9.1",
