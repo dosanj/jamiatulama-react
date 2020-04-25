@@ -577,7 +577,7 @@
             {
               "english-name": "Property Distribution",
               "english-heading": "PROPERTY DISTRIBUTION IN INDIAN MUSLIM",
-              "english-sub-heading": "What is Property distribution in Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
+              "english-sub-heading": "What is Property distribution is Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/ahMtxBxgZCY",
@@ -1780,100 +1780,482 @@
         }
       ]
     },
-
     {
       "english-name": "Special",
       "children": [
         {
-          "english-name": "Occasions",
+          "english-name": "Special Messages",
           "children": [
             {
-              "english-name": "Eid ul-Fitr"
+              "english-name": "To Ulama",
+              "english-heading": "SPECIAL MESSAGE TO ULAMA",
+              "english-sub-heading": "Responsibility of Ulama. Decide topic for lecture carefully with pure intentions. and dont to these ten mistakes. Correct the misconception about understanding of Quran in people. few maktab teaching guidelines.",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/Ww_6tDq6po4",
+                  "english": "give priority to solving dispute between people",
+                  "hindi": "लोगों के बीच झाड़गे को सुलझाने को तरजीह दें",
+                  "urdu": "لوگوں کے مابین تنازعہ حل کرنے کو ترجیح دیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/fbydRpjJVgU",
+                  "english": "Select topic relevant to people with pure intention",
+                  "hindi": "बयान का टॉपिक लोगों की ज़रुरत के मुताबिक़ और सही नियत से बयान करें",
+                  "urdu": "بیان کا عنوان لوگوں کیضرورت کے مطابق منتخب کریں اور خالص نیت سےبیان کریں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/4XoVwamdUVQ",
+                  "english": "People fear to keep problems in front of Ulema. please don't be angry on them",
+                  "hindi": "लोग अपने मसाएल उलेमा से सामने रखने से डरते हैं. उलेमा को चाहिए के वह लोगों पर गुस्सा न हो",
+                  "urdu": "لوگ اپنے مسایل علماء کے سامنے رکھنے سے ڈرتے ہیں .علماء کو چاہیے کے وہ لوگوں پر غصّہ نہ ہو"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/3yMroj8UEHo",
+                  "english": "Don't do these ten mistakes in sermon.",
+                  "hindi": "बयान में ये दस गलतियाँ न करें।",
+                  "urdu": "بیان میں یہ دس غلطیاں نہ کریں۔"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/7hCQGmPYtfs",
+                  "english": "Purpose of Dawat Tabligh is that not a single person should remain illiterate from knowledge of his section",
+                  "hindi": "दावत तब्लीग का मकसद यह है कि कोई भी आदमी को अपने शोबे के इल्म से जाहिल न रहे",
+                  "urdu": "دعوت تبلیغ کا مقصد یہ ہے کہ کوئی ایک فرد بھی اپنے شعبے کے علم سے جاہل نہیں رہا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Tzfl9aVfZow",
+                  "english": "Ulema should tell people to understand Quran",
+                  "hindi": "उलेमा को लोगों को कुरान समझने के लिए कहना चाहिए",
+                  "urdu": "علمائے کرام لوگوں کو قرآن کو سمجھنے کے لئے بتائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ecMa6YjQqmo",
+                  "english": "imam should correct people's prayer before every prayer. collectively and individually",
+                  "hindi": "इमाम को हर नमाज़ से पहले लोगों की नमाज़ को सही करना चाहिए। सब के सामने और अकेले भी",
+                  "urdu": "امام کو ہر نماز سے پہلے لوگوں کی نماز درست کرنی چاہئے۔ اجتماعی اور انفرادی طور پر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/870cZSI-Oug",
+                  "english": "Teaching style in maktab to intelligent and weak children",
+                  "hindi": "होशियार और कमजोर बच्चों के लिए मकतब में पढ़ने की तरतीब",
+                  "urdu": "ذہین اور کمزور بچوں کو مکاتب میں پڑھانے کا انداز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/AtxvsJ8Snkc",
+                  "english": "Ulema should tell responsibility of all sects of society, not only about common disputed topics",
+                  "hindi": "उलेमा को उम्मत के सभी शोबों की जिम्मेदारी बतानी चाहिए, न कि सिर्फ आम मुतनाज़ा टॉपिक्स के बारे में",
+                  "urdu": "علمائے کرام کو نہ صرف عام متنازعہ عنوانات کے بارے میں ، بلکہ معاشرے کے تمام شعبوں کی ذمہ داری بتانا چاہئے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/x3n43uz4vYI",
+                  "english": "What used to happen in Masjid Nabawi?",
+                  "hindi": "मस्जिद नबावी में क्या हुआ करता था?",
+                  "urdu": "مسجد نبوی میں کیا ہوتا تھا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_oQ99x8V4aE",
+                  "english": "Alim is not the one who only teaches Fiqhi (Prayer and Fast etc) knowledge",
+                  "hindi": "आलिम वह नहीं है जो सिर्फ फिक़ी (रोज़ा, नमाज़ वगेरा) मसले सिखाता है",
+                  "urdu": "عالم وہ نہیں جو صرف فقہی علم(روزہ،نماز وغیرہ ) کی تعلیم دیتا ہے"
+                }
+              ]
             },
             {
-              "english-name": "Eid Ul-Adha"
+              "english-name": "To Doctors",
+              "english-heading": "SPECIAL MESSAGE TO MUSLIM DOCTORS",
+              "english-sub-heading": "Intentions, free service, history, guidelines and responsibility",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/P5g-bH8cBIE",
+                  "english": "Life and intention of a Muslim doctor",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/RRFR7lKLsFs",
+                  "english": "Free hospital run by Muslim doctors in America",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/KG3tWqSIMIE",
+                  "english": "Muslim doctors association",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/aW2jT3Uf_D4",
+                  "english": "Few Doctor patient communication tips",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_1-hMCViKD0",
+                  "english": "First Hospital in the world",
+                  "hindi": "दुनिया में पहला अस्पताल",
+                  "urdu": "دنیا کا پہلا اسپتال"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/QZAV1QuIfgc",
+                  "english": "After Ulama, who are responsible of community?",
+                  "hindi": "उलमा के बाद, उम्मत के जिम्मेदार कौन हैं?",
+                  "urdu": "علمائے کرام کے بعد ، معاشرے کے ذمہ دار کون ہیں؟"
+                }
+              ]
             },
             {
-              "english-name": "Milad un Nabi"
+              "english-name": "To Engineers",
+              "english-heading": "ENGINEER",
+              "english-sub-heading": "Engineer",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/x_5fwIiwC-M",
+                  "english": "Not only about job, do engineering for society also",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/XdBva9asg_o",
+                  "english": "Role of engineering in developing of the country",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/GG_E36CuLK4",
+                  "english": "A case study for responsibility of an engineer",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
             },
             {
-              "english-name": "Moharram"
+              "english-name": "To Lawyers",
+              "english-heading": "ESPECIAL MESSAGE TO MUSLIM LAWYERS",
+              "english-sub-heading": "Contribution in justice in society. few qualities of good lawyer. Maulana Tariq jameel speech in lawyers.",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/NYSLIjAHp6I",
+                  "english": "Contribution of lawyer in justice in society",
+                  "hindi": "समाज में इंसाफ में वकील का योगदान",
+                  "urdu": "معاشرے میں انصاف میں وکیل کی شراکت"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/wRxrOOg6xMA",
+                  "english": "Tell qualities of a good lawyer",
+                  "hindi": "एक अच्छे वकील के दस क्वालिटी",
+                  "urdu": "ایک آچھے وکیل کے دس صفات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/1hk9qPN7N94",
+                  "english": "15 duties of a lawyer",
+                  "hindi": "एक वकील की १५ ज़िम्मेदारियां",
+                  "urdu": "ایک وکیل کی پندرہ ذمہ داریاں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/z4mbd4nNKZU",
+                  "english": "Maulana Tariq Jameel lecture in lawyer",
+                  "hindi": "मौलाना तारिक़ जमील बयान वकीलों में",
+                  "urdu": "مولانا طارق جمیل بیان وکلاء میں"
+                }
+              ]
             },
             {
-              "english-name": "Salatul Istisqa"
+              "english-name": "To Teachers",
+              "english-heading": "MESSAGE TO MUSLIMS TEACHERS",
+              "english-sub-heading": "Quality of Good teacher. Prophetic qualities of teaching. Impact of voice tone. Use of technology and smart class",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/Gkgo_jRoPwk",
+                  "english": "Who is good teacher?",
+                  "hindi": "अच्छा टीचर कौन होता है?",
+                  "urdu": "اچھا استاد کون ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/tXcitZXRtps",
+                  "english": "Teaching strategies of prophet Muhammad - lecture for ladies teacher",
+                  "hindi": "",
+                  "urdu": "اللّٰہ کے نبی صلی اللہ علیہ وسلم ایک ٹیچر کے طور پر - مسلم لیڈی ٹیچر کے لئے لیکچر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/sRuzHC0Rrcw",
+                  "english": "Effect of Sad Teacher",
+                  "hindi": "उदास टीचर का बच्चों पर असर",
+                  "urdu": "اداس استاد کا بچوں پر اثر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/vUJWDA3tEuM",
+                  "english": "effect of voice tone",
+                  "hindi": "आवाज़ का असर",
+                  "urdu": "آواز کا اثر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/iiFpHvhXb7c",
+                  "english": "Use Technology in Teaching",
+                  "hindi": "टीचिंग में टेक्नोलॉजी का इस्तेमाल करें",
+                  "urdu": "ٹیچنگ میں ٹکنالوجی کا استعمال کریں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_ONxnakehmk",
+                  "english": "What is smart class?",
+                  "hindi": "स्मार्ट क्लास क्या है?",
+                  "urdu": "اسمارٹ کلاس کیا ہے؟"
+                }
+              ]
             },
             {
-              "english-name": "haj and Umrah"
+              "english-name": "To Buisnessmen",
+              "english-heading": "BUISNESSMAN",
+              "english-sub-heading": "Buisnessman",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/i_OAzpdC_H8",
+                  "english": "Non Muslim following Islamic values to become successful",
+                  "hindi": "गैर मुस्लिम इस्लामी कानून का पालन करके कामयाब बनते हुवे",
+                  "urdu": "غیر مسلم اسلامی تعلیم کی پابندی کرکے کامیاب ہوتے ہوئے"
+                }
+              ]
             },
             {
-              "english-name": "Shabe-E-Meraj or Barat or Qadr"
+              "english-name": "To Butchers",
+              "english-heading": "BUTCHERS(QUERSHI)",
+              "english-sub-heading": "Butchers(Quershi)",
+              "videos-list": []
             },
             {
-              "english-name": "Janazah"
-            },
-            {
-              "english-name": "Daswa Chilla Barsi"
+              "english-name": "To Masjid Trustee",
+              "english-heading": "SPECIAL MESSAGE TO MASJID TRUSTEE",
+              "english-sub-heading": "Criteria to be Masjid Trustee. What should happen in Masjid. Situation of present Imam & Trustee and Masjid Chanda",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/2yTSaQFk3mA",
+                  "english": "Who should be part of Masjid Committee/Trustee",
+                  "hindi": "मस्जिद कमेटी / ट्रस्टी का मेंबर कौन होना चाहिए",
+                  "urdu": "کون مسجد کمیٹی / ٹرسٹی کا حصہ بننا چاہئے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/n0CA2LebIow",
+                  "english": "One Masjid Movement - What should happen in Masjid",
+                  "hindi": "वन मस्जिद तहरीक - मस्जिद में क्या होना चाहिए",
+                  "urdu": "ون مسجد تحریک - مسجد میں کیا ہونا چاہئے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/neRXVnjngoU",
+                  "english": "What should happen in Masjid apart from 5 times namaz?",
+                  "hindi": "5 मर्तबा नमाज के अलावा और मस्जिद में क्या होना चाहिए?",
+                  "urdu": "مسجد میں ٥ وقت نماز کے علاوہ اور کیا ہونا چاہیے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/j3hMG0lQXac",
+                  "english": "Masjid Imam. why behave like slave?",
+                  "hindi": "मस्जिद इमाम। गुलामों जैसा बर्ताव क्यों?",
+                  "urdu": "مسجد امام۔ غلام کی طرح برتاؤ کیوں؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/4UcxGvjxBLI",
+                  "english": "Misuse of Masjid Chanda",
+                  "hindi": "मस्जिद चंदा का गलत इस्तेमाल",
+                  "urdu": "مسجد چندا کا غلط استعمال"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ynaahuYraro",
+                  "english": "Ladies Prayers Room in Masjid",
+                  "hindi": "मस्जिद में लेडीज़ नमाज़ रूम",
+                  "urdu": "مسجد میں خواتین کے نماز کا کمرہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xV2UvtoHf1s",
+                  "english": "Imam & Masjid Committee - Problems & Duties",
+                  "hindi": "इमाम और मस्जिद कमिटी - गलतियां और ज़िम्मेदारी",
+                  "urdu": "امام و مسجد کمیٹی - مسائل و فرائض"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Huj1s7fRBB4",
+                  "english": "Foreign tablighi jamat and indian dirty wuzu khana and toilet",
+                  "hindi": "बहार मुल्क की तब्लीगी जमात और भारतीय गंदे वुज़ू खान और टॉयलेट",
+                  "urdu": "غیر ملکی تبلیغی جماعت اور ہندوستانی گندے وضو خانہ اور ٹوائلٹ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/EtbWR69ueeA",
+                  "english": "Islamic ruling about Masjid Chanda - Forceful Chanda/Charity",
+                  "hindi": "मस्जिद चंदा के बारे में इस्लामी हिदायत -ज़बरदस्ती चंदा",
+                  "urdu": "مسجد چندا کے بارے میں اسلامی احکام - زبردستی چندہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ni8FqjrqypA",
+                  "english": "Where Masjid chanda can not be used?",
+                  "hindi": "मस्जिद चन्दा का इस्तमाल कहाँ नहीं किया जा सकता है?",
+                  "urdu": "مسجد چندہ کہاں استعمال نہیں ہوسکتا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/x3n43uz4vYI",
+                  "english": "What used to happen in Masjid Nabawi?",
+                  "hindi": "मस्जिद नबावी में क्या हुआ करता था?",
+                  "urdu": "مسجد نبوی میں کیا ہوتا تھا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/E5QnJb9LBxM",
+                  "english": "Why Masjid is empty? Society requirements. 20 things to do and 29 Juma byan topics",
+                  "hindi": "मस्जिद वीरान क्यूं? समाज की जरूरत। मस्जिद में करने के २० काम और २० जुमा बयान टॉपिक",
+                  "urdu": "مساجد ویران کیوں؟ سماج کی ضرورت۔ مسجد میں کرنے کے بیس کام اور جمعہ بیان کے بیس عنوان"
+                }
+              ]
             }
           ]
         },
         {
-          "english-name": "Messages",
+          "english-name": "Special Occasions",
           "children": [
             {
-              "english-name": "To Ulama"
+              "english-name": "Eid ul-Fitr",
+              "english-heading": "EID -UL - FITR",
+              "english-sub-heading": "eid -ul - fitr",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/xsUglChIk5E",
+                  "english": "Autophagy (Self Eating) Concept & Fasting in Ramadan",
+                  "hindi": "ऑटोफैगी (खुद को खाना )और रोज़ा रमजान में",
+                  "urdu": "رمضان المبارک میں آٹوفیگی (خود کھانے) کا تصور اور روزہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/f_kUHUSIWD8",
+                  "english": "Duration of Fast in Different Countries, Longest and Shortest Fast",
+                  "hindi": "दूसरे देशों में रमजान के रोज़े की लम्बाई , सबसे लंबी और सबसे छोटी रोज़ा",
+                  "urdu": "مختلف ممالک میں روزہ کی مدت ، سب سے طویل اور مختصر ترین روزہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ZnepcYOK26U",
+                  "english": "Empty Masjid After Ramadan why ?",
+                  "hindi": "रमजान के बाद खाली मस्जिद क्यों?",
+                  "urdu": "رمضان کے بعد خالی مسجد کیوں؟"
+                }
+              ]
             },
             {
-              "english-name": "To Doctors"
+              "english-name": "Eid Ul-Adha",
+              "english-heading": "EID UL ADHA",
+              "english-sub-heading": "How to slaughter and supplication, Respect the animal, few misconceptions about 3 divisions, Prohibited parts in Halal Animal, cleanliness",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/FMQDWv6j8x0",
+                  "english": "How to slaughter? What's duwa? And best practices.",
+                  "hindi": "जानवर जबाह कैसे करें? कौनसी दुआ पढ़ें? ज़रूरी हिदायत",
+                  "urdu": "جانور زبح کرنے کا طریقہ، دعا اور ضروری باتیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/BX1CavhAzME",
+                  "english": "how to treat animal to be scarified?",
+                  "hindi": "क़ुरबानी के जानवर के साथ कैसे बर्ताव करें",
+                  "urdu": "قربانی کے جانور کے ساتھ کیسے برتاو کریں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/oSxB847HHRo",
+                  "english": "Is it necessary to divide one part further into three parts for relative, poor and for self?",
+                  "hindi": "क्या एक हिस्सा गोश्त को तीन हिस्सों में तकसीम करना ज़रूरी है? रिश्तेदार,गरीब और खुद के लिए?",
+                  "urdu": "کیا ایک حصہ گوشت میں تین حصے کرنا ضروری ہے؟ رشتے دار، غریب اور خود کے لیے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Hs3YXSJPgRE",
+                  "english": "Haram things in halal animal",
+                  "hindi": "हलाह जानवर में हराम चीज़ें",
+                  "urdu": "حلال جانور میں حرام چیزیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/184o76F5pxY",
+                  "english": "Cleanilness in Eid",
+                  "hindi": "ईद के मौके पर सफाई",
+                  "urdu": "عید کے وقت صفایی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ndgn6xFnqRA",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
             },
             {
-              "english-name": "To Engineers"
+              "english-name": "Milad un Nabi",
+              "english-heading": "MILAD",
+              "english-sub-heading": "milad",
+              "videos-list": []
             },
             {
-              "english-name": "To Lawyers"
+              "english-name": "Moharram",
+              "english-heading": "MUHARRAM",
+              "english-sub-heading": "muharram",
+              "videos-list": []
             },
             {
-              "english-name": "To Teachers"
+              "english-name": "Salatul Istisqa",
+              "english-heading": "EID",
+              "english-sub-heading": "eid",
+              "videos-list": []
             },
             {
-              "english-name": "To Buisnessmen"
+              "english-name": "haj and Umrah",
+              "english-heading": "HAJ AND UMRAH",
+              "english-sub-heading": "haj",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/48SaU6ii8y4",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/MtiqtS8ZuT0",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ktfcnODA6fY",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/nalGPSstibw",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/cWNXYBGu6NU",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/csMshbk5i6g",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/JV36wAFMBXI",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
             },
             {
-              "english-name": "To Butchers"
+              "english-name": "Shabe-E-Meraj or Barat or Qadr",
+              "english-heading": "SHAB-E-MERAJ/BARAAT/QADR",
+              "english-sub-heading": "Shab-E-Meraj/Baraat/Qadr",
+              "videos-list": []
             },
             {
-              "english-name": "To Masjid Trustee"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "english-name": "Islamic History",
-      "children": [
-        {
-          "english-name": "Freedom of India",
-          "children": [
-            {
-              "english-name": "Muslims in Freedom Of India"
-            }
-          ]
-        },
-        {
-          "english-name": "Science",
-          "children": [
-            {
-              "english-name": "Muslim Scientist"
-            }
-          ]
-        },
-        {
-          "english-name": "Information",
-          "children": [
-            {
-              "english-name": "How Old is Islam"
+              "english-name": "Janazah",
+              "english-heading": "Janazah",
+              "english-sub-heading": "",
+              "videos-list": []
             },
             {
-              "english-name": "Misconseption About Islam"
+              "english-name": "Daswa Chilla Barsi",
+              "english-heading": "DASWA, CHILLA, BARSI",
+              "english-sub-heading": "",
+              "videos-list": []
             }
           ]
         }
@@ -1883,25 +2265,233 @@
       "english-name": "Others",
       "children": [
         {
-          "english-name": "Online Information",
+          "english-name": "Useful Information",
           "children": [
             {
-              "english-name": "Apply for Govt. Documents"
+              "english-name": "Apply for Govt. Documents",
+              "english-heading": "HOW TO APPLY PASSORT / AADHAAR CARD / VOTER ID CARD",
+              "english-sub-heading": "Login to the Passport Seva Online Portal with the registered Login Id. Click \"Apply for Fresh Passport/Re-issue of Passport\" link. Fill in the required details in the form and submit. Click the \"Pay and Schedule Appointment\" link on the \"View Saved/Submitted Applications\" screen to schedule an appointment",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/Eo5KFT9W8Wc",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/1x_qBLMxGhA",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
             },
             {
-              "english-name": "Train and Flight tickets Booking"
+              "english-name": "Train and Flight tickets Booking",
+              "english-heading": "HOW TO BOOK ONLINE TRAIN/FLIGHT TICKETS",
+              "english-sub-heading": "Users have to select the source and destination stations, select a train, check for train ticket availability, provide the passenger details (name/s, age, gender, berth preference and meal preference) and then proceed towards payment gateway. The online train ticket booking is finalized once the payment is made.",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/atatSgZ-mtY",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
             },
             {
-              "english-name": "Scholarship"
+              "english-name": "Scholarship",
+              "external-url": "http://www.360careervision.com/"
             },
             {
-              "english-name": "What is KYC"
+              "english-name": "What is KYC",
+              "english-heading": "WHAT IS KYC",
+              "english-sub-heading": "Know Your Customer, alternatively known as know your client or simply KYC, is the process of a business verifying the identity of its clients and assessing their suitability, along with the potential risks of illegal intentions towards the business relationship.",
+              "videos-list": []
             },
             {
-              "english-name": "Using UPI / Paytm"
+              "english-name": "Using UPI & Paytm",
+              "english-heading": "HOW TO USE GOOGLE PAY & PAYTM",
+              "english-sub-heading": "Download the app on Google Play or the App Store, or visit pay.google.com. Sign in to your Google Account and add a payment method. If you want to use Google Pay in stores, check to see if your phone has NFC.",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/-cw523kk1Hw",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/a4Dv37M9Pzw",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "english-name": "Islamic History",
+          "children": [
+            {
+              "english-name": "Muslim in Freedom of India",
+              "english-heading": "MUSLIM IN FREEDOM",
+              "english-sub-heading": "Muslim in Freedom",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/pq_O-rJUP7Q",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/vuwkJoHrA2I",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/pVeLqCBWvLc",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/nUPyluNT0kA",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/U_sYxjpyimc",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ST-t2TplmKI",
+                  "english": "Who was Tipu Sultan? Year 1760-1799",
+                  "hindi": "टीपू सुल्तान कौन थे? सन १७६०-१७९९",
+                  "urdu": "ٹیپو سلطان کون تھے؟ 1760-1799"
+                }
+              ]
             },
             {
-              "english-name": "Books"
+              "english-name": "Muslim Scientist",
+              "english-heading": "MUSLIM SCIENTIST",
+              "english-sub-heading": "1001 inventions, 10 Muslim scientists, who invented Algorithm, soap, optics/photoghraphy, free healthcare, education and algebra, Islamic architecture in India, Who invented coffee , and First degree giving University of the world as per Guinness Book of World records.",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/879kqbx9rqc",
+                  "english": "1001 Inventions - Documentary in National Geographic",
+                  "hindi": "१००१ मुस्लिम्स आविष्कार - नेशनल जियोग्राफिक चैनल की पेश काश",
+                  "urdu": "١٠٠١ ایجادات - نیشنل جیوگرافک فلم"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/htElD5iUJhw",
+                  "english": "10 Muslims scientist",
+                  "hindi": "10 मुस्लिम वैज्ञानिक",
+                  "urdu": "١٠ مسلمان سائنسدان"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/oRkNaF0QvnI",
+                  "english": "Invention of Algorithm used in computer",
+                  "hindi": "अल्गोरिथ की ईजाद जिसे कंप्यूटर में इस्तेमाल किया जाता है",
+                  "urdu": "الگورتھم کی ایجاد جسے کمپیوٹر میں استمال کیا جاتا ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/eO1xEDriHRo",
+                  "english": "soap, optics/photoghraphy, free healthcare, education and algebra",
+                  "hindi": "साबुन, ऑप्टिक्स / फोटोग्रफी, मुफ्त इलाज , शिक्षा और अलजेब्रा",
+                  "urdu": "صابن ، آپٹکس / فوٹوگرافی ، مفت علاج ، تعلیم اور الجبرا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/dhWN9hywE4I",
+                  "english": "Islamic Architecture of India",
+                  "hindi": "भारत में इस्लामिकआर्किटेक्चर",
+                  "urdu": "ہندوستان میں اسلامی تعمیرات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xGYooIIL3O0",
+                  "english": "Who Invented Coffee ?",
+                  "hindi": "कॉफी का आविष्कार किसने किया?",
+                  "urdu": "کافی کی ایجاد کس نے کی؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/W3se30Zms3c",
+                  "english": "World's oldest University by a Muslim as per Guinness Book of World records",
+                  "hindi": "दुनिया की सब से पुरानी यूनिवर्सिटी एक मुस्लिम की बनाई हुई। गिनीज बुक ऑफ वर्ल्ड रिकॉर्ड के मुताबिक़",
+                  "urdu": "دنیا کی سب سے پرانی یونیورسٹی ایک مسلم کی بنائی ہوئی - گنیز ورلڈ ریکارڈز کے مطابق"
+                }
+              ]
+            },
+            {
+              "english-name": "How Old is Islam",
+              "english-heading": "HOW OLD IS ISLAM",
+              "english-sub-heading": "Before Adam (a.s), similarities between Islam, Christianity and Judaism, idol worship",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/JDaPA7yLUqs",
+                  "english": "What was befor the first man on earth , the Adam (a s)?",
+                  "hindi": "दुनिया में पहले इंसान आदम (अलैहि सलाम) से पहले क्या था?",
+                  "urdu": "دنیا کے پہلے انسان آدم علیہ السلام سے پہلے کیا تھا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/s7StUtopnjI",
+                  "english": "Ten similarities between Islam, Christianity and Judaism",
+                  "hindi": "इस्लाम, ईसाई धर्म और यहूदी धर्म में १० समान्य बातें",
+                  "urdu": "اسلام، عیسایت اور یہودیت میں 10 مشترکہ باتیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/3PgBqV63Kzs",
+                  "english": "Who are Jews?",
+                  "hindi": "यहूदी कौन?",
+                  "urdu": "یہودی کون؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/H0GpNBHCRPE",
+                  "english": "When was the idol worship started?",
+                  "hindi": "मूर्ति पूजा कब शुरू हुई?",
+                  "urdu": "بت پرستی/مورتی پوجا کب شروع ہوئی؟"
+                }
+              ]
+            },
+            {
+              "english-name": "Misconseption About Islam",
+              "english-heading": "MISCONCEPTION ABOUT ISLAM",
+              "english-sub-heading": "Some people allege that Islamic values are somehow incompatible with decent \"Western\" values. Such claims could not be further from the truth.",
+              "videos-list": [
+                {
+                  "video-url": "https://youtube.com/embed/BbYgWHf5Li4",
+                  "english": "Is Islam 1400 years old?",
+                  "hindi": "क्या इस्लाम १४०० साल पुराना है?",
+                  "urdu": "کیا اسلام 1400سال پورانا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ciutXxazCqI",
+                  "english": "Top 5 Misconceptions About Islam",
+                  "hindi": "इस्लाम के बारे में 5 गलतफहम",
+                  "urdu": "اسلام کے بارے میں 5 غلط فہمیاں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/m5cb0GVqmuU",
+                  "english": "Masjid introduction program - For Non-Muslim brother",
+                  "hindi": "मस्जिद परिचय प्रोग्राम - गैर मुस्लिम भाइयों के लिए",
+                  "urdu": "مسجد تعارفی پروگرام - غیر مسلم بھائیوں کے لئے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/mttz0I9pOqU",
+                  "english": "Islam means Jihad and Jihad means terrorism. is that true?",
+                  "hindi": "इस्लाम का मतलब जिहाद और जिहाद का मतलब आतंकवाद है। क्या यह सच है?",
+                  "urdu": "اسلام کا مطلب ہے جہاد اور جہاد کا مطلب دہشت گردی ہے۔ کیا یہ سچ ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/0jyUN6RygjI",
+                  "english": "Top 10 misconception about Islam including terrorism",
+                  "hindi": "टॉप १० इस्लाम के बारे में गलत फेहमी , दहशत गर्दी के बारे में भी",
+                  "urdu": "اسلام کے بارے میں ٹاپ 10 غلط فہمیاں بشمول دہشت گردی"
+                }
+              ]
             }
           ]
         }

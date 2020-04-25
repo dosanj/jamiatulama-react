@@ -20,17 +20,14 @@ export function Header(props: IHeaderProps) {
     return <Menu />;
   };
   const showMenuIcon = () => {
-    if (props.isSmallDevice) {
-      return (
-        <span
-          className="app-header--logo__icon primary-color"
-          onClick={props.toggleMenu}
-        >
-          {getMenuIcon()}
-        </span>
-      );
-    }
-    return null;
+    return (
+      <span
+        className="app-header--logo__icon primary-color"
+        onClick={props.toggleMenu}
+      >
+        {getMenuIcon()}
+      </span>
+    );
   };
   const goToHomePage = () => {
     props.goToHomePage();

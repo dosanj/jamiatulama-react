@@ -16,7 +16,7 @@ export function App(props: Readonly<{}>) {
   // State
   const [isLightMode, setIsLightMode] = useState(true);
   const [isSmallDevice, setIsSmallDevice] = useState(true);
-  const [isMenuOpen, setIsMenuOpen] = useState(true);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [sideNavData, setSideNavData] = useState(sideMenuDetails);
   const [currentSelectedItem, setCurrentSelectedItem] = useState(
     (null as unknown) as ISideMenuItem
@@ -44,8 +44,8 @@ export function App(props: Readonly<{}>) {
   };
   const openLink = (item: ISideMenuItem) => {
     if (item) {
-      if (item.url) {
-        window.open(item.url, '_blank');
+      if (item['external-url']) {
+        window.open(item['external-url'], '_blank');
       } else {
         const url = Object.keys(match.params).length
           ? match.path.replace(':link', createUrl(item) as string)
@@ -53,9 +53,7 @@ export function App(props: Readonly<{}>) {
         history.push(url);
       }
     }
-    if (isSmallDevice) {
-      setIsMenuOpen(false);
-    }
+    setIsMenuOpen(false);
   };
 
   const hideSideNav = () => {
@@ -100,7 +98,6 @@ export function App(props: Readonly<{}>) {
   };
   useEffect(() => {
     setIsSmallDevice(checkIfSmallDevice());
-    setIsMenuOpen(!isSmallDevice);
     if (link && link !== currentLink) {
       setCurrentLink(link);
       selectionChanged(link);

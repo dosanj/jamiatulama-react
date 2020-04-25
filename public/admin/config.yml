@@ -41,11 +41,13 @@ collections:
                           label: English Heading,
                           name: english-heading,
                           widget: string,
+                          required: false,
                         }
                       - {
                           label: English Sub Heading,
                           name: english-sub-heading,
                           widget: string,
+                          required: false,
                         }
                       - {
                           label: Urdu Title,
@@ -80,6 +82,12 @@ collections:
                       - {
                           label: Hindi Sub Heading,
                           name: hindi-sub-heading,
+                          widget: string,
+                          required: false,
+                        }
+                      - {
+                          label: External Url,
+                          name: external-url,
                           widget: string,
                           required: false,
                         }

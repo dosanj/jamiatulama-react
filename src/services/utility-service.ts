@@ -23,8 +23,8 @@ export function expandList() {
   });
 }
 export function createUrl(item: ISideMenuItem): string | null {
-  if (item.url) {
-    return item.url;
+  if (item['external-url']) {
+    return item['external-url'];
   }
   if (item && item['english-name'] && !item.children) {
     return item['english-name'].toLowerCase().replace(/ /g, '-');

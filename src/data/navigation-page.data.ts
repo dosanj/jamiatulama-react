@@ -4,7 +4,7 @@ export interface ISideMenuItem {
   'english-heading'?: string;
   'english-sub-heading'?: string;
   expand?: boolean;
-  url?: string;
+  'external-url'?: string;
   selected?: boolean;
   children?: ISideMenuItem[];
   'videos-list'?: IVideo[];
