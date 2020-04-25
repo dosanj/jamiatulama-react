@@ -2,7 +2,7 @@
   "categories": [
     {
       "category": "Topics",
-      "sub-category": [
+      "sub-categories": [
         {
           "sub-category": "Social Issues",
           "topic-list": [
@@ -1092,7 +1092,7 @@
     },
     {
       "category": "Guidelines",
-      "sub-category": [
+      "sub-categories": [
         {
           "sub-category": "Marriage Guidelines",
           "topic-list": [
@@ -1782,7 +1782,7 @@
     },
     {
       "category": "Special Messages",
-      "sub-category": [
+      "sub-categories": [
         {
           "sub-category": "To Ulama"
         },
@@ -1811,7 +1811,7 @@
     },
     {
       "category": "Special Occasions",
-      "sub-category": [
+      "sub-categories": [
         {
           "sub-category": "Eid ul-Fitr"
         },
@@ -1843,7 +1843,7 @@
     },
     {
       "category": "Islamic History",
-      "sub-category": [
+      "sub-categories": [
         {
           "sub-category": "Muslim in Freedom of India"
         },
@@ -1860,7 +1860,7 @@
     },
     {
       "category": "Others",
-      "sub-category": [
+      "sub-categories": [
         {
           "sub-category": "Apply for Govt. Documents"
         },
