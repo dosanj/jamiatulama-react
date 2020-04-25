@@ -18,12 +18,14 @@ collections:
         fields:
           - label: Main Category
             name: categories
+            required: false
             widget: list
             fields:
               - { label: Category Name, name: english-name, widget: string }
               - label: Sub Category
                 name: children
                 widget: list
+                required: false
                 fields:
                   - { label: Sub Category, name: english-name, widget: string }
                   - label: Topic List

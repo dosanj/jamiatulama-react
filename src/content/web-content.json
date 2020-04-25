@@ -1780,64 +1780,70 @@
         }
       ]
     },
+
     {
-      "english-name": "Special Messages",
+      "english-name": "Special",
       "children": [
         {
-          "english-name": "To Ulama"
+          "english-name": "Occasions",
+          "children": [
+            {
+              "english-name": "Eid ul-Fitr"
+            },
+            {
+              "english-name": "Eid Ul-Adha"
+            },
+            {
+              "english-name": "Milad un Nabi"
+            },
+            {
+              "english-name": "Moharram"
+            },
+            {
+              "english-name": "Salatul Istisqa"
+            },
+            {
+              "english-name": "haj and Umrah"
+            },
+            {
+              "english-name": "Shabe-E-Meraj or Barat or Qadr"
+            },
+            {
+              "english-name": "Janazah"
+            },
+            {
+              "english-name": "Daswa Chilla Barsi"
+            }
+          ]
         },
         {
-          "english-name": "To Doctors"
-        },
-        {
-          "english-name": "To Engineers"
-        },
-        {
-          "english-name": "To Lawyers"
-        },
-        {
-          "english-name": "To Teachers"
-        },
-        {
-          "english-name": "To Buisnessmen"
-        },
-        {
-          "english-name": "To Butchers"
-        },
-        {
-          "english-name": "To Masjid Trustee"
-        }
-      ]
-    },
-    {
-      "english-name": "Special Occasions",
-      "children": [
-        {
-          "english-name": "Eid ul-Fitr"
-        },
-        {
-          "english-name": "Eid Ul-Adha"
-        },
-        {
-          "english-name": "Milad un Nabi"
-        },
-        {
-          "english-name": "Moharram"
-        },
-        {
-          "english-name": "Salatul Istisqa"
-        },
-        {
-          "english-name": "haj and Umrah"
-        },
-        {
-          "english-name": "Shabe-E-Meraj or Barat or Qadr"
-        },
-        {
-          "english-name": "Janazah"
-        },
-        {
-          "english-name": "Daswa Chilla Barsi"
+          "english-name": "Messages",
+          "children": [
+            {
+              "english-name": "To Ulama"
+            },
+            {
+              "english-name": "To Doctors"
+            },
+            {
+              "english-name": "To Engineers"
+            },
+            {
+              "english-name": "To Lawyers"
+            },
+            {
+              "english-name": "To Teachers"
+            },
+            {
+              "english-name": "To Buisnessmen"
+            },
+            {
+              "english-name": "To Butchers"
+            },
+            {
+              "english-name": "To Masjid Trustee"
+            }
+          ]
         }
       ]
     },
@@ -1845,16 +1851,31 @@
       "english-name": "Islamic History",
       "children": [
         {
-          "english-name": "Muslim in Freedom of India"
+          "english-name": "Freedom of India",
+          "children": [
+            {
+              "english-name": "Muslims in Freedom Of India"
+            }
+          ]
         },
         {
-          "english-name": "Muslim Scientist"
+          "english-name": "Science",
+          "children": [
+            {
+              "english-name": "Muslim Scientist"
+            }
+          ]
         },
         {
-          "english-name": "How Old is Islam"
-        },
-        {
-          "english-name": "Misconseption About Islam"
+          "english-name": "Information",
+          "children": [
+            {
+              "english-name": "How Old is Islam"
+            },
+            {
+              "english-name": "Misconseption About Islam"
+            }
+          ]
         }
       ]
     },
@@ -1862,22 +1883,27 @@
       "english-name": "Others",
       "children": [
         {
-          "english-name": "Apply for Govt. Documents"
-        },
-        {
-          "english-name": "Train and Flight tickets Booking"
-        },
-        {
-          "english-name": "Scholarship"
-        },
-        {
-          "english-name": "What is KYC"
-        },
-        {
-          "english-name": "Using UPI / Paytm"
-        },
-        {
-          "english-name": "Books"
+          "english-name": "Online Information",
+          "children": [
+            {
+              "english-name": "Apply for Govt. Documents"
+            },
+            {
+              "english-name": "Train and Flight tickets Booking"
+            },
+            {
+              "english-name": "Scholarship"
+            },
+            {
+              "english-name": "What is KYC"
+            },
+            {
+              "english-name": "Using UPI / Paytm"
+            },
+            {
+              "english-name": "Books"
+            }
+          ]
         }
       ]
     }
