@@ -1,18 +1,14 @@
-import {
-  ISideMenuItem,
-  IContentData,
-  sideMenuDetails,
-} from '../data/navigation-page.data';
+import { ISideMenuItem, sideMenuDetails } from '../data/navigation-page.data';
 
 export let contentData: {
-  [key: string]: IContentData;
+  [key: string]: ISideMenuItem;
 };
 
 function expand(item: ISideMenuItem) {
-  if ((!item.children || item.children.length === 0) && item.name) {
+  if ((!item.children || item.children.length === 0) && item['english-name']) {
     const link = createUrl(item);
     if (link) {
-      contentData[link as string] = item.content as IContentData;
+      contentData[link as string] = item as ISideMenuItem;
     }
     return;
   }
@@ -30,8 +26,8 @@ export function createUrl(item: ISideMenuItem): string | null {
   if (item.url) {
     return item.url;
   }
-  if (item && item.name && !item.children) {
-    return item.name.toLowerCase().replace(/ /g, '-');
+  if (item && item['english-name'] && !item.children) {
+    return item['english-name'].toLowerCase().replace(/ /g, '-');
   }
   return null;
 }

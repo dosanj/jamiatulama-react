@@ -16,7 +16,7 @@ export function SideNavItem(props: ISideNavItemProps) {
         {children.map((child) => {
           return (
             <SideNavItem
-              key={child.name}
+              key={child['english-name']}
               itemSelected={(item) => selectItem(item)}
               item={child}
               navLevel={props.navLevel + 1}
@@ -37,7 +37,7 @@ export function SideNavItem(props: ISideNavItemProps) {
         <div className={`side-nav--item ${isExpanded ? 'expanded' : null}`}>
           <div className="side-nav--item__name" onClick={toggleChildren}>
             <span style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}>
-              {props?.item?.name}
+              {props?.item?.['english-name']}
             </span>
             <span className={`side-nav--item__name__icon `}>
               {isExpanded ? <ExpandLess /> : <ExpandMore />}
@@ -58,7 +58,7 @@ export function SideNavItem(props: ISideNavItemProps) {
           }`}
         >
           <span style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}>
-            {props?.item?.name}
+            {props?.item?.['english-name']}
           </span>
         </div>
       </div>

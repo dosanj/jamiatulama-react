@@ -1,13 +1,13 @@
 {
   "categories": [
     {
-      "category": "Topics",
-      "sub-categories": [
+      "english-name": "Topics",
+      "children": [
         {
-          "sub-category": "Social Issues",
-          "topic-list": [
+          "english-name": "Social Issues",
+          "children": [
             {
-              "english-title": "Cleanliness",
+              "english-name": "Cleanliness",
               "english-heading": "Cleanliness In Muslim Society",
               "english-sub-heading": "Throwing garbage and spitting on roads. Dirty Masjid Toilet. Clean house but dirty society.",
               "videos-list": [
@@ -74,7 +74,7 @@
               ]
             },
             {
-              "english-title": "Eating Habbits",
+              "english-name": "Eating Habbits",
               "english-heading": "GOOD AND BAD EATING HABITS",
               "english-sub-heading": "Belly fat. When to eat and when to stop. Who gets the benefit of Gutkha. Eating habits of Prophet Mohammad (pbuh). Cycling",
               "videos-list": [
@@ -141,7 +141,7 @@
               ]
             },
             {
-              "english-title": "Food Waste",
+              "english-name": "Food Waste",
               "english-heading": "FOOD WASTING",
               "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
               "videos-list": [
@@ -196,7 +196,7 @@
               ]
             },
             {
-              "english-title": "Social Media",
+              "english-name": "Social Media",
               "english-heading": "USE OF SOCIAL MEDIA",
               "english-sub-heading": "Phone etiquette. Hajj/Umrah selfie. Wasting time on social media. Mobile phone in masjid. Fake WhatsApp messages.",
               "videos-list": [
@@ -251,7 +251,7 @@
               ]
             },
             {
-              "english-title": "Pornography and Adult films",
+              "english-name": "Pornography and Adult films",
               "english-heading": "PORNOGRAPHY - NUDE FILMS",
               "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
               "videos-list": [
@@ -306,7 +306,7 @@
               ]
             },
             {
-              "english-title": "Cloths Charity",
+              "english-name": "Cloths Charity",
               "english-heading": "",
               "english-sub-heading": "",
               "videos-list": [
@@ -331,7 +331,7 @@
               ]
             },
             {
-              "english-title": "Street Beggers",
+              "english-name": "Street Beggers",
               "english-heading": "STREET & MASJID BEGGERS",
               "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
               "videos-list": [
@@ -374,7 +374,7 @@
               ]
             },
             {
-              "english-title": "Corruption",
+              "english-name": "Corruption",
               "english-heading": "CORRUPTION",
               "english-sub-heading": "Generally speaking as “the abuse of entrusted power for private gain”. Corruption can be classified as grand, petty and political, depending on the amounts of money lost and the sector where it occurs.",
               "videos-list": [
@@ -405,7 +405,7 @@
               ]
             },
             {
-              "english-title": "Education",
+              "english-name": "Education",
               "english-heading": "MUSLIM IN EDUCATION",
               "english-sub-heading": "Muslim in Education",
               "videos-list": [
@@ -448,7 +448,7 @@
               ]
             },
             {
-              "english-title": "Family System in West",
+              "english-name": "Family System in West",
               "english-heading": "LIFE IN WESTERN COUNTRIES",
               "english-sub-heading": "People not speaking to Friends/Families, Kids only with mothers and no fathers,Kids without marriage, problem due to no presence of father, Men suicide, legal suicide in Switzerland. Same sex marriage",
               "videos-list": [
@@ -509,7 +509,7 @@
               ]
             },
             {
-              "english-title": "Dispute Solving",
+              "english-name": "Dispute Solving",
               "english-heading": "DARUL QAZA/ SHARIAH COURT",
               "english-sub-heading": "What is Darul Qaza? its importance in today's society and assistance to indian judiciary system. How Prophet Mohammad (pbuh) establish Darul Qaza in Madina. Also pending court cases in Indian courts",
               "videos-list": [
@@ -572,12 +572,12 @@
           ]
         },
         {
-          "sub-category": "Economical Issues",
-          "topic-list": [
+          "english-name": "Economical Issues",
+          "children": [
             {
-              "english-title": "Property Distribution",
+              "english-name": "Property Distribution",
               "english-heading": "PROPERTY DISTRIBUTION IN INDIAN MUSLIM",
-              "english-sub-heading": "What is Property distribution is Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
+              "english-sub-heading": "What is Property distribution in Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/ahMtxBxgZCY",
@@ -648,7 +648,7 @@
               ]
             },
             {
-              "english-title": "Money Lending",
+              "english-name": "Money Lending",
               "english-heading": "GUIDELINE MONEY LENDING/QARZ",
               "english-sub-heading": "Who is good person? Quran on Qarz/debt. Debt of a martyr. Tone of people while returning money. And what about person who does not return a debt",
               "videos-list": [
@@ -703,7 +703,7 @@
               ]
             },
             {
-              "english-title": "Buisiness Improvment",
+              "english-name": "Buisiness Improvment",
               "english-heading": "MUSLIM BUSINESSMEN AND WHY BUSINESS DOES NOT WORK",
               "english-sub-heading": "Why should customer come to you? Laziness on the name of Islam. Effect of politeness. why business of non-Muslims work? Incorrect concept of Destiny. Working hard. Sahaba in Indonesia",
               "videos-list": [
@@ -766,10 +766,10 @@
           ]
         },
         {
-          "sub-category": "Religious Issues",
-          "topic-list": [
+          "english-name": "Religious Issues",
+          "children": [
             {
-              "english-title": "Understanding Quran",
+              "english-name": "Understanding Quran",
               "english-heading": "NOT UNDERSTANDING QURAN",
               "english-sub-heading": "Can only ulema understand the Quran? How to understand Quran? Famous Tafseer and how Quran was compiled in a book",
               "videos-list": [
@@ -830,7 +830,7 @@
               ]
             },
             {
-              "english-title": "Seerat un Nabi",
+              "english-name": "Seerat un Nabi",
               "english-heading": "LIFE OF PROPHET MOHAMMAD (PEACE BE UPON HIM)",
               "english-sub-heading": "Life of Prophet Mohammad (peace be upon him) from his childhood to his last moment. Also First among with top 100 world personalities.",
               "videos-list": [
@@ -909,7 +909,7 @@
               ]
             },
             {
-              "english-title": "Living with Non-Muslims",
+              "english-name": "Living with Non-Muslims",
               "english-heading": "LIVING WITH NON-MUSLIMS",
               "english-sub-heading": "Non-Muslim's/minorities right in Islamic rule. showing good character with them. This much involvement is not allowed.",
               "videos-list": [
@@ -964,13 +964,13 @@
               ]
             },
             {
-              "english-title": "Missing Fajr",
+              "english-name": "Missing Fajr",
               "english-heading": "WAKE UP FOR FAJR",
               "english-sub-heading": "",
               "videos-list": []
             },
             {
-              "english-title": "Azan and its Volume",
+              "english-name": "Azan and its Volume",
               "english-heading": "INCORRECT AZAN AND SPEAKER VOLUME",
               "english-sub-heading": "Reason for Incorrect Azan, its impact, solution, speaker volume. A non-Muslim boy winning Azan Competetion.",
               "videos-list": [
@@ -1019,7 +1019,7 @@
               ]
             },
             {
-              "english-title": "Destiny and Planning",
+              "english-name": "Destiny and Planning",
               "english-heading": "DESTINY OR PLANING",
               "english-sub-heading": "Destiny Planners has been at the forefront of delivering exceptional digital assets for digital education & vertical business solutions with comprehensive focus on career planning, intelligence analysis, e-learning, & digital classrooms. With years of industry exposure, the team at Destiny Planners has partnered with the best to deliver result-oriented solutions & interactive technology blended with exceptional insight for students to excel in their career. We work with the best talent in the industry to provide business solutions with industry compliance & real-time analytics.",
               "videos-list": [
@@ -1074,7 +1074,7 @@
               ]
             },
             {
-              "english-title": "Khatme Nabuwat",
+              "english-name": "Khatme Nabuwat",
               "english-heading": "LAST PROPHET ( KHATME NUBUWAT)",
               "english-sub-heading": "",
               "videos-list": [
@@ -1091,13 +1091,13 @@
       ]
     },
     {
-      "category": "Guidelines",
-      "sub-categories": [
+      "english-name": "Guidelines",
+      "children": [
         {
-          "sub-category": "Marriage Guidelines",
-          "topic-list": [
+          "english-name": "Marriage Guidelines",
+          "children": [
             {
-              "english-title": "Marriage Age",
+              "english-name": "Marriage Age",
               "english-heading": "WHEN TO GET MARRIED",
               "english-sub-heading": "A new study suggests that people should get married between the ages of 28 and 32 if they don't want to get divorced, at least in the first five yearssss",
               "videos-list": [
@@ -1134,7 +1134,7 @@
               ]
             },
             {
-              "english-title": "Wedding Preparation",
+              "english-name": "Wedding Preparation",
               "english-heading": "MARRIAGE PREPARATION",
               "english-sub-heading": "Researchers found the \"right\" amount of time to date beforot as long as ye getting married — and it's nou'd think. A study found that waiting a bit to get married can decrease the likelihood you'll get divorced. Specifically, waiting three years or more decreases the likelihood of divorce by 50%.",
               "videos-list": [
@@ -1177,7 +1177,7 @@
               ]
             },
             {
-              "english-title": "Right Life Partner",
+              "english-name": "Right Life Partner",
               "english-heading": "FIND RIGHT LIFE PARTNER",
               "english-sub-heading": "Take a test drive. ... Look for A. Religiousness B. Good Nature C. Compatibility D. Decent Family E. Reason F. Physical and Mental Health G. Whom can you Marry?someone who is kind and loving. ...",
               "videos-list": [
@@ -1214,7 +1214,7 @@
               ]
             },
             {
-              "english-title": "Engagement",
+              "english-name": "Engagement",
               "english-heading": "ENGAGEMENT",
               "english-sub-heading": "engagement",
               "videos-list": [
@@ -1233,7 +1233,7 @@
               ]
             },
             {
-              "english-title": "Wedding Expenses",
+              "english-name": "Wedding Expenses",
               "english-heading": "MARRIAGE EXPENSES",
               "english-sub-heading": "marriage expenses",
               "videos-list": [
@@ -1252,7 +1252,7 @@
               ]
             },
             {
-              "english-title": "Dowry",
+              "english-name": "Dowry",
               "english-heading": "DOWRY",
               "english-sub-heading": "dowry",
               "videos-list": [
@@ -1283,7 +1283,7 @@
               ]
             },
             {
-              "english-title": "Post Wedding Life",
+              "english-name": "Post Wedding Life",
               "english-heading": "AFTER MARRIAGE",
               "english-sub-heading": "12 short videos. Supplication for first night. Prayer for first night. Halal Waleema. How to take bath. Staying Away from wife. 52 sexual knowledge points. Expending on wife. Good Wife. Joint family.What wife wants?Honeymoon.",
               "videos-list": [
@@ -1356,7 +1356,7 @@
               ]
             },
             {
-              "english-title": "Saas and Sasur",
+              "english-name": "Saas and Sasur",
               "english-heading": "SAAS AND SASUR",
               "english-sub-heading": "saas and sasur",
               "videos-list": [
@@ -1381,7 +1381,7 @@
               ]
             },
             {
-              "english-title": "Husband and Wife Love",
+              "english-name": "Husband and Wife Love",
               "english-heading": "HUSBAND WIFE LOVE",
               "english-sub-heading": "Expressing love, Prophet Mohammad (pbuh) and ideal husband, husband wife mistakes, 5 things to control wife, Love with husband,",
               "videos-list": [
@@ -1442,7 +1442,7 @@
               ]
             },
             {
-              "english-title": "Court Involvment",
+              "english-name": "Court Involvment",
               "english-heading": "AFTER MARRIAGE COURT CASES",
               "english-sub-heading": "You have two spouses: the one you have not divorced yet and the one you just married. ... Civil family laws treat the concept of bigamy somewhat differently; because your second marriage is illegal, it technically can not exist. You can still be prosecuted in criminal court, but you do not have to divorce to end the marriage.",
               "videos-list": [
@@ -1473,7 +1473,7 @@
               ]
             },
             {
-              "english-title": "Talaq and Khula",
+              "english-name": "Talaq and Khula",
               "english-heading": "TALAQ AND KHULA",
               "english-sub-heading": "Reasons, Does Allah like? No Love after love marriage,Effect on children, Talaq/Khula process. After Divorce",
               "videos-list": [
@@ -1528,7 +1528,7 @@
               ]
             },
             {
-              "english-title": "Husband and wife fighting",
+              "english-name": "Husband and wife fighting",
               "english-heading": "",
               "english-sub-heading": "",
               "videos-list": [
@@ -1561,10 +1561,10 @@
           ]
         },
         {
-          "sub-category": "Parenting Guidelines",
-          "topic-list": [
+          "english-name": "Parenting Guidelines",
+          "children": [
             {
-              "english-title": "Upto 5 years",
+              "english-name": "Upto 5 years",
               "english-heading": "PARENTING GUIDLINES - NEWBORN TO 5 YEARS OLD",
               "english-sub-heading": "Newborn baby - Things to do and not to do. Keeping name and circumcision, Black Threads, Aqeeqa,Massage, Birthday,When kid starts talking, cleanliness, schooling age.",
               "videos-list": [
@@ -1643,7 +1643,7 @@
               ]
             },
             {
-              "english-title": "5 to 10 years",
+              "english-name": "5 to 10 years",
               "english-heading": "PARENTING GUIDELINES - 5 TO 10 YEARS OLD",
               "english-sub-heading": "Teach Quran, Teaching thank you-sorry, Children fight, how children learn saying lie. Bad friendship, 4 psychological points , Taking children to Masjid and how to teach them pray, dont make children dependent, Islamic Sports",
               "videos-list": [
@@ -1722,7 +1722,7 @@
               ]
             },
             {
-              "english-title": "10 to 20 years",
+              "english-name": "10 to 20 years",
               "english-heading": "PARENTING GUIDELINES - 10 TO 20 YEARS OLD",
               "english-sub-heading": "Parents behavior, What after 10th/12th, 4 problems of teenagers (10-20 years), become friend of your own son/daughter,Planning for life, Monitor their internet activity, Teenager Military commander Sahabi, Puberty and how to take bath",
               "videos-list": [
@@ -1781,103 +1781,103 @@
       ]
     },
     {
-      "category": "Special Messages",
-      "sub-categories": [
+      "english-name": "Special Messages",
+      "children": [
         {
-          "sub-category": "To Ulama"
+          "english-name": "To Ulama"
         },
         {
-          "sub-category": "To Doctors"
+          "english-name": "To Doctors"
         },
         {
-          "sub-category": "To Engineers"
+          "english-name": "To Engineers"
         },
         {
-          "sub-category": "To Lawyers"
+          "english-name": "To Lawyers"
         },
         {
-          "sub-category": "To Teachers"
+          "english-name": "To Teachers"
         },
         {
-          "sub-category": "To Buisnessmen"
+          "english-name": "To Buisnessmen"
         },
         {
-          "sub-category": "To Butchers"
+          "english-name": "To Butchers"
         },
         {
-          "sub-category": "To Masjid Trustee"
+          "english-name": "To Masjid Trustee"
         }
       ]
     },
     {
-      "category": "Special Occasions",
-      "sub-categories": [
+      "english-name": "Special Occasions",
+      "children": [
         {
-          "sub-category": "Eid ul-Fitr"
+          "english-name": "Eid ul-Fitr"
         },
         {
-          "sub-category": "Eid Ul-Adha"
+          "english-name": "Eid Ul-Adha"
         },
         {
-          "sub-category": "Milad un Nabi"
+          "english-name": "Milad un Nabi"
         },
         {
-          "sub-category": "Moharram"
+          "english-name": "Moharram"
         },
         {
-          "sub-category": "Salatul Istisqa"
+          "english-name": "Salatul Istisqa"
         },
         {
-          "sub-category": "haj and Umrah"
+          "english-name": "haj and Umrah"
         },
         {
-          "sub-category": "Shabe-E-Meraj or Barat or Qadr"
+          "english-name": "Shabe-E-Meraj or Barat or Qadr"
         },
         {
-          "sub-category": "Janazah"
+          "english-name": "Janazah"
         },
         {
-          "sub-category": "Daswa Chilla Barsi"
+          "english-name": "Daswa Chilla Barsi"
         }
       ]
     },
     {
-      "category": "Islamic History",
-      "sub-categories": [
+      "english-name": "Islamic History",
+      "children": [
         {
-          "sub-category": "Muslim in Freedom of India"
+          "english-name": "Muslim in Freedom of India"
         },
         {
-          "sub-category": "Muslim Scientist"
+          "english-name": "Muslim Scientist"
         },
         {
-          "sub-category": "How Old is Islam"
+          "english-name": "How Old is Islam"
         },
         {
-          "sub-category": "Misconseption About Islam"
+          "english-name": "Misconseption About Islam"
         }
       ]
     },
     {
-      "category": "Others",
-      "sub-categories": [
+      "english-name": "Others",
+      "children": [
         {
-          "sub-category": "Apply for Govt. Documents"
+          "english-name": "Apply for Govt. Documents"
         },
         {
-          "sub-category": "Train and Flight tickets Booking"
+          "english-name": "Train and Flight tickets Booking"
         },
         {
-          "sub-category": "Scholarship"
+          "english-name": "Scholarship"
         },
         {
-          "sub-category": "What is KYC"
+          "english-name": "What is KYC"
         },
         {
-          "sub-category": "Using UPI / Paytm"
+          "english-name": "Using UPI / Paytm"
         },
         {
-          "sub-category": "Books"
+          "english-name": "Books"
         }
       ]
     }

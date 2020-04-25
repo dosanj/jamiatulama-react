@@ -14,25 +14,25 @@ collections:
     files:
       - label: 'Website Content'
         name: 'website-content'
-        file: 'content/web-content.json'
+        file: 'src/content/web-content.json'
         fields:
           - label: Main Category
-            name: categories
+            name: english-name
             widget: list
             fields:
-              - { label: Category Name, name: category, widget: string }
+              - { label: Category Name, name: english-name, widget: string }
               - label: Sub Category
-                name: sub-categories
+                name: children
                 widget: list
                 fields:
-                  - { label: Sub Category, name: sub-category, widget: string }
+                  - { label: Sub Category, name: english-name, widget: string }
                   - label: Topic List
-                    name: topic-list
+                    name: children
                     widget: list
                     fields:
                       - {
-                          label: English Title,
-                          name: english-title,
+                          label: English Name,
+                          name: english-name,
                           widget: string,
                         }
                       - {
@@ -92,7 +92,7 @@ collections:
                               widget: string,
                             }
                           - {
-                              label: English Title,
+                              label: English Name,
                               name: english,
                               widget: string,
                             }

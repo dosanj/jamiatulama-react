@@ -13,24 +13,24 @@ export function AppContent(props: IAppContentProps) {
   if (content) {
     contentData = (
       <div className="app-content" onClick={hideSideNav}>
-        <h1>{content?.heading}</h1>
-        <p>{content?.text}</p>
+        <h1>{content?.['english-heading']}</h1>
+        <p>{content?.['english-sub-heading']}</p>
         <div className="videos-list">
-          {content.videosList?.map((video) => {
+          {content['videos-list']?.map((video) => {
             return (
-              <div className="yt-video" key={video.url}>
+              <div className="yt-video" key={video?.['video-url']}>
                 <iframe
                   className="yt_players"
                   id="link1"
-                  title={video.url}
-                  src={video.url}
+                  title={video?.['video-url']}
+                  src={video?.['video-url']}
                   frameBorder="0"
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen={true}
                 ></iframe>
-                <div className="yt-video-text urduText">{video.urduText}</div>
-                <div className="yt-video-text">{video.hindiText}</div>
-                <div className="yt-video-text">{video.englishText}</div>
+                <div className="yt-video-text urduText">{video.urdu}</div>
+                <div className="yt-video-text">{video.hindi}</div>
+                <div className="yt-video-text">{video.english}</div>
               </div>
             );
           })}

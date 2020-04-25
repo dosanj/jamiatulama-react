@@ -2,11 +2,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { Header } from './components/Header';
 import { SideNav } from './components/SideNav';
 import { AppContent } from './components/AppContent';
-import {
-  sideMenuDetails,
-  ISideMenuItem,
-  IContentData,
-} from './data/navigation-page.data';
+import { sideMenuDetails, ISideMenuItem } from './data/navigation-page.data';
 import { createUrl, getContentData } from './services/utility-service';
 import { useParams, useHistory, useRouteMatch } from 'react-router-dom';
 
@@ -23,7 +19,7 @@ export function App(props: Readonly<{}>) {
   const [isMenuOpen, setIsMenuOpen] = useState(true);
   const [sideNavData, setSideNavData] = useState(sideMenuDetails);
   const [currentSelectedItem, setCurrentSelectedItem] = useState(
-    (null as unknown) as IContentData
+    (null as unknown) as ISideMenuItem
   );
   const [currentLink, setCurrentLink] = useState('');
   // Functions
@@ -71,7 +67,8 @@ export function App(props: Readonly<{}>) {
   const markItemSelected = useCallback(
     (item: ISideMenuItem, link: string | null): boolean => {
       if (!item.children || item.children.length === 0) {
-        item.selected = item.name && link ? createUrl(item) === link : false;
+        item.selected =
+          item['english-name'] && link ? createUrl(item) === link : false;
         return item.selected;
       }
       item.expand = false;
@@ -85,7 +82,7 @@ export function App(props: Readonly<{}>) {
   );
   const selectionChanged = useCallback(
     (link: string): void => {
-      sideNavData.forEach((item) => {
+      sideNavData.forEach((item: ISideMenuItem) => {
         item.expand = false;
         const selected = markItemSelected(item, link);
         item.expand = selected || item.expand;
@@ -99,7 +96,7 @@ export function App(props: Readonly<{}>) {
     setCurrentLink('/');
     selectionChanged('/');
     history.push('/');
-    setCurrentSelectedItem((null as unknown) as IContentData);
+    setCurrentSelectedItem((null as unknown) as ISideMenuItem);
   };
   useEffect(() => {
     setIsSmallDevice(checkIfSmallDevice());
