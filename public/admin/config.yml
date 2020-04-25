@@ -17,7 +17,7 @@ collections:
         file: 'src/content/web-content.json'
         fields:
           - label: Main Category
-            name: english-name
+            name: categories
             widget: list
             fields:
               - { label: Category Name, name: english-name, widget: string }
