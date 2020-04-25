@@ -2,26 +2,1882 @@
   "categories": [
     {
       "category": "Topics",
-      "sub-categories": [
+      "sub-category": [
         {
           "sub-category": "Social Issues",
           "topic-list": [
             {
-              "english-title": "Topic 1",
-              "english-heading": "Topic 1 Heading",
-              "english-sub-heading": "Topic 1 Sub-Heading",
-              "videos-list": [
+              "english-title": "Cleanliness",
+              "english-heading": "Cleanliness In Muslim Society",
+              "english-sub-heading": "Throwing garbage and spitting on roads. Dirty Masjid Toilet. Clean house but dirty society.",
+              "video-list": [
                 {
-                  "video-url": "https://www.youtube.com/watch?v=0VC5zFF7PFA",
-                  "english": "Koi Ap Se Pooche Ap ki Tankhwa (Salary) Kitni Hai Tu Kia Jawab Den || Mufti Tariq Masood"
+                  "video-url": "https://youtube.com/embed/lue4Em1AKfY",
+                  "english": "Kids teaching not to throw garbage on road",
+                  "hindi": "सड़क पर कचरा नहीं फेंकना सिखा रहे बच्चे",
+                  "urdu": "بچے کچرے کو سڑک پر نہ پھینکنا سکھاتے ہیں"
                 },
                 {
-                  "video-url": "https://www.youtube.com/watch?v=ptIpy8SWn_o",
-                  "english": "Taraweeh At Home "
+                  "video-url": "https://youtube.com/embed/LLWxZymPBYo",
+                  "english": "if you know that Qiyamat is coming tomorrow, plan a tree today",
+                  "hindi": "अगर आप जानते हैं कि कल क़यामत आ रही है, तो आज एक पेड़ लगाएं",
+                  "urdu": "اگر آپ جانتے ہیں کہ قیامت کل آنے والی ہے تو آج ہی ایک درخت لگایں بنائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/aLaLbNm3W34",
+                  "english": "a funny video of spitting on road",
+                  "hindi": "सड़क पर थूकने का एक मज़ेदार वीडियो",
+                  "urdu": "سڑک پر تھوکنے کی ایک مزاحیہ ویڈیو"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/iNRavFdKC8U",
+                  "english": "is corporation responsible for dirty Muslim societies?",
+                  "hindi": "क्या गंदे मुस्लिम मोहल्लों के लिए कारपोरेशन जिम्मेदार है?",
+                  "urdu": "کیا گندے مسلم معاشروں کے لئے کارپوریشن ذمہ دار ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/XT9aDTC1aFY",
+                  "english": "keep on watching the video and count the total loss",
+                  "hindi": "वीडियो को देखते रहें और कुल नुकसान को गिनें",
+                  "urdu": "ویڈیو دیکھنا جاری رکھیں اور کل نقصان گنیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/fsdGsUOKWu4",
+                  "english": "how garbage starts collects on road?",
+                  "hindi": "सड़क पर कचरा कैसे जमा होना शुरू होता है?",
+                  "urdu": "سڑک پر کچرا جمع ہونا کس طرح شروع ہوتا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/2fs0IUQlzbw",
+                  "english": "few young people cleaning Masjid - Pune Maharashtra",
+                  "hindi": "मस्जिद की सफाई करते कुछ नौजवान - पूना महाराष्ट्र",
+                  "urdu": "مسجد کی صفائی کرنے والے کچھ نوجوان - پونہ مہاراشٹر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Huj1s7fRBB4",
+                  "english": "Foreign tablighi jamat and indian dirty wuzu khana and toilet",
+                  "hindi": "बहार मुल्क की तब्लीगी जमात और भारतीय गंदे वुज़ू खान और टॉयलेट",
+                  "urdu": "غیر ملکی تبلیغی جماعت اور ہندوستانی گندے وضو خانہ اور ٹوائلٹ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/CRtVOE3zolw",
+                  "english": "cleanliness in Europe and in our society",
+                  "hindi": "यूरोप और हमारे समाज में स्वच्छता",
+                  "urdu": "یورپ اور ہمارے معاشرے میں صفائی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/u3-uzMk90G8",
+                  "english": "House and cloth clean but society dirty",
+                  "hindi": "घर और कपड़ा साफ लेकिन समाज गंदा",
+                  "urdu": "گھر اور کپڑا صاف لیکن معاشرے گندا"
+                }
+              ]
+            },
+            {
+              "english-title": "Eating Habbits",
+              "english-heading": "GOOD AND BAD EATING HABITS",
+              "english-sub-heading": "Belly fat. When to eat and when to stop. Who gets the benefit of Gutkha. Eating habits of Prophet Mohammad (pbuh). Cycling",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/E4xQmyKN_Z0",
+                  "english": "Prophet Mohammed put his finger in one man's tummy",
+                  "hindi": "पैगंबर मोहम्मद ने एक आदमी के तोंद में अपनी उंगली डाल दी",
+                  "urdu": "حضرت محمد صلی اللہ علیہ وسلم نے ایک شخص کے توند میں انگلی ڈالی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/18vN6X912os",
+                  "english": "Gutkha- you are benefiting companies by spoiling your heath and future of your wife and children. you know better gutkha benefits",
+                  "hindi": "गुटखा - आप अपनी सेहत और बीवी बच्चों के भविष्य ख़राब करके गुटखा कम्पनी का फ़ायदा कर रहे हो. गुटखा के फायदे तो आप जानते हो",
+                  "urdu": "گٹکے - آپ اپنی صحت اور اپنی بیوی اور بچوں کے مستقبل کو خراب کرکے کمپنیوں کو فائدہ دے رہے ہیں. آپ گٹکے کے بہتر فوائد جانتے ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/qu07R5HbNqE",
+                  "english": "Obesity is reason for all deceases",
+                  "hindi": "मोटापा सभी बीमारी की वजह है",
+                  "urdu": "موٹاپا ہر طرح کی بیماری کا سبب ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/GKni72rRKow",
+                  "english": "Eating lifestyle of Prophet Mohammad (pbuh) - Lecture in English",
+                  "hindi": "पैगंबर मोहम्मद की खाने की ज़िन्दगी - अंग्रेजी में बयान",
+                  "urdu": "حضرت محمد مصطفی صلی اللہ علیہ وسلم کا کھانے کا طرز زندگی۔ انگریزی میں لیکچر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/0kPfBb-jGAw",
+                  "english": "Many suggestions on healthy life style and eating habits",
+                  "hindi": "सेहत मंद ज़िन्दगी और खाने के बारे में बहोत सारे मशवरे",
+                  "urdu": "صحت مند طرز زندگی اور کھانے کی عادات سے متعلق بہت سارے مشورے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/gQ-oKGKb9v0",
+                  "english": "Pepsi and Coca cola",
+                  "hindi": "पेप्सी और कोका कोला",
+                  "urdu": "پیپسی اور کوکا کولا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/lz71IL6ZUxg",
+                  "english": "religious people are also obese",
+                  "hindi": "दीनदारा लोग भी मोठे होते हैं",
+                  "urdu": "دیندار لوگ بھی موٹے ہوتے ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/I9woF0Ry5A8",
+                  "english": "when to eat and when to stop eating?",
+                  "hindi": "कब खाना है और कब खाना बंद करना है?",
+                  "urdu": "کب کھانا ہے اور کب کھانا بند کرنا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/GOrxCTajtUs",
+                  "english": "Cycling to office/work",
+                  "hindi": "ऑफिस / काम के लिए साइकिल चलाना",
+                  "urdu": "دفتر / کام پر سائیکلنگ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/vdmenPb41qw",
+                  "english": "Islam and Gym",
+                  "hindi": "اسلام اور جم",
+                  "urdu": "इस्लाम और जिम,"
+                }
+              ]
+            },
+            {
+              "english-title": "Food Waste",
+              "english-heading": "FOOD WASTING",
+              "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/mTYFnB1T2qU",
+                  "english": "People waste food even in buffet system",
+                  "hindi": "लोग बुफे सिस्टम में भी खाना बर्बाद करते हैं",
+                  "urdu": "لوگ بوفے سسٹم میں بھی کھانا ضائع کرتے ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/5II0d0B6p4s",
+                  "english": "A man buys left over food from restaurant and gives to needy",
+                  "hindi": "एक आदमी होटल से बचा हवा खाना खरीदता है और जरूरतमंदों को देता है",
+                  "urdu": "ایک شخص ہوٹل سے بچا ہوا کھانا خریدتا ہے اور ضرورت مندوں کو دیتا ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Cns3xYkjux8",
+                  "english": "Short documentary to teach children not to waste good",
+                  "hindi": "बच्चों को खाना नहीं फेकना है ये सिखाने के बारे में एक छोटी फिल्म",
+                  "urdu": "بچوں کو کھانا نہ پھیکنے کے بارے میں سکھاتے ہوے ایک چوٹی فلم"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xwdlTrP-mno",
+                  "english": "food waste in ramzan",
+                  "hindi": "रमजान में खाने की बर्बादी",
+                  "urdu": "رمضان میں کھانا ضائع کرنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/8Qbl1UJWNQQ",
+                  "english": "Food waste in india",
+                  "hindi": "इंडिया में खाने की बर्बादी",
+                  "urdu": "ہندوستان میں کھانے کی بربادی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/TKRN3toGpsE",
+                  "english": "Roti Bank - Aurangabad Maharashtra India",
+                  "hindi": "रोटी बैंक - औरंगाबाद महाराष्ट्र भारत",
+                  "urdu": "روٹی بینک۔ اورنگ آباد مہاراشٹر انڈیا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/AbgnjpdFiTs",
+                  "english": "Wasting water while doing ablution",
+                  "hindi": "वुज़ू करते हुए पानी बर्बाद करना",
+                  "urdu": "وضو کرتے وقت پانی ضائع کرنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/rnLZ79F38wE",
+                  "english": "the hungriest place on earth",
+                  "hindi": "ज़मीन पर सब से ज़्यदा भूकी जगह",
+                  "urdu": "زمین پر سب سے زیدہ بھوکا مقام"
+                }
+              ]
+            },
+            {
+              "english-title": "Social Media",
+              "english-heading": "USE OF SOCIAL MEDIA",
+              "english-sub-heading": "Phone etiquette. Hajj/Umrah selfie. Wasting time on social media. Mobile phone in masjid. Fake WhatsApp messages.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/8ZF3Wa07r5A",
+                  "english": "Maulana Tariq Jameel annoyed with phone",
+                  "hindi": "मौलाना तारिक़ जमील फ़ोन के सताए हुवे",
+                  "urdu": "مولاانا طارق جمیل فون کے ستاہے ہوا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/dnIUs5nRx7o",
+                  "english": "Makkah Madina Selfi point",
+                  "hindi": "मक्का मदीना सेल्फी पॉइंट",
+                  "urdu": "مکہ مدینہ سیلفی پوائنٹ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/3Z7Tlxsb0KI",
+                  "english": "Waste of time on social media",
+                  "hindi": "सोशल मीडिया पर समय की बर्बादी",
+                  "urdu": "سوشل میڈیا پر وقت ضائع کرنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/TeN0nuFgJHk",
+                  "english": "Etiquette of mobile phone in masjid",
+                  "hindi": "मस्जिद में मोबाइल फोन का आदाब",
+                  "urdu": "مسجد میں موبائل فون کے آداب"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/9NB_ebkvjuo",
+                  "english": "Fake messages on WhatsApp",
+                  "hindi": "व्हाट्सएप पर फेक मैसेजेस",
+                  "urdu": "واٹس ایپ پر جھوٹھے پیغامات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/hPE9WSUnpuo",
+                  "english": "5 years wasted in social media",
+                  "hindi": "5 سال سوشل میڈیا میں برباد ہوئے",
+                  "urdu": "सोशल मीडिया में 5 साल बर्बाद"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/iRZq5XWdWSA",
+                  "english": "Fake messages took lives of human being",
+                  "hindi": "फेक/झूठे मेस्सगेस ने इंसान की जान ले ली",
+                  "urdu": "جھوٹھے وہاتساپپ پیغامات نے انسان کی جان لے لی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/7ZgoaIAHVvQ",
+                  "english": "Benefits of social media",
+                  "hindi": "सोशल मीडिया के फायदे",
+                  "urdu": "سوشل میڈیا کے فوائد"
+                }
+              ]
+            },
+            {
+              "english-title": "Pornography and Adult films",
+              "english-heading": "PORNOGRAPHY - NUDE FILMS",
+              "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/Ebn2vvqElDM",
+                  "english": "Side effects of Masturbation - By a doctor",
+                  "hindi": "मुश्त ज़नी (अपने हाथ से पेशाब की जगह से मनि निकालना )के साइड इफेक्ट्स - एक डॉक्टर द्वारा",
+                  "urdu": "مشت زنی کے مضر اثرات - ایک ڈاکٹر کے ذریعہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/mt4MeYFGCzo",
+                  "english": "Porn - the reality - By Peer Zulfiqar",
+                  "hindi": "पोर्न - वास्तविहकीकत कता - पीर जुल्फिकार",
+                  "urdu": "فحش - حقیقت - پیر ذوالفقار کے ذریعہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/8MTZ4btuURw",
+                  "english": "How porn destroys marriage?",
+                  "hindi": "शादी को कैसे बर्बाद करता है पोर्न?",
+                  "urdu": "کس طرح فحش فلمیں شادی کو تباہ کرتی ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/DQBATuqKp9A",
+                  "english": "19 Effects of Masturbation",
+                  "hindi": "अपने हाथ से पेशाब की जगह से मानी निकालना के १९ नुकसान",
+                  "urdu": "مشت زنی- اپنے ہاتھ سے پیشاب کی جگہ سے منی نکلنا - کے 19 اثرات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/gvsPI2X_reA",
+                  "english": "all you see is fake. biggest money industry",
+                  "hindi": "आप सभी देखें नकली है। सबसे बड़ा पैसा उद्योग",
+                  "urdu": "آپ جو بھی دیکھ رہے ہیں وہ سب نقلی ہے۔ سب سے بڑی پیسا دینے والی صنعت"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/yeDAC422Cks",
+                  "english": "How to stop porn addiction?",
+                  "hindi": "पोर्न की लत को कैसे रोकें?",
+                  "urdu": "فحش لت کو کیسے روکا جائے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/wVBPvrg7e9s",
+                  "english": "is porn real?",
+                  "hindi": "क्या पोर्न असली है?",
+                  "urdu": "کیا فحش فلمیں اصلی ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/QgJeYifYL1A",
+                  "english": "How Porn Destroys Your Brain",
+                  "hindi": "कैसे पोर्न आपके दिमाग को नष्ट कर देता है",
+                  "urdu": "کس طرح فحش آپ کے دماغ کو ختم کرتی ہے"
+                }
+              ]
+            },
+            {
+              "english-title": "Cloths Charity",
+              "english-heading": "",
+              "english-sub-heading": "",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/-6UaCdGT1mI",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xwyChsFjsBw",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/k2YvzlgoVp0",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "english-title": "Street Beggers",
+              "english-heading": "STREET & MASJID BEGGERS",
+              "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/4CQFBRrWArE",
+                  "english": "Beggars in Dubai",
+                  "hindi": "दुबई में भिखारी",
+                  "urdu": "دبئی میں بھکاری"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/hRA8qjion4g",
+                  "english": "Giving money to professional beggars",
+                  "hindi": "पेशेवर भिखारियों को पैसे देते हैं",
+                  "urdu": "پیشہ ور بھکاریوں کو پیسے دینا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/gRtsfX4k9VY",
+                  "english": "Help street begger not with money",
+                  "hindi": "सड़क पर के मांगने वालों को पैसे के अलावा मदद करें",
+                  "urdu": "سڑکوں پر کے مانگنے والوں کو پیسے کے علاوہ مدد کریں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/I_-SP4kCNVo",
+                  "english": "Fake street beggar caught red handed",
+                  "hindi": "नकली सड़क भिखारी को रंगे हाथ पकड़ा",
+                  "urdu": "جھوٹھے سڈاکوں کے بھکارو کو رنگے ہاتھ پکڑا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/MDgPMnacals",
+                  "english": "A beggar who is richer than you",
+                  "hindi": "एक भिखारी जो आपसे ज्यादा अमीर है",
+                  "urdu": "ایک بھکاری جو آپ سے زیادہ امیر ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/qmjdQ236Dus",
+                  "english": "Doing charity is Haram in this case?",
+                  "hindi": "इस मामले में सदक़ा करना हराम है",
+                  "urdu": "اس معاملے میں صدقہ کرنا حرام ہے"
+                }
+              ]
+            },
+            {
+              "english-title": "Corruption",
+              "english-heading": "CORRUPTION",
+              "english-sub-heading": "Generally speaking as “the abuse of entrusted power for private gain”. Corruption can be classified as grand, petty and political, depending on the amounts of money lost and the sector where it occurs.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/QXwZLdQG3nw",
+                  "english": "Population or corruption?",
+                  "hindi": "आबादी या करप्शन?",
+                  "urdu": "ابادی یا کرپشن؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/psDT3YCV-Lo",
+                  "english": "Why china had a abolish one child policy?",
+                  "hindi": "चीन को एक बच्चे की पॉलिसी ख़तम क्यूं करनी पड़ी?",
+                  "urdu": "چین کو ایک بچے کی پالیسی ختم کیوں کرنی پڑی؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/15wN2lwGYN4",
+                  "english": "World wealth/money is only few people's hand",
+                  "hindi": "दुनिया का पैसा सिर्फ चंद लोगों के हाथों में है।",
+                  "urdu": "دنیا کا پیسہ اور وسائل صرف چند لوگوں کے ہاتھوں میں ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Getvca8shZ8",
+                  "english": "illegally taking someone's money",
+                  "hindi": "किसी का माल ना हक़ खाना",
+                  "urdu": "کسی کا مال نہ حق کھانا"
+                }
+              ]
+            },
+            {
+              "english-title": "Education",
+              "english-heading": "MUSLIM IN EDUCATION",
+              "english-sub-heading": "Muslim in Education",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/phBN9b-kexU",
+                  "english": "sachhar committee report",
+                  "hindi": "सच्चर कमेटी की रिपोर्ट",
+                  "urdu": "سچر کمیٹی کی رپورٹ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/nKD9O4eFIig",
+                  "english": "How many Indian Muslim in government jobs?",
+                  "hindi": "कितने इंडियन मुस्लिम गवर्नमेंट नौकरी करते हैं?",
+                  "urdu": "حکومتی نوکریوں میں ہندوستان کے مسلمانوں کا تناسب کتنا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/a_u1FmXc32c",
+                  "english": "Five reasons of Muslim backwardness in India",
+                  "hindi": "हिन्दुस्तान के मुसलमानों की बद हाली की पांच वजह",
+                  "urdu": "ہندوستان کے مسلمانوں کی بدحالی کے پانچ وجوہات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/iG6e0JUWuNE",
+                  "english": "Statistics data on indian muslim education",
+                  "hindi": "हिन्दुस्तान में मुस्लिम एजुकेशन सर्वे",
+                  "urdu": "ہندوستان مسلمانوں کے تعلیمی معدوم شمارہ کے نمبر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/mt75TIa1ul0",
+                  "english": "why muslims are not in science today?",
+                  "hindi": "आज साइंस में मुसलमान क्यों नहीं हैं?",
+                  "urdu": "آج مسلمان سائنس میں کیوں نہیں ہیں؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Tsqu2KBu6SU",
+                  "english": "When the Muslim will study?",
+                  "hindi": "मुसलमान कब पढ़ेगा?",
+                  "urdu": "مسلمان کب پڑھے گا؟"
+                }
+              ]
+            },
+            {
+              "english-title": "Family System in West",
+              "english-heading": "LIFE IN WESTERN COUNTRIES",
+              "english-sub-heading": "People not speaking to Friends/Families, Kids only with mothers and no fathers,Kids without marriage, problem due to no presence of father, Men suicide, legal suicide in Switzerland. Same sex marriage",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/qFOvxG5sXpM",
+                  "english": "people have people not speaking to their families/friends.Call center & minister for lonely people ( thesilverline.org.uk)",
+                  "hindi": "लोगों का अपने परिवार / दोस्तों से बात नहीं करना । अकेले लोगों के लिए कॉल सेंटर और मंत्री (thesilverline.org.uk)",
+                  "urdu": "لوگ اپنے رشتے داروں اور دوستوں سے بات نہ کرتے ہوے. اکیلے لوگوں کے لئے کال سینٹر اور وزیر thesilverline.org.uk"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/o1xf78EltKM",
+                  "english": "Life of a single Mom (without father).",
+                  "hindi": "अकेली माँ का जीवन (पिता के बिना)",
+                  "urdu": "اکیلی ماں کی زندگی - بغیر باپ کے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/hBR0_VIuf-A",
+                  "english": "Out of wedlock (without marriage) kids",
+                  "hindi": "शादी के बिना के बच्चे",
+                  "urdu": "شادی کے بغیر بچے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/1y6A8BnKbCA",
+                  "english": "The Problem of Fatherlessness",
+                  "hindi": "बग़ैर बाप के रहने के मसाएल",
+                  "urdu": "بغیر باپ کے رہنے کے مسایل"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Q8G1IsoSDJk",
+                  "english": "6000 Men commit suicide every year in UK",
+                  "hindi": "ब्रिटेन में हर साल 6000 पुरुष आत्महत्या करते हैं",
+                  "urdu": "برطانیہ میں ہر سال 6000 مرد خودکشی کرتے ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/RLDNlME5pYo",
+                  "english": "Legal suicide (euthanasia) around the world. Switzerland - suicide center",
+                  "hindi": "दुनिया भर में कानूनी आत्महत्या (इच्छामृत्यु)। स्विट्जरलैंड - आत्महत्या केंद्र",
+                  "urdu": "پوری دنیا میں قانونی خود کشی ۔ سوئٹزرلینڈ - خودکش مرکز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/X44sG4Bfp2Y",
+                  "english": "homosexual marriage around the world",
+                  "hindi": "दुनिया भर में समलैंगिक विवाह",
+                  "urdu": "ہم جنس پرست دنیا بھر میں شادی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/EnUqDjCqg0A",
+                  "english": "Mental problem in same sex marriage",
+                  "hindi": "समान सेक्स मैरिज में दिमागी प्रॉब्लम",
+                  "urdu": "ہم جنسی میں ذہنی بیماریاں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/S50HD8plkVI",
+                  "english": "When there's no pudicity",
+                  "hindi": "जब गैरत मर जाती है।",
+                  "urdu": "جب غیرت مر جاتی ہے"
+                }
+              ]
+            },
+            {
+              "english-title": "Dispute Solving",
+              "english-heading": "DARUL QAZA/ SHARIAH COURT",
+              "english-sub-heading": "What is Darul Qaza? its importance in today's society and assistance to indian judiciary system. How Prophet Mohammad (pbuh) establish Darul Qaza in Madina. Also pending court cases in Indian courts",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/FwHa5INAi4s",
+                  "english": "What is Darul Qaza",
+                  "hindi": "दारुल क़ज़ा क्या है",
+                  "urdu": "دارالقضا کیا ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/0hJddnvyeqE",
+                  "english": "Darul Qaza and court system?",
+                  "hindi": "दार अलक़ज़ा और कोर्ट सिस्टम",
+                  "urdu": "دار القضا اورکورٹ سسٹم"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/NztfcknqHgk",
+                  "english": "is shariah court to bring islamic state in India?",
+                  "hindi": "क्या दारुल क़ज़ा भारत में इस्लामिक स्टेट लाना चाहता है?",
+                  "urdu": "کیا دار القضا بھارت میں اسلامک اسٹیٹ لانا چاہتا ہو ؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/0Lc_HjTpB0A",
+                  "english": "what is responsibility of shaher Qazi?",
+                  "hindi": "शायर काजी की जिम्मेदारी क्या है?",
+                  "urdu": "شہر قاضی کی ذمہ داری کیا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/WRfeReykaK0",
+                  "english": "overall Report of Darul Qaza in city Nanded",
+                  "hindi": "शहर नांदेड़ में दारुल क़ज़ा की रिपोर्ट",
+                  "urdu": "شہر ناندیڑ میں دارالقضا کی مجموعی رپورٹ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/RT6dpxydc9g",
+                  "english": "Benefit of Darul Qaza to Indian judiciary system",
+                  "hindi": "दारुल क़ज़ा से भारत के क़ानूनी सिस्टम को फ़ायदा",
+                  "urdu": "ہندوستانی عدلیہ کے نظام کو دارالقضا سے فائدہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/GFIO-hHhk7o",
+                  "english": "Prophet Mohammad established Darul Qaza and created many other Qazi. Non muslim brought their cases.",
+                  "hindi": "पैगंबर मोहम्मद ने दारुल कजा की स्थापना की और कई अन्य काजी बनाए। गैर मुस्लिमों ने अपने मामले लाए।",
+                  "urdu": "حضرت محمد نے دارالقضاء قائم کیا اور بہت سارے قاضی پیدا کیے۔ غیر مسلم اپنے مقدمات لائے۔"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/qw2_Hn9GrCU",
+                  "english": "What is Darul Qaza - by an Advocate",
+                  "hindi": "दारुल क़ज़ा क्या है - एक वकील के ज़रिये",
+                  "urdu": "دارالقضا کیا ہے - ایک وکیل کے ذریعہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/wCO26NFxlzw",
+                  "english": "Total pending court cases in India",
+                  "hindi": "इंडिया में कितने कोर्ट कैसे अभी भी पेंडिंग है",
+                  "urdu": "ہندوستان عدالت میں پینڈنگ کورٹ کیس"
                 }
               ]
             }
           ]
+        },
+        {
+          "sub-category": "Economical Issues",
+          "topic-list": [
+            {
+              "english-title": "Property Distribution",
+              "english-heading": "PROPERTY DISTRIBUTION IN INDIAN MUSLIM",
+              "english-sub-heading": "What is Property distribution is Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/ahMtxBxgZCY",
+                  "english": "Islamic scholar asked question about property distribution before accepting gift?",
+                  "hindi": "एक अलीम से तोहफा क़ुबूल करने के पहले प्रॉपर्टी तक़सीम का पुछा?",
+                  "urdu": "ایک عالم نے تحفہ قبول کرنے کے پہلے وراثت کی تقسیم کا پوچھا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/h79UTzBuSjQ",
+                  "english": "Not Giving share in property is Haram and sin is equal to robbery",
+                  "hindi": "जायदाद में हिस्सेदारी नहीं देना हराम है और गुनाह चोरी /डकैती के बराबर है",
+                  "urdu": "جائیداد میں حصہ نہ دینا حرام ہے اور گناہچوری ڈکیتی کے برابر ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/fmUN2g2DDCg",
+                  "english": "division of property before death",
+                  "hindi": "मरने के पहले प्रॉपर्टी तक़सीम करना",
+                  "urdu": "مرنے کے پہلے پراپرٹی تقسیم کرنا کیسا ہے ؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Pc_IZkFXk48",
+                  "english": "is property share of a woman not valid after doing her marriage expenses/dowry?",
+                  "hindi": "क्या लड़की की शादी करने से या जहेज़ देने से उसका प्रॉपर्टी में हिस्सा नहीं रहता?",
+                  "urdu": "کیا لڑکی کی شادی کرا دینے سے اسکا پراپرٹی میں حصّہ نہیں رہتا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Hgp3gPmF5Yc",
+                  "english": "Fight after death of parent.",
+                  "hindi": "माँ बाप के मरने के बाद बच्चों में झगडे",
+                  "urdu": "والدین کی موت کے بعد بچوں میں جھگڑے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/zSb5YoqHQNA",
+                  "english": "some knowledge about property distribution",
+                  "hindi": "जायदाद की तक़सीम के बारे में कुछ मालूमात",
+                  "urdu": "جائیداد کی تقسیم کے بارے میں کچھ معلومات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/UDZYGEBuiK4",
+                  "english": "some knowledge about property distribution",
+                  "hindi": "जायदाद की तक़सीम के बारे में कुछ मालूमात",
+                  "urdu": "جائیداد کی تقسیم کے بارے میں کچھ معلومات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/kRDK47zQOgc",
+                  "english": "4 verses of Quran on which many books have been written",
+                  "hindi": "कुरान की 4 आयतें जिन पर कई किताबें लिखी गई हैं",
+                  "urdu": "قرآن مجید کی 4 آیات جس پر بہت سی کتابیں لکھی گئیں ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/sgXlcm--kMA",
+                  "english": "Going to hajj/umrah and not giving property share to sisters",
+                  "hindi": "हज / उमर में जाना और बहनों को प्रॉपर्टी का हिस्सा नहीं देना",
+                  "urdu": "حج / عمرہ میں جانا اور بہنوں کو جائیداد کا حصہ نہیں دینا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/WfWtpjzdH-U",
+                  "english": "Improve your behavior with parents before asking for share in property",
+                  "hindi": "जायदाद में हिस्सेदारी मांगने से पहले माता-पिता के साथ अपने व्यवबर्ताव हार में सुधार करें",
+                  "urdu": "جائیداد میں حصہ طلب کرنے سے پہلے والدین کے ساتھ اپنے سلوک کو بہتر بنائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/6sfFfhtzFgE",
+                  "english": "Don't be a Muslim who think Islam is only namaz",
+                  "hindi": "ऐसा मुस्लिम मत बनो जो सिर्फ नमाज़ पढ़ता हो।",
+                  "urdu": "ایسا مسلم مت بنو جو صرف نماز پڑھتا ہو"
+                }
+              ]
+            },
+            {
+              "english-title": "Money Lending",
+              "english-heading": "GUIDELINE MONEY LENDING/QARZ",
+              "english-sub-heading": "Who is good person? Quran on Qarz/debt. Debt of a martyr. Tone of people while returning money. And what about person who does not return a debt",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/5gd_E5TT-LI",
+                  "english": "sign of good person is who takes debt and returns on time.",
+                  "hindi": "अच्छे आदमी की पहचान वो है जो क़र्ज़ लेता है और वक़्त पर वापस करता है",
+                  "urdu": "اچھے شخص کی علامت وہ ہے جو قرض لیتا ہے اور وقت پر واپسی کرتا ہے۔"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/tNkBzxGvHgI",
+                  "english": "most lengthy Ayat in Quran about how to give and take money (Qarz)",
+                  "hindi": "पैसे देने और लेने के बारे में कुरान में सबसे लम्बी आयत (क़र्ज़)",
+                  "urdu": "قرآن مجید میں سب سے طویل آیت رقم دینے اور لینے کے طریقہ کے بارے میں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/-kfpKDQqSmQ",
+                  "english": "Debt of a martyr is also not forgiven",
+                  "hindi": "एक शहीद का कर्ज भी माफ नहीं होता",
+                  "urdu": "شہید کا قرض بھی معاف نہیں ہوتا ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/0UZCHh1yQ0U",
+                  "english": "people change tone at the time of returning the debt.",
+                  "hindi": "लोग कर्ज वापस करते समय टोन बदल देते हैं।",
+                  "urdu": "قرض واپس کرنے کے وقت لوگوں کا لہجہ بدل جاتا ہے۔"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xOrgk5xxAXk",
+                  "english": "person who can return debt but doesn't return is oppressor",
+                  "hindi": "वह व्यक्ति क़र्ज़ वापस कर सकता है लेकिन वापस नहीं आता है वह ज़ालिम है",
+                  "urdu": "وہ شخص جو قرض واپس کرسکتا ہے لیکن واپس نہیں کرتا ہے وہ ظالم ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/HSAs7yYdIgI",
+                  "english": "how to safe side yourself before giving debt, Surah Al Baqarah , ayat 282",
+                  "hindi": "कर्ज देने से पहले खुद को कैसे सुरक्षित रखें, सूरह अल बक़रह, आयत 282",
+                  "urdu": "قرض دینے سے پہلے اپنے آپ کو کس طرح محفوظ رکھنا ہے ، سور البقر. ، آیت نمبر 282"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xgSqtlui0H0",
+                  "english": "to whom i returned debt that i will return now",
+                  "hindi": "किसका क़र्ज़ मैं ने वापस किया के अब करूंगा",
+                  "urdu": "میں نے کسکا قرض واپس کیا تھا کہ اب کرونگا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Y_A1SG3Fijg",
+                  "english": "the one who does not return debt has to give his good deeds on day of judgment",
+                  "hindi": "जो कर्ज नहीं लौटाता है उसे क़यामत के दिन अपने नेक आमाल देना होता है",
+                  "urdu": "جو قرض واپس نہیں کرتا ہے اسے قیامت کے دن اپنی نیکیاں دینا پڑتی ہیں"
+                }
+              ]
+            },
+            {
+              "english-title": "Buisiness Improvment",
+              "english-heading": "MUSLIM BUSINESSMEN AND WHY BUSINESS DOES NOT WORK",
+              "english-sub-heading": "Why should customer come to you? Laziness on the name of Islam. Effect of politeness. why business of non-Muslims work? Incorrect concept of Destiny. Working hard. Sahaba in Indonesia",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/UaVv8swrkJc",
+                  "english": "Why customer should come to your shop and no go to other shops?",
+                  "hindi": "ग्राहक आपकी दुकान पर क्यों आना चाहिए और अन्य दुकानों पर क्यों नहीं जाना चाहिए?",
+                  "urdu": "کسٹمر کو آپ کی دکان پر آنا چاہئے اور دوسری دکانوں میں کیوں نہیں جانا چاہئے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_iosjWAhJwQ",
+                  "english": "Lazy businessmen",
+                  "hindi": "सुस्त व्यापारी",
+                  "urdu": "سست تاجر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/LwD2IA0GSWY",
+                  "english": "Business and doing effort for deen",
+                  "hindi": "तिजारत और दिन की मेहनत",
+                  "urdu": "تجارت اور دین کی محنت"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/5E-zoxqqnU0",
+                  "english": "softness in tone in business",
+                  "hindi": "کاروبار میں زبان میں نرمی",
+                  "urdu": "کاروبار میں زبان میں نرمی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/bgz2uh5hLMU",
+                  "english": "how to treat angry customer",
+                  "hindi": "कारोबार में गुस्सा वाले कस्टमर से कैसे बर्ताव करें",
+                  "urdu": "کاروبار میں غصّے والے کسٹمر سے کیسے برتاو کریں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/FxVh-md3N_I",
+                  "english": "why business of Jews runs and business of Muslim doesn't run",
+                  "hindi": "क्यों यहूदी और गैर मुस्लिम का कारोबार चलता है और मुस्लिमों का कारोबार नहीं चलता है",
+                  "urdu": "یہو کا کاروبار کیوں چلتا ہے اور مسلمان کا کاروبار کیوں نہیں چلتا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/1QtxHKfHhAU",
+                  "english": "wrong belief/tawakkal on luck/destiny and business",
+                  "hindi": "तकदीर और तवक्कल का गलत यकीन और बिज़नेस",
+                  "urdu": "تقدیر اور توکل پر غلط یقین اور بزنس"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/bPsXZiiRHOQ",
+                  "english": "you need to spend 16-18 hours in the beginning",
+                  "hindi": "आपको शुरुआत में 16-18 घंटे बिताकाम करने की जरूरत है",
+                  "urdu": "آپ کو شروع میں 16-18 گھنٹے کام کی ضرورت ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/pm5z4jO5xRQ",
+                  "english": "Sahaba in Indonesia",
+                  "hindi": "इंडोनेशिया में सहाबा",
+                  "urdu": "انڈونیشیا میں صحابہ"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sub-category": "Religious Issues",
+          "topic-list": [
+            {
+              "english-title": "Understanding Quran",
+              "english-heading": "NOT UNDERSTANDING QURAN",
+              "english-sub-heading": "Can only ulema understand the Quran? How to understand Quran? Famous Tafseer and how Quran was compiled in a book",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/-HWIfBKtVBU",
+                  "english": "Can only ulema understand Duran?",
+                  "hindi": "क्या सिर्फ उलेमा ही कुरान को समझ सकते हैं?",
+                  "urdu": "کیا صرف علمائے کرام قرآن کو سمجھ سکتے ہیں؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/GRBAdf_rDbM",
+                  "english": "person spends 50-60 years of his life and he does not know meaning of surah alif laam mim and small surah",
+                  "hindi": "आदमी अपने ज़िन्दगी के 50-60 वर्ष गुज़ारता है लेकिन वह सुराह अलिफ लाम मीम और छोटे सुरा का मतलब नहीं जानता है",
+                  "urdu": "پچاس ساٹھ سال گزر جاتے ہیں لیکن سورہ الم ترا اور چھوٹے سورتوں کے بھی معنی نہیں معلوم"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/kZUXl9JbdVw",
+                  "english": "How to understand quran?",
+                  "hindi": "कुरान को कैसे समझें?",
+                  "urdu": "قرآن کو کیسے سمجھا جائے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/G7M_GS9bbng",
+                  "english": "The Best Tafseer",
+                  "hindi": "अच्छी तफ़सीर की किताब",
+                  "urdu": "بہترین تفسیر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/4a0JTlXJX4Y",
+                  "english": "How Quran created as a book",
+                  "hindi": "कुरान को एक किताब के रूप में कैसे बनाया गया",
+                  "urdu": "کیسے بطور کتاب قرآن مجید تخلیق ہوا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/B-ye0mnqF9k",
+                  "english": "biography of famous mufassir of Quran",
+                  "hindi": "कुरान की मशहूर मुफस्सिर की ज़िन्दगी",
+                  "urdu": "قرآن مجید کے مشہور مفسیر کی سیرت"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Tzfl9aVfZow",
+                  "english": "what is purpose of writing translation of Quran in other languages",
+                  "hindi": "अलग अलग ज़बानो में कुरान के तर्जुमा लिखने का मक़सद क्या है",
+                  "urdu": "دوسری زبانوں میں قرآن مجید کا ترجمہ لکھنے کا مقصد کیا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/BycnUq1UO5o",
+                  "english": "can only Chemistry biology will make you good human?",
+                  "hindi": "क्या केमिस्ट्री बायोलॉजी आपको अच्छा इंसान बनाएगी?",
+                  "urdu": "کیا کیمسٹری حیاتیات آپ کو اچھے انسان بنائے گی؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/NBkbJZ1jGdg",
+                  "english": "How Quran created as a book",
+                  "hindi": "कुरान को एक किताब के रूप में कैसे बनाया गया",
+                  "urdu": "کیسے بطور کتاب قرآن مجید تخلیق ہوا"
+                }
+              ]
+            },
+            {
+              "english-title": "Seerat un Nabi",
+              "english-heading": "LIFE OF PROPHET MOHAMMAD (PEACE BE UPON HIM)",
+              "english-sub-heading": "Life of Prophet Mohammad (peace be upon him) from his childhood to his last moment. Also First among with top 100 world personalities.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/WfLIflyBSz4",
+                  "english": "Date of birth of birth of prophet Muhammad and miracles",
+                  "hindi": "अल्लाह के नबी के पैदाइश का दिन और करिश्में",
+                  "urdu": "اللّٰہ کے نبی صلی اللہ علیہ وسلم کی پیدائش کا دن اور معجزات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/7lUXuYYl22c",
+                  "english": "Childhood of prophet Muhammad. Illiteracy in Arabs. And their qualities",
+                  "hindi": "अल्लाह के रसूल का बचपन, अरब की जहालत और सिफात",
+                  "urdu": "اللّٰہ کے نبی صلی اللہ علیہ وسلم کا بچپن ، عادات و اخلاق اور عرب کی جہالت اور صفات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/uwFbfo5Ydws",
+                  "english": "Business of prophet Muhammad and foreign trips",
+                  "hindi": "अल्लाह के रसूल की तिजारत और अरब के बाहर के सफर",
+                  "urdu": "اللّٰہ کے نبی صلی اللہ علیہ وسلم کی تجارت اور بیرونی سفر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/IMqWOppkE1k",
+                  "english": "Life of Hazrat Khadeeja(r.a) and marriage with prophet Muhammad ( peace be upon him)",
+                  "hindi": "हज़रत खदीजा (र आ) की ज़िन्दगी और अल्लाह के रसूल से निकाह",
+                  "urdu": "حضرت خدیجہ (ر۔ض) کی زندگی اور اللہ کے رسول صلی اللہ علیہ وسلم سے نکاح"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/LZ-dByA1D6U",
+                  "english": "About first revelation of Quranic ayat in Cave of Hira, near Makkah",
+                  "hindi": "क़ुरआन की पहली आयात के नाजिल होने का वाकया, घार हीरा में मक्का के नजदीक",
+                  "urdu": "قرآن کی پہلی آیت کے نازل ہونے کے بارے میں، غار حرا مکہ کے نزدیک"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/vupHu4ZRZ8I",
+                  "english": "Hijrat from Makkah to Madina (yasrib)",
+                  "hindi": "मक्काह से मदीना (यसरीब)हिजरत का वाकया",
+                  "urdu": "مکہ سے مدینہ (یثرب) حجرت کا واقعہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/s4-0chXu4LE",
+                  "english": "Background of Madina and locals Tribes",
+                  "hindi": "मदीना और वहां के कबीले के हालात",
+                  "urdu": "مدینہ کے اور وہاں کے مقامی قبائل کی حالات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/8FFOZidDtDg",
+                  "english": "Battle of Badar",
+                  "hindi": "जंग बदर",
+                  "urdu": "جنگ بدر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/kyWgoFHoMvQ",
+                  "english": "wives of prophet mohammad",
+                  "hindi": "पैगंबर मोहम्मद की पत्नियां",
+                  "urdu": "نبی محمد کی بیویاں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/wJXZEP6JBvs",
+                  "english": "the Only hajj of Prophet Mohammad and important message",
+                  "hindi": "अल्लाह के नबी का पहला और आखरी हज और बहोत एहम हिदायत",
+                  "urdu": "الله کے نبی کا پہلا اور آخری حج اور امّت کے لئے اہم پیغام"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/EdvtnhBHF4s",
+                  "english": "Last moment and Death of prophet Mohammad (pbuh)",
+                  "hindi": "अल्लाह के नबी के आखरी लम्हात और वफ़ात",
+                  "urdu": "آخری لمحہ اور نبی محمد صلی اللہ علیہ وسلم کی وفات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/eEVHdeZLgl0",
+                  "english": "Top 100 influential personalities of the world",
+                  "hindi": "दुनिया की १०० असर दार शक्सियात",
+                  "urdu": "دنیا کی 100 اثر دار شخصیات"
+                }
+              ]
+            },
+            {
+              "english-title": "Living with Non-Muslims",
+              "english-heading": "LIVING WITH NON-MUSLIMS",
+              "english-sub-heading": "Non-Muslim's/minorities right in Islamic rule. showing good character with them. This much involvement is not allowed.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/o-KlFGWUvFY",
+                  "english": "Hadis regarding treating non-muslims",
+                  "hindi": "गैर-मुसलमानों के बर्ताव के बारे में हदीस",
+                  "urdu": "غیر مسلم سے برتاو کے بارے میں حدیث"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/rvejUe8_h3A",
+                  "english": "regarding treating non-muslims",
+                  "hindi": "गैर-मुसलमानों के बर्ताव के बारे में",
+                  "urdu": "غیر مسلم سے برتاو کے بارے میں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/htLhRe08bWw",
+                  "english": "how prophet Mohammad treated non Muslims?",
+                  "hindi": "पैगंबर मोहम्मद ने गैर मुसलमानों से कैसे व्यवहार किया?",
+                  "urdu": "نبی محمد نے غیر مسلموں کے ساتھ کیسا سلوک کیا؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/CHFtfe_5L8c",
+                  "english": "legal aspects of non-Muslim minorities",
+                  "hindi": "गैर-मुस्लिम अल्पसंख्यकों के कानूनी पहलू",
+                  "urdu": "غیر مسلم اقلیتوں کے قانونی پہلو"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/XB94Q2j94uo",
+                  "english": "precautions to be taken care while living with non Muslims",
+                  "hindi": "गैर मुस्लिमों के साथ रहने के दौरान किन सावधानियों का ध्यान रखना चाहिए",
+                  "urdu": "غیر مسلموں کے ساتھ رہتے ہوئے کیا احتیاطی تدابیر اختیار کی جائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/XkCxohRT6rk",
+                  "english": "why eating prasad is not allowed?",
+                  "hindi": "प्रसाद खाने की अनुमति क्यों नहीं है?",
+                  "urdu": "پرساد کھانے کی اجازت کیوں نہیں ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/QbhP8EmGh3s",
+                  "english": "Minorities (non-muslims) in Islamic rule , 13 points",
+                  "hindi": "इस्लामी शासन में अल्पसंख्यक (गैर-मुस्लिम) - १३ पॉइंट्स",
+                  "urdu": "اسلامی حکمرانی میں اقلیتیں (غیر مسلم) 13 پوائنٹس"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/d40Iq8LJ4G4",
+                  "english": "Caliph Umar helped a non muslim begger",
+                  "hindi": "खलीफा उमर ने एक गैर मुस्लिम भिखारी की मदद की",
+                  "urdu": "خلیفہ عمر نے ایک غیر مسلم بھکاری کی مدد کی"
+                }
+              ]
+            },
+            {
+              "english-title": "Missing Fajr",
+              "english-heading": "WAKE UP FOR FAJR",
+              "english-sub-heading": "",
+              "video-list": []
+            },
+            {
+              "english-title": "Azan and its Volume",
+              "english-heading": "INCORRECT AZAN AND SPEAKER VOLUME",
+              "english-sub-heading": "Reason for Incorrect Azan, its impact, solution, speaker volume. A non-Muslim boy winning Azan Competetion.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/JYuNKqlLExo",
+                  "english": "Loud Speaker volume",
+                  "hindi": "स्पीकर की ऊंची आवाज़",
+                  "urdu": "سپیکر کی اونچی آواز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/lrBvB4OG_TA",
+                  "english": "Why Azan is wrong and tunless",
+                  "hindi": "अज़ान बेसुरी और गलता क्यों",
+                  "urdu": "اذان بے سری اور غلط کیوں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/QPWVY_rYEzI",
+                  "english": "Non-Muslim boy won Azan Competition -Solapur",
+                  "hindi": "गैर मुस्लिम लड़के ने जीता अज़ान कॉम्पेटेशन -शोलापुर",
+                  "urdu": "غیر مسلم لڑکے نے اذان مقابلہ جیت لیا- سولاپور"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/EdbzK8iTjwE",
+                  "english": "It is not allowed to listen incorrect Azan",
+                  "hindi": "गलत अज़ान सुनने की इजाज़त नहीं है",
+                  "urdu": "غلط اذان سننے کی اجازت نہیں ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/PfMbjwDdFzA",
+                  "english": "Shaikh Zayed Masjid -Abu Dhabi Azan",
+                  "hindi": "शेख जायद मस्जिद -अबू धाबी अज़ान",
+                  "urdu": "شیخ زاید ابو ظبی اذان"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/61oQvK6Rmgw",
+                  "english": "Azan meaning",
+                  "hindi": "अज़ान का मतलब",
+                  "urdu": "اذان کے معنی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/b868szgrsAw",
+                  "english": "How Azan started?",
+                  "hindi": "अज़ान कैसे शुरू हुई?",
+                  "urdu": "اذان کیسے شروع ہوئی ؟"
+                }
+              ]
+            },
+            {
+              "english-title": "Destiny and Planning",
+              "english-heading": "DESTINY OR PLANING",
+              "english-sub-heading": "Destiny Planners has been at the forefront of delivering exceptional digital assets for digital education & vertical business solutions with comprehensive focus on career planning, intelligence analysis, e-learning, & digital classrooms. With years of industry exposure, the team at Destiny Planners has partnered with the best to deliver result-oriented solutions & interactive technology blended with exceptional insight for students to excel in their career. We work with the best talent in the industry to provide business solutions with industry compliance & real-time analytics.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/g7_Mt6BoMo0",
+                  "english": "Destiny or planning?",
+                  "hindi": "तक़दीर और प्लानिंग/तदबीर/मंसूबा बंदी",
+                  "urdu": "تقدیر یا پلاننگ /تدبیر/منصوبہ بندی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/fh9Es4uwG4g",
+                  "english": "Planning in Islam",
+                  "hindi": "इस्लाम और प्लानिंग",
+                  "urdu": "اسلام اور پلاننگ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/sVsdBw0VG0U",
+                  "english": "What Is Destiny? 3 questions",
+                  "hindi": "تقدیر کیا ہے؟ ٣ سوالات",
+                  "urdu": "تقدیر کیا ہے؟ 3 سوالات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Lh7mSKaTO9M",
+                  "english": "why to study more if everything is in luck?",
+                  "hindi": "अगर सब कुछ तक़दीर से है तो आगे क्यों पढ़ें ?",
+                  "urdu": "اگر سب کچھ قسمت میں ہے تو مزید تعلیم کیوں حاصل کریں؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/x7reF7YHN6Q",
+                  "english": "Destiny and instructions",
+                  "hindi": "तक़दीर और हिदायत",
+                  "urdu": "تقدیر اور ہدایات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/v6IlDV3cGgY",
+                  "english": "predetermination",
+                  "hindi": "पेंशन गोई - अंग्रेजी में लेक्चर",
+                  "urdu": "پیش گوئی - انگریزی میں لیکچر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/-QqJIm_8hC0",
+                  "english": "So many things to do but we don't want to do",
+                  "hindi": "इतने सारे काम करने के लिए लेकिन हम नहीं करना चाहते हैं",
+                  "urdu": "بہت سے کام کرنے ہیں لیکن ہم کرنا نہیں چاہتے ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_PDKwmGtCbQ",
+                  "english": "How about savings money for old age?",
+                  "hindi": "बुढ़ापे के लिए पैसे बचाना कैसा है?",
+                  "urdu": "بوڑھاپے کے لئے پیسے جما کرنا کیسا ہے ؟"
+                }
+              ]
+            },
+            {
+              "english-title": "Khatme Nabuwat",
+              "english-heading": "LAST PROPHET ( KHATME NUBUWAT)",
+              "english-sub-heading": "",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/og3ygPic6zg",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Guidelines",
+      "sub-category": [
+        {
+          "sub-category": "Marriage Guidelines",
+          "topic-list": [
+            {
+              "english-title": "Marriage Age",
+              "english-heading": "WHEN TO GET MARRIED",
+              "english-sub-heading": "A new study suggests that people should get married between the ages of 28 and 32 if they don't want to get divorced, at least in the first five yearssss",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/GEJwQXNijJE",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/IjhOT7HMvmU",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/3DAPlUrRhA0",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/pLvJlJ-f37A",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Hi2LOpM8mW4",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                }
+              ]
+            },
+            {
+              "english-title": "Wedding Preparation",
+              "english-heading": "MARRIAGE PREPARATION",
+              "english-sub-heading": "Researchers found the \"right\" amount of time to date beforot as long as ye getting married — and it's nou'd think. A study found that waiting a bit to get married can decrease the likelihood you'll get divorced. Specifically, waiting three years or more decreases the likelihood of divorce by 50%.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/e8LYc6CJMt8",
+                  "english": "Intention of Nikah",
+                  "hindi": "निकाह की नियत",
+                  "urdu": "نکاح کی نیت"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/LZvaV5UpPfM",
+                  "english": "Tohfa e dulha book",
+                  "hindi": "तोहफा दूल्हा किताब",
+                  "urdu": "تحفہ دولہا کتاب"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/q39bIe8NCpg",
+                  "english": "Tohfa e dulhan book",
+                  "hindi": "तोहफा दुल्हन किताब",
+                  "urdu": "تحفہ دلہن کتاب"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/QbGkdi8aJRY",
+                  "english": "physically fit before marriage",
+                  "hindi": "शादी से पहले शारीरिक रूप से फिट",
+                  "urdu": "شادی سے پہلے جسمانی طور پر فٹ ہوجائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/rH2dMDX1mQo",
+                  "english": "Sex Education in Islam",
+                  "hindi": "इस्लाम में सेक्स एजुकेशन (मालूमात )",
+                  "urdu": "اسلام میں جنسی تعلیم"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/8ntpmvwu18A",
+                  "english": "Groom wearing Mehndi and Flowers",
+                  "hindi": "मेहंदी और फूल पहनना दूल्हा",
+                  "urdu": "دولہا مہندی اور پھول پہنے ہوئے"
+                }
+              ]
+            },
+            {
+              "english-title": "Right Life Partner",
+              "english-heading": "FIND RIGHT LIFE PARTNER",
+              "english-sub-heading": "Take a test drive. ... Look for A. Religiousness B. Good Nature C. Compatibility D. Decent Family E. Reason F. Physical and Mental Health G. Whom can you Marry?someone who is kind and loving. ...",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/M4m8r-Z3l4k",
+                  "english": "Boy/girl permission and seeing eachother",
+                  "hindi": "लड़का लड़की की इजाज़त और एक बार दूसरे को देखना",
+                  "urdu": ",لڑکا لڑکی کی اجازت اور ایک دوسرے کو دیکھنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/O6pMblvDhjk",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Ge8i-CFIU10",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/-F-iQIJS-GA",
+                  "english": "",
+                  "hindi": "",
+                  "urdu": ""
+                },
+                {
+                  "video-url": "https://youtube.com/embed/zhY57pM1FQY",
+                  "english": "Wrong way of doing istekhara",
+                  "hindi": "इस्तेखार करने का गलत तरीक़ा",
+                  "urdu": "استخارہ کرنے کا غلط طریقہ"
+                }
+              ]
+            },
+            {
+              "english-title": "Engagement",
+              "english-heading": "ENGAGEMENT",
+              "english-sub-heading": "engagement",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/9glfuJzc-Yc",
+                  "english": "Is it okay to talk on phone after engagement?",
+                  "hindi": "क्या मंगनी के बाद फोन पर बात करना ठीक है?",
+                  "urdu": "کیا منگنی کے بعد فون پر بات کرنا ٹھیک ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/J8f_kXt-VXQ",
+                  "english": "Side effects of talking/chatting after engagement",
+                  "hindi": "मंगनी के बाद कॉल/चैटिंग करने का नुकसान",
+                  "urdu": "منگنی کے بعد بات/چیت کرنے کے نقصانات"
+                }
+              ]
+            },
+            {
+              "english-title": "Wedding Expenses",
+              "english-heading": "MARRIAGE EXPENSES",
+              "english-sub-heading": "marriage expenses",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/eVvQQcbfqhU",
+                  "english": "five points to reduce marriage expenses",
+                  "hindi": "शादी के खर्च को कम करने के लिए पांच पॉइंट",
+                  "urdu": "شادی کے اخراجات کو کم کرنے کے لئے پانچ نکات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/zW9sxFQRIAs",
+                  "english": "Muslims are begging on streets and we are over expending",
+                  "hindi": "मुस्लिम औरतें सड़क पर भिक मांग रही और हम शादी में फ़िज़ूल`खर्च`करते हैं",
+                  "urdu": "مسلمان خواتین سڑک پر بھیک مانگتی ہیں اور ہم شادی میں رقم خرچ کرتے ہیں"
+                }
+              ]
+            },
+            {
+              "english-title": "Dowry",
+              "english-heading": "DOWRY",
+              "english-sub-heading": "dowry",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/THu4PH-Gfr0",
+                  "english": "Dowry and Islam, dowry of Hazrat fatima",
+                  "hindi": "जहेज और इस्लाम। हज़रत फातिमा का जहेज़",
+                  "urdu": "اسلام اور جہیز، حضرت فاطمتہ الزہرا کا جہیز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/riq5Uo3SAiI",
+                  "english": "Dowry of Hazrat Fatima",
+                  "hindi": "हज़रत फातिमा का जहेज़",
+                  "urdu": "حضرت فاطمتہ الزہرا کا جہیز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/5EAibs6ii5w",
+                  "english": "forceful dowry",
+                  "hindi": "जबरदस्ती दहेज",
+                  "urdu": "زبردستی جہیز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/vsMnJEEL1mo",
+                  "english": "dowry death",
+                  "hindi": "दहेज हत्या",
+                  "urdu": "جہیز کی موت"
+                }
+              ]
+            },
+            {
+              "english-title": "Post Wedding Life",
+              "english-heading": "AFTER MARRIAGE",
+              "english-sub-heading": "12 short videos. Supplication for first night. Prayer for first night. Halal Waleema. How to take bath. Staying Away from wife. 52 sexual knowledge points. Expending on wife. Good Wife. Joint family.What wife wants?Honeymoon.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/VpbE8p6ej9o",
+                  "english": "First night supplication",
+                  "hindi": "पहली रात की दुआ",
+                  "urdu": "پہلی رات کی دعا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/gL18bOK8Te0",
+                  "english": "First night namaz",
+                  "hindi": "पहली रात की नमाज़",
+                  "urdu": "پہلی رات کی نماز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/QdhBIGPei0s",
+                  "english": "Is sexual intercourse necessary for reception/walima?",
+                  "hindi": "क्या वलीमा करने के लिए बीवी से हमबिस्तरी/सेक्स ज़रूरी है?",
+                  "urdu": "کیا ولیمہ کے لئے بی وی سے ہمیستری / سیکس ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/CwKVHFbrOsQ",
+                  "english": "how to take bath?",
+                  "hindi": "नहाए कैसे?",
+                  "urdu": "غسل کیسے کریں؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/RPFhTOyXdBE",
+                  "english": "Husband away from wife, in Dubai and wife in sasural",
+                  "hindi": "शौहर बीवी से दूर सऊदी दुबई में और बीवी ससुराल में",
+                  "urdu": "شوہر بیوی سے دور، سعودی/دوبی میں اور بیوی سسورال میں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Q_lxRRTTEl4",
+                  "english": "52 Sexual knowledge points",
+                  "hindi": "हमबिस्तरी/सेक्स के ५२ इल्मी पॉइंट्स",
+                  "urdu": "ہمبستری کے ٥٢علمی پوائنٹس"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/SIQ-6qJoQuA",
+                  "english": "Spending money of Wife",
+                  "hindi": "बीवी पर पैसा खर्च करना",
+                  "urdu": "بیوی پر پیسا خرچ کرنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/7qN53Wzg-jw",
+                  "english": "Good wife",
+                  "hindi": "अच्छी बीवी",
+                  "urdu": "اچھی بیوی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/g00A_qe4UTQ",
+                  "english": "Join family system and pardah",
+                  "hindi": "ज्वाइंट फैमिली सिस्टम में पर्दा",
+                  "urdu": "جوائنٹ فیملی سسٹم اور پردہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/FNUWuesO7c8",
+                  "english": "What wife wants from husband?",
+                  "hindi": "बीवी को शोहर से क्या चाहिए?",
+                  "urdu": "بیوی کو شوہر سے کیا چاہیئے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/rCzboxAwjes",
+                  "english": "Honeymoon in Islam",
+                  "hindi": "इस्लाम में हनीमून",
+                  "urdu": "اسلام میں ہنی مون"
+                }
+              ]
+            },
+            {
+              "english-title": "Saas and Sasur",
+              "english-heading": "SAAS AND SASUR",
+              "english-sub-heading": "saas and sasur",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/s6ZnG4PNyMk",
+                  "english": "Saas Bahu in islamic terminology",
+                  "hindi": "सास बहु इस्लामिक तारिख में",
+                  "urdu": "اسلامی اصطلاح میں ساس باہو"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/wlPRU_ZVNBM",
+                  "english": "Saas, bahu and Google",
+                  "hindi": "सास बहू और गूगल",
+                  "urdu": "ساس بہو اور گوگل"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/phvRtfOHCnk",
+                  "english": "Saas bahu and Shaitan",
+                  "hindi": "सास बहू और शैतान",
+                  "urdu": "ساس بہو اور شیطان"
+                }
+              ]
+            },
+            {
+              "english-title": "Husband and Wife Love",
+              "english-heading": "HUSBAND WIFE LOVE",
+              "english-sub-heading": "Expressing love, Prophet Mohammad (pbuh) and ideal husband, husband wife mistakes, 5 things to control wife, Love with husband,",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/YmbuvrrpRu4",
+                  "english": "Expressing love to wife",
+                  "hindi": "बीवी से प्यार का इजहार",
+                  "urdu": "بیوی سے محبت کا اظہار کرنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/PQmlZngZiBA",
+                  "english": "The Perfect Husband - Muhammad",
+                  "hindi": "द परफेक्ट हसबैंड - मुहम्मद",
+                  "urdu": "کامل شوہر۔ محمد"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/lzEbQIy3Ceg",
+                  "english": "Mistakes of husband and wife",
+                  "hindi": "शौहर और बीवी की गलती",
+                  "urdu": "شوہر اور بیوی کی غلطیاں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/ppoXWwL938k",
+                  "english": "Do these 5 things to control your wife",
+                  "hindi": "ये पांच चीजें करें अपनी बीवी को कंट्रोल करने के लिए",
+                  "urdu": "یہ پانچ چیزیں کریں اپنی بیوی کو قابو میں کرنے کے لیے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_YWDlnqdurM",
+                  "english": "Love with your husband",
+                  "hindi": "शौहर के साथ मोहब्बत",
+                  "urdu": "شوہر کے ساتھ محبت"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/jEsBevnfAag",
+                  "english": "Realize your love to your family",
+                  "hindi": "अपनी फैमिली को अपना प्यार दिखाएं",
+                  "urdu": "اپنی فیملی کو اپنا پیار دیکھائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/W-2F7QtXv_A",
+                  "english": "Formula to increase husband wife love",
+                  "hindi": "मियां बीवी के प्यार को बढ़ाने का नुस्खा",
+                  "urdu": "شوہر کی بیوی سے محبت بڑھانے کا فارمولا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/N1g9LLXtZ6k",
+                  "english": "Responsibility of a wife",
+                  "hindi": "एक बीवी की जिम्मेदारी",
+                  "urdu": "بیوی کی ذمہ داری"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/B_dP1q7gamo",
+                  "english": "Husband wife love tips",
+                  "hindi": "मियां बीवी मोहब्बत की चंद बातें",
+                  "urdu": "میاں بیوی محبت کی چند باتیں"
+                }
+              ]
+            },
+            {
+              "english-title": "Court Involvment",
+              "english-heading": "AFTER MARRIAGE COURT CASES",
+              "english-sub-heading": "You have two spouses: the one you have not divorced yet and the one you just married. ... Civil family laws treat the concept of bigamy somewhat differently; because your second marriage is illegal, it technically can not exist. You can still be prosecuted in criminal court, but you do not have to divorce to end the marriage.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/5s0qJVemxOM",
+                  "english": "how to fight false marriage court case?",
+                  "hindi": "झूठा विवाह कोर्ट का मुकदमा कैसे लड़ें?",
+                  "urdu": "جھوٹے شادی عدالت کا مقدمہ کس طرح لڑنا ہے؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/YmhSHLgd-wk",
+                  "english": "if wife files false court case",
+                  "hindi": "अगर पत्नी झूठे कोर्ट केस दायर करती है",
+                  "urdu": "اگر بیوی جھوٹے عدالت میں مقدمہ دائر کرتی ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_OBS4xMKRgI",
+                  "english": "Divorce & Dowry Laws misused",
+                  "hindi": "तलाक और दहेज कानून का दुरुपयोग",
+                  "urdu": "طلاق اور جہیز کے قانون کا غلط استعمال ہوا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xEu-ZlvvIl8",
+                  "english": "Wife threatens to pull into false dowry case",
+                  "hindi": "पत्नी का झूठे दहेज के मामले में खींचने की धमकी",
+                  "urdu": "بیوی نے جہیز کے جھوٹے معاملے میں کھینچنے کی دھمکی دی"
+                }
+              ]
+            },
+            {
+              "english-title": "Talaq and Khula",
+              "english-heading": "TALAQ AND KHULA",
+              "english-sub-heading": "Reasons, Does Allah like? No Love after love marriage,Effect on children, Talaq/Khula process. After Divorce",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/RfC-2LBIlHA",
+                  "english": "ten reasons for divorce - By an Advocate",
+                  "hindi": "तलाक के दस कारण - एक वकील द्वारा",
+                  "urdu": "طلاق کی دس وجوہات - ایک وکیل کے ذریعہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Hurs0tY4dhI",
+                  "english": "Allah does not like divorce",
+                  "hindi": "अल्लाह को तलाक पसंद नहीं है",
+                  "urdu": "اللہ طلاق پسند نہیں کرتا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/JnZUBvBIZ1g",
+                  "english": "divorce in Love marriage",
+                  "hindi": "प्रेम विवाह में तलाक",
+                  "urdu": "محبت کی شادی میں طلاق"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/p6RSqMl75HU",
+                  "english": "Affect of divorce on children",
+                  "hindi": "बच्चों पर तलाक का असर",
+                  "urdu": "بچوں پر طلاق کا اثر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/7bBUVumTeY8",
+                  "english": "Reasons for divorce",
+                  "hindi": "तलाक का कारण",
+                  "urdu": "طلاق کی وجوہات"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/3fhmFmtuyM8",
+                  "english": "how to give divorce",
+                  "hindi": "तलाक कैसे दें",
+                  "urdu": "طلاق دینے کا طریقہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/NA0jMgJ-NvY",
+                  "english": "marraige of divorcee",
+                  "hindi": "तलाकशुदा का विवाह",
+                  "urdu": "طلاق شودہ کی شادی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/n_r5PM1sn4I",
+                  "english": "Marriage with Talaq-shuda/Bewa",
+                  "hindi": "तालाक-शुदा / बेवा के साथ शादी",
+                  "urdu": "طلاق شودہ / بیوا کے ساتھ نکاح"
+                }
+              ]
+            },
+            {
+              "english-title": "Husband and wife fighting",
+              "english-heading": "",
+              "english-sub-heading": "",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/eI2g3OpbtfE",
+                  "english": "the act which is most lovable to Satan (Shaitan)",
+                  "hindi": "वह काम जो शैतान को सबसे ज़्यदा पसंद है",
+                  "urdu": "وہ کام جو شیطان کو پسند کرتا ہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/GxqF7v2_wng",
+                  "english": "husband wife fight",
+                  "hindi": "पति पत्नी की लड़ाई",
+                  "urdu": "شوہر بیوی لڑائی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/AAzdAKFFnFU",
+                  "english": "Learn how to compromise after marriage",
+                  "hindi": "शादी के बाद बर्दाश्त करना सीखें",
+                  "urdu": "شادی کے بعد برداشت کرنا سیکھو"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/AvZFDCwqcsk",
+                  "english": "Women is enemy of women",
+                  "hindi": "औरतें ही औरतों की दुश्मन हैं",
+                  "urdu": "عورتیں عورتوں کی دشمن ہیں"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sub-category": "Parenting Guidelines",
+          "topic-list": [
+            {
+              "english-title": "Upto 5 years",
+              "english-heading": "PARENTING GUIDLINES - NEWBORN TO 5 YEARS OLD",
+              "english-sub-heading": "Newborn baby - Things to do and not to do. Keeping name and circumcision, Black Threads, Aqeeqa,Massage, Birthday,When kid starts talking, cleanliness, schooling age.",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/rnRpN0zK67M",
+                  "english": "Few things to do and not to do after baby is born",
+                  "hindi": "बच्चे की पैदा होने के बाद कुछ करने और कुछ नहीं करने के काम",
+                  "urdu": "بچے کی پیدائش کے بعد کرنے کے کام اور کچھ نہ کرنے کے کام"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/m_ykOaAUsAI",
+                  "english": "Delay in keeping name",
+                  "hindi": "नाम रखने में देरी",
+                  "urdu": "نام رکھنے میں تاخیر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/FThmp4CB9-o",
+                  "english": "Delay in circumcision",
+                  "hindi": "खतना में देरी करना",
+                  "urdu": "ختنہ کرنے میں دری کرنا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/2I3szEHnUUs",
+                  "english": "Black thread and islam",
+                  "hindi": "काले धागे और इस्लाम",
+                  "urdu": "کالے دھاگے اور اسلام"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/p0ZW-LpGX2o",
+                  "english": "Aqiqa Rules and Regulations",
+                  "hindi": "अक़ीक़ा के मसाएल",
+                  "urdu": "عقیقہ کے مسایل"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/FkArTpO_5As",
+                  "english": "Baby massage",
+                  "hindi": "बच्चे की मालिश",
+                  "urdu": "بچے کا مساج"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/_HH66kHF5-Q",
+                  "english": "Birthday in islam",
+                  "hindi": "इस्लाम में बिर्थ डे मानना",
+                  "urdu": "اسلام میں برتھ ڈے منانا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/L8N20Jedepw",
+                  "english": "Celebrating birth day in islam - Lecture for women",
+                  "hindi": "इस्लाम में बिर्थ डे मानना - औरतों के लिए बयान",
+                  "urdu": "عورتوں کے لئے بیان- اسلام میں برتھ ڈے منانا"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/jMPsxzopFb0",
+                  "english": "When kid starts talking",
+                  "hindi": "जब बच्चा बोलना सीखे",
+                  "urdu": "جب بچہ بولنا سیکھے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/VXam8VG8jT0",
+                  "english": "Ten points kids hygiene",
+                  "hindi": "बच्चों को सफाई के यह दस बातें सिखाएं",
+                  "urdu": "بچوں کو صفائی کے یہ دس باتیں سکھائیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/4IP4lry0IYU",
+                  "english": "What to teach after Kalima?",
+                  "hindi": "कलमा सिखाने के बाद क्या सिखाएं?",
+                  "urdu": "کلمہ سیکھانے کے بعد کیا سیکھایں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/UZFh7bP3YHM",
+                  "english": "Best age for hifz. when to put in school?",
+                  "hindi": "हिफ़्ज़ के लिए सबसे अच्छी उम्र। स्कूल में कब डालें ?",
+                  "urdu": "قرآن حفظ کی امر اور اسکول میں کب ڈالیں"
+                }
+              ]
+            },
+            {
+              "english-title": "5 to 10 years",
+              "english-heading": "PARENTING GUIDELINES - 5 TO 10 YEARS OLD",
+              "english-sub-heading": "Teach Quran, Teaching thank you-sorry, Children fight, how children learn saying lie. Bad friendship, 4 psychological points , Taking children to Masjid and how to teach them pray, dont make children dependent, Islamic Sports",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/BycnUq1UO5o",
+                  "english": "Teach your children Quran. Not only only reading but understanding also",
+                  "hindi": "अपने बच्चों को क़ुरआन सिखाओ। सिर्फ पढ़ना नहीं बलके समझना भी",
+                  "urdu": "اپنے بچوں کو قرآن سیکھاو۔ صرف پڑھنا نہیں بلکہ سمجھنا بھی۔"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/LtdJkutzTf0",
+                  "english": "Teach your children to thank and say sorry for mistakes",
+                  "hindi": "अपने बच्चों को शुक्रिया अदा करना सिखाएं और गलती पर माफी मांगना सिखाएं",
+                  "urdu": "اپنے بچوں کو شکریہ ادا کرنا سکھائیں اور غلطی پر معافی مانگنا بھی سیکھایں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/mlPbwd5Xo34",
+                  "english": "Kids fight and taking their education sereiesly",
+                  "hindi": "बच्चों के झडगे और पढ़ाई को के कर संजीदा",
+                  "urdu": "بچوں کے جھگڑے اور انکی پڑھائی کو لے کر سنجیدہ"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Lpw9hgqKNTU",
+                  "english": "Kids learn saying lie from parent",
+                  "hindi": "बच्चे मां बाप से झूठ बोलना सीखते हैं",
+                  "urdu": "بچے ماں باپ سے جھوٹ بولنا سیکھتے ہیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/R_WmF-S1jTk",
+                  "english": "Impact of bad friends",
+                  "hindi": "बुरे दोस्त का असर",
+                  "urdu": "بورے دوست کا اثر"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/JcpEJ8AxS0Y",
+                  "english": "4 points to build confidence in your kid",
+                  "hindi": "आपके बच्चे में कॉन्फिडेंट पैदा करने के लिए ४ बातें",
+                  "urdu": "آپکے بچوں میں کونفیڈنس /خود اعتمادی پیدا کرنے کے 4 باتیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/P5e_2qHngDo",
+                  "english": "How to behave with children in Masjid",
+                  "hindi": "बच्चों के साथ मस्जिद में कैसे पेश आएं",
+                  "urdu": "بچوں کے ساتھ مسجد میں کیسے پیش آئیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/T-PwH_skGJY",
+                  "english": "How to make your kid pray namaz",
+                  "hindi": "बच्चों को नमाज़ का आदत कैसे डालें",
+                  "urdu": "بچوں میں نماز کی عادت کیسے ڈالیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/xUAlkm8EQtA",
+                  "english": "dont make your child dependant - video for mothers",
+                  "hindi": "अपने बच्चों को किसी का मजबूर न बनायें - माँओ के लिए वीडियो",
+                  "urdu": "اپنے بچوں کو کسی پر مجبور نہ بنائیں - ماؤں کے لئے ویڈیو"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/USaghYToq4Q",
+                  "english": "Father and son reciting Quran beautifully",
+                  "hindi": "बाप बेटा खूबसूरती से क़ुरान पढ़ रहे",
+                  "urdu": "باپ بیٹا خوبصورتی سے قرآن پڑھ رہے"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/Xu9UcOXDavg",
+                  "english": "Islamic sports",
+                  "hindi": "इस्लामी खेल",
+                  "urdu": "اسلامی کھیل"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/beyXCWqMkNE",
+                  "english": "Which sports is legal as per islamic shariah?",
+                  "hindi": "इस्लामिक शरीयत के मुताबिक़ कौन सा खेल जाइज़ है?",
+                  "urdu": "اسلامی شریعت کے مطابق کونسا کھیل جائز ہے؟"
+                }
+              ]
+            },
+            {
+              "english-title": "10 to 20 years",
+              "english-heading": "PARENTING GUIDELINES - 10 TO 20 YEARS OLD",
+              "english-sub-heading": "Parents behavior, What after 10th/12th, 4 problems of teenagers (10-20 years), become friend of your own son/daughter,Planning for life, Monitor their internet activity, Teenager Military commander Sahabi, Puberty and how to take bath",
+              "video-list": [
+                {
+                  "video-url": "https://youtube.com/embed/6j_BudpvqFo",
+                  "english": "Parenting style for kids from 10 years old",
+                  "hindi": "10 साल की उम्र से बच्चों के लिए पेरेंटिंग स्टाइल",
+                  "urdu": "دس سال سے زیادہ عمر کے بچوں کے لئے والدین کا طرز"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/nba9rzUWY14",
+                  "english": "What after 10th/12th result?",
+                  "hindi": "10 वीं / 12 वीं के बाद क्या?",
+                  "urdu": "دسویں /برا ویں کے نتائج کے بعد کیا ؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/r37isQ2qFvU",
+                  "english": "how to deal with 4 problems in teenagers?",
+                  "hindi": "दस से बीस साल के बच्चों के चार मसले",
+                  "urdu": "دس سےبیس سال کے بچوں کے چار مسایل"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/M9TiF_ICyl0",
+                  "english": "Become friend of your own child",
+                  "hindi": "अपने खुद के बच्चे के दोस्त बनें",
+                  "urdu": "اپنے بچے کا دوست بنیں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/-QqJIm_8hC0",
+                  "english": "When to start life planning?",
+                  "hindi": "अपने ज़िन्दगी की प्लानिंग कब शुरू करें?",
+                  "urdu": "زندگی کی منصوبہ بندی کب شروع کریں؟"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/55KjRZK-xYg",
+                  "english": "How to monitor internet/mobile activity of your child",
+                  "hindi": "अपने बच्चे की इंटरनेट / मोबाइल गतिविधि की निगरानी कैसे करें",
+                  "urdu": "اپنے بچے کی انٹرنیٹ / موبائل کاموں کی نگرانی کیسے کریں"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/HYDVOaMoY6Q",
+                  "english": "Three Teenager sahabi",
+                  "hindi": "तीन नौजवान सहाबी",
+                  "urdu": "تین نوجوان صحابی"
+                },
+                {
+                  "video-url": "https://youtube.com/embed/CwKVHFbrOsQ",
+                  "english": "When the kid becomes adult? and how to take bath?",
+                  "hindi": "बच्चा बालिग़/बड़ा कब होता है? और स्नान कैसे करें?",
+                  "urdu": "بچہ بالغ/بڑا کب ہوتا ہے ؟اور غسل کیسے کریں؟"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Special Messages",
+      "sub-category": [
+        {
+          "sub-category": "To Ulama"
+        },
+        {
+          "sub-category": "To Doctors"
+        },
+        {
+          "sub-category": "To Engineers"
+        },
+        {
+          "sub-category": "To Lawyers"
+        },
+        {
+          "sub-category": "To Teachers"
+        },
+        {
+          "sub-category": "To Buisnessmen"
+        },
+        {
+          "sub-category": "To Butchers"
+        },
+        {
+          "sub-category": "To Masjid Trustee"
+        }
+      ]
+    },
+    {
+      "category": "Special Occasions",
+      "sub-category": [
+        {
+          "sub-category": "Eid ul-Fitr"
+        },
+        {
+          "sub-category": "Eid Ul-Adha"
+        },
+        {
+          "sub-category": "Milad un Nabi"
+        },
+        {
+          "sub-category": "Moharram"
+        },
+        {
+          "sub-category": "Salatul Istisqa"
+        },
+        {
+          "sub-category": "haj and Umrah"
+        },
+        {
+          "sub-category": "Shabe-E-Meraj or Barat or Qadr"
+        },
+        {
+          "sub-category": "Janazah"
+        },
+        {
+          "sub-category": "Daswa Chilla Barsi"
+        }
+      ]
+    },
+    {
+      "category": "Islamic History",
+      "sub-category": [
+        {
+          "sub-category": "Muslim in Freedom of India"
+        },
+        {
+          "sub-category": "Muslim Scientist"
+        },
+        {
+          "sub-category": "How Old is Islam"
+        },
+        {
+          "sub-category": "Misconseption About Islam"
+        }
+      ]
+    },
+    {
+      "category": "Others",
+      "sub-category": [
+        {
+          "sub-category": "Apply for Govt. Documents"
+        },
+        {
+          "sub-category": "Train and Flight tickets Booking"
+        },
+        {
+          "sub-category": "Scholarship"
+        },
+        {
+          "sub-category": "What is KYC"
+        },
+        {
+          "sub-category": "Using UPI / Paytm"
+        },
+        {
+          "sub-category": "Books"
         }
       ]
     }
