@@ -3,6 +3,8 @@ export interface ISideMenuItem {
   'english-name': string;
   'english-heading'?: string;
   'english-sub-heading'?: string;
+  'urdu-name'?: string;
+  'hindi-name'?: string;
   expand?: boolean;
   'external-url'?: string;
   selected?: boolean;

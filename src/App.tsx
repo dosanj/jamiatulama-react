@@ -3,8 +3,13 @@ import { Header } from './components/Header';
 import { SideNav } from './components/SideNav';
 import { AppContent } from './components/AppContent';
 import { sideMenuDetails, ISideMenuItem } from './data/navigation-page.data';
-import { createUrl, getContentData } from './services/utility-service';
+import {
+  createUrl,
+  getContentData,
+  Languages,
+} from './services/utility-service';
 import { useParams, useHistory, useRouteMatch } from 'react-router-dom';
+import { checkIfSmallDevice } from './services/is-small-device-hook';
 
 export function App(props: Readonly<{}>) {
   // Hooks
@@ -12,10 +17,13 @@ export function App(props: Readonly<{}>) {
   const match = useRouteMatch();
   const history = useHistory();
   const contentData = getContentData();
+  const isSmallDevice = checkIfSmallDevice();
 
   // State
   const [isLightMode, setIsLightMode] = useState(true);
-  const [isSmallDevice, setIsSmallDevice] = useState(true);
+  const [currentLanguage, setCurrentLanguage] = useState(
+    Languages.ENGLISH as string
+  );
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [sideNavData, setSideNavData] = useState(sideMenuDetails);
   const [currentSelectedItem, setCurrentSelectedItem] = useState(
@@ -23,17 +31,6 @@ export function App(props: Readonly<{}>) {
   );
   const [currentLink, setCurrentLink] = useState('');
   // Functions
-  const checkIfSmallDevice = () => {
-    // https://stackoverflow.com/a/8876069
-    const width = Math.max(
-      document.documentElement.clientWidth,
-      window.innerWidth || 0
-    );
-    if (width <= 576) {
-      return true;
-    }
-    return false;
-  };
 
   const toggleCurrentTheme = () => {
     setIsLightMode(!isLightMode);
@@ -60,6 +57,9 @@ export function App(props: Readonly<{}>) {
     if (isSmallDevice) {
       setIsMenuOpen(false);
     }
+  };
+  const changeLanguage = (language: string) => {
+    setCurrentLanguage(language);
   };
 
   const markItemSelected = useCallback(
@@ -97,7 +97,6 @@ export function App(props: Readonly<{}>) {
     setCurrentSelectedItem((null as unknown) as ISideMenuItem);
   };
   useEffect(() => {
-    setIsSmallDevice(checkIfSmallDevice());
     if (link && link !== currentLink) {
       setCurrentLink(link);
       selectionChanged(link);
@@ -131,15 +130,18 @@ export function App(props: Readonly<{}>) {
         isMenuOpen={isMenuOpen}
         toggleTheme={toggleCurrentTheme}
         toggleMenu={toggleMenu}
+        changeLanguage={changeLanguage}
       />
 
       <div className="app-layout">
         <SideNav
+          currentLanguage={currentLanguage}
           changeSelection={(item) => openLink(item)}
           isMenuOpen={isMenuOpen}
           sideNavData={sideNavData}
         />
         <AppContent
+          currentLanguage={currentLanguage}
           hideSideNav={hideSideNav}
           contentData={currentSelectedItem}
         />

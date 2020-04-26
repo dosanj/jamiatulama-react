@@ -48,8 +48,8 @@ collections:
                           required: false,
                         }
                       - {
-                          label: Urdu Title,
-                          name: urdu-title,
+                          label: Urdu Name,
+                          name: urdu-name,
                           widget: string,
                           required: false,
                         }
@@ -66,8 +66,8 @@ collections:
                           required: false,
                         }
                       - {
-                          label: Hindi Title,
-                          name: hindi-title,
+                          label: Hindi Name,
+                          name: hindi-name,
                           widget: string,
                           required: false,
                         }

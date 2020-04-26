@@ -5,17 +5,15 @@ import { App } from './App';
 import { Switch, Route, HashRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <HashRouter>
-      <Switch>
-        <Route path="/:link">
-          <App />
-        </Route>
-        <Route path="/">
-          <App />
-        </Route>
-      </Switch>
-    </HashRouter>
-  </React.StrictMode>,
+  <HashRouter>
+    <Switch>
+      <Route path="/:link">
+        <App />
+      </Route>
+      <Route path="/">
+        <App />
+      </Route>
+    </Switch>
+  </HashRouter>,
   document.getElementById('root')
 );

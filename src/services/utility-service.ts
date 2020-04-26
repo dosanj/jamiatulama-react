@@ -3,6 +3,11 @@ import { ISideMenuItem, sideMenuDetails } from '../data/navigation-page.data';
 export let contentData: {
   [key: string]: ISideMenuItem;
 };
+export enum Languages {
+  ENGLISH = 'ENGLISH',
+  URDU = 'URDU',
+  HINDI = 'HIND',
+}
 
 function expand(item: ISideMenuItem) {
   if ((!item.children || item.children.length === 0) && item['english-name']) {

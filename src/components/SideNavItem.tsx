@@ -3,6 +3,7 @@ import { ISideNavItemProps } from '../models/components.props';
 import { ISideMenuItem } from '../data/navigation-page.data';
 import ExpandMore from '@material-ui/icons/ExpandMore';
 import ExpandLess from '@material-ui/icons/ExpandLess';
+import { Languages } from '../services/utility-service';
 
 export function SideNavItem(props: ISideNavItemProps) {
   const [isExpanded, setExpanded] = useState(false);
@@ -16,6 +17,7 @@ export function SideNavItem(props: ISideNavItemProps) {
         {children.map((child) => {
           return (
             <SideNavItem
+              currentLanguage={props.currentLanguage}
               key={child['english-name']}
               itemSelected={(item) => selectItem(item)}
               item={child}
@@ -28,6 +30,19 @@ export function SideNavItem(props: ISideNavItemProps) {
   };
   const selectItem = (item: ISideMenuItem, $event?: MouseEvent) => {
     props.itemSelected(item);
+  };
+  const getCurrentName = () => {
+    let name;
+    if (props.currentLanguage === Languages.URDU) {
+      name = props?.item?.['urdu-name'];
+    }
+    if (props.currentLanguage === Languages.HINDI) {
+      name = props?.item?.['hindi-name'];
+    }
+    if (!name) {
+      name = props?.item?.['english-name'];
+    }
+    return name;
   };
 
   const getItem = () => {
@@ -58,7 +73,7 @@ export function SideNavItem(props: ISideNavItemProps) {
           }`}
         >
           <span style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}>
-            {props?.item?.['english-name']}
+            {getCurrentName()}
           </span>
         </div>
       </div>

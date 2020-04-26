@@ -31,3 +31,28 @@ h1 {
     font-family: UrduFont;
     line-height: 2em;
 }
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 100px;
+    box-shadow: 0 1px 5px var(--color-shadow);
+    color: var(--color-text-secondary);
+    background-color: var(--color-background);
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    outline-color: var(--color-accent);
+    transition: background-color 0.2s;
+
+    &.button-primary {
+        background-color: var(--color-accent);
+        color: #FFF;
+        border: none;
+    }
+}
