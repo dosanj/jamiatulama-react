@@ -1,5 +1,5 @@
 .slider {
-    width: 300px;
+    width: 100%;
     text-align: center;
     overflow: hidden;
 
@@ -32,12 +32,11 @@
             background: transparent;
         }
 
-
         >div {
             scroll-snap-align: start;
             flex-shrink: 0;
-            width: 300px;
-            height: 300px;
+            width: 600px;
+            height: 400px;
             margin-right: 50px;
             border-radius: 10px;
             color: var(--color-text);
@@ -50,6 +49,11 @@
             justify-content: center;
             align-items: center;
             font-size: 100px;
+
+            @include if-mobile() {
+                width: 100%;
+                height: 300px;
+            }
         }
 
     }

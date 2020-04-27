@@ -1,7 +1,22 @@
 .app-content {
   flex: 1;
-  overflow-y: auto;
+  overflow-y: scroll;
   padding: 1rem;
+
+  &::-webkit-scrollbar {
+    width: 5px;
+    height: 5px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: var(--color-accent);
+    border-radius: 10px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
 
   p {
     color: var(--color-text-tertiary);
