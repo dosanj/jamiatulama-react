@@ -21,11 +21,35 @@ collections:
             widget: list
             fields:
               - { label: Category Name, name: english-name, widget: string }
+              - {
+                  label: Category Name Hindi,
+                  name: hindi-name,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Category Name Urdu,
+                  name: urdu-name,
+                  widget: string,
+                  required: false,
+                }
               - label: Sub Category
                 name: children
                 widget: list
                 fields:
                   - { label: Sub Category, name: english-name, widget: string }
+                  - {
+                      label: Sub Category Name Hindi,
+                      name: hindi-name,
+                      widget: string,
+                      required: false,
+                    }
+                  - {
+                      label: Sub Category Name Urdu,
+                      name: urdu-name,
+                      widget: string,
+                      required: false,
+                    }
                   - label: Topic List
                     name: children
                     widget: list
