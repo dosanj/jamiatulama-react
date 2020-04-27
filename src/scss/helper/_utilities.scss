@@ -20,15 +20,14 @@ h1 {
     letter-spacing: 1px;
 }
 
-@font-face {
-    font-family: 'UrduFont';
-    src: url('../assets/fonts/UrduFont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
 
 .urduText {
     font-family: UrduFont;
+    line-height: 2em;
+}
+
+.arabicFont {
+    font-family: ArabicFont;
     line-height: 2em;
 }
 
@@ -50,9 +49,17 @@ h1 {
     outline-color: var(--color-accent);
     transition: background-color 0.2s;
 
+    &:focus {
+        outline: none;
+    }
+
     &.button-primary {
         background-color: var(--color-accent);
         color: #FFF;
         border: none;
+
+        &:hover {
+            background-color: var(--color-accent-hover);
+        }
     }
 }

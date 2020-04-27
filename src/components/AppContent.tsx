@@ -1,18 +1,22 @@
 import React from 'react';
 import { IAppContentProps } from '../models/components.props';
+import { HomePage } from './HomePage';
 export function AppContent(props: IAppContentProps) {
-  const hideSideNav = () => {
-    props.hideSideNav();
+  const closeSideMenu = () => {
+    props.closeSideMenu();
   };
-  let contentData = (
-    <div className="app-content" onClick={hideSideNav}>
-      <h1>Home Page</h1>
+  const openSideMenu = () => {
+    props.openSideMenu();
+  };
+  let contentPage = (
+    <div className="app-content" onClick={closeSideMenu}>
+      <HomePage openSideMenu={openSideMenu} />
     </div>
   );
   const content = props.contentData;
   if (content) {
-    contentData = (
-      <div className="app-content" onClick={hideSideNav}>
+    contentPage = (
+      <div className="app-content" onClick={closeSideMenu}>
         <h1>{content?.['english-heading']}</h1>
         <p>{content?.['english-sub-heading']}</p>
         <div className="videos-list">
@@ -38,5 +42,5 @@ export function AppContent(props: IAppContentProps) {
       </div>
     );
   }
-  return contentData;
+  return contentPage;
 }

@@ -26,5 +26,10 @@ export interface ISideNavItemProps {
 export interface IAppContentProps {
   currentLanguage: string;
   contentData: ISideMenuItem | null;
-  hideSideNav: () => void;
+  closeSideMenu: () => void;
+  openSideMenu: () => void;
+}
+
+export interface IHomePageProps {
+  openSideMenu: () => void;
 }

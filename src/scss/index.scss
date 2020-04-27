@@ -1,8 +1,9 @@
-@import 'mixins';
 @import './themes/light-mode';
 @import './themes/dark-mode';
+@import './helper/mixins';
+@import './helper/fonts';
+@import './helper/utilities';
 @import './components/all-components';
-@import 'utilities';
 
 
 html {

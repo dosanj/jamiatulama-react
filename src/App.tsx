@@ -53,10 +53,11 @@ export function App(props: Readonly<{}>) {
     setIsMenuOpen(false);
   };
 
-  const hideSideNav = () => {
-    if (isSmallDevice) {
-      setIsMenuOpen(false);
-    }
+  const closeSideMenu = () => {
+    setIsMenuOpen(false);
+  };
+  const openSideMenu = () => {
+    setIsMenuOpen(true);
   };
   const changeLanguage = (language: string) => {
     setCurrentLanguage(language);
@@ -95,21 +96,13 @@ export function App(props: Readonly<{}>) {
     selectionChanged('/');
     history.push('/');
     setCurrentSelectedItem((null as unknown) as ISideMenuItem);
+    setIsMenuOpen(false);
   };
   useEffect(() => {
     if (link && link !== currentLink) {
       setCurrentLink(link);
       selectionChanged(link);
       setCurrentSelectedItem(contentData[link]);
-    }
-    const handleSwipeLeft = () => {
-      if (isSmallDevice) {
-        setIsMenuOpen(false);
-      }
-    };
-    if (isSmallDevice) {
-      document.removeEventListener('swiped-left', handleSwipeLeft);
-      document.addEventListener('swiped-left', handleSwipeLeft);
     }
   }, [
     link,
@@ -142,7 +135,8 @@ export function App(props: Readonly<{}>) {
         />
         <AppContent
           currentLanguage={currentLanguage}
-          hideSideNav={hideSideNav}
+          closeSideMenu={closeSideMenu}
+          openSideMenu={openSideMenu}
           contentData={currentSelectedItem}
         />
       </div>
