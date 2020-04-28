@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './css/index.css';
 import { App } from './App';
-import { Switch, Route, HashRouter } from 'react-router-dom';
+import { Switch, Route, BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <HashRouter>
+  <BrowserRouter>
     <Switch>
       <Route path="/:link">
         <App />
@@ -14,6 +14,6 @@ ReactDOM.render(
         <App />
       </Route>
     </Switch>
-  </HashRouter>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
