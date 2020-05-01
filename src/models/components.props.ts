@@ -1,4 +1,5 @@
 import { ISideMenuItem } from '../data/navigation-page.data';
+import { IHomePageImage } from '../data/home-page.data';
 
 export interface IHeaderProps {
   isLightMode: boolean;
@@ -31,5 +32,9 @@ export interface IAppContentProps {
 }
 
 export interface IHomePageProps {
+  currentLanguage: string;
   openSideMenu: () => void;
+}
+export interface IImageSliderProps {
+  images: IHomePageImage[];
 }

@@ -10,7 +10,10 @@ export function AppContent(props: IAppContentProps) {
   };
   let contentPage = (
     <div className="app-content" onClick={closeSideMenu}>
-      <HomePage openSideMenu={openSideMenu} />
+      <HomePage
+        currentLanguage={props.currentLanguage}
+        openSideMenu={openSideMenu}
+      />
     </div>
   );
   const content = props.contentData;

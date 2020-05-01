@@ -5,7 +5,8 @@ backend:
 
 site_url: https://jamiatulamasolapur.netlify.app/
 publish_mode: editorial_workflow
-media_folder: src/assets/media
+media_folder: public/media
+public_folder: /media
 collections:
   - name: posts
     label: Posts
