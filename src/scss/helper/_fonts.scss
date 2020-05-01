@@ -1,6 +1,15 @@
 @font-face {
-    font-family: 'UrduFont';
-    src: url('../assets/fonts/UrduFont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'UrduFont';
+  src: url('../assets/fonts/UrduFont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+/* arabic */
+@font-face {
+  font-family: 'ArabicFont';
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/AmiriFont.woff2') format('truetype');
+  unicode-range: U+0600-06FF, U+200C-200E, U+2010-2011, U+204F, U+2E41,
+    U+FB50-FDFF, U+FE80-FEFC;
 }

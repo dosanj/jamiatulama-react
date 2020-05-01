@@ -1,65 +1,64 @@
 .clickable {
-    cursor: pointer;
+  cursor: pointer;
 }
 
 .primary-color {
-    color: var(--color-accent);
+  color: var(--color-accent);
 
-    &:hover {
-        color: var(--color-accent-hover);
-    }
+  &:hover {
+    color: var(--color-accent-hover);
+  }
 }
 
 .text-background-color {
-    background: var(--color-text);
+  background: var(--color-text);
 }
 
 h1 {
-    font-weight: 300;
-    text-align: center;
-    letter-spacing: 1px;
+  font-weight: 300;
+  text-align: center;
+  letter-spacing: 1px;
 }
 
-
 .urduText {
-    font-family: UrduFont;
-    line-height: 2em;
+  font-family: UrduFont;
+  line-height: 2em;
 }
 
 .arabicFont {
-    font-family: 'Amiri';
-    line-height: 2em;
+  font-family: 'ArabicFont';
+  line-height: 2em;
 }
 
 .button {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 12px 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 18px;
+  border: none;
+  border-radius: 100px;
+  box-shadow: 0 1px 5px var(--color-shadow);
+  color: var(--color-text-secondary);
+  background-color: var(--color-background);
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  outline-color: var(--color-accent);
+  transition: background-color 0.2s;
+
+  &:focus {
+    outline: none;
+  }
+
+  &.button-primary {
+    background-color: var(--color-accent);
+    color: #fff;
     border: none;
-    border-radius: 100px;
-    box-shadow: 0 1px 5px var(--color-shadow);
-    color: var(--color-text-secondary);
-    background-color: var(--color-background);
-    font-family: inherit;
-    font-size: 14px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    outline-color: var(--color-accent);
-    transition: background-color 0.2s;
 
-    &:focus {
-        outline: none;
+    &:hover {
+      background-color: var(--color-accent-hover);
     }
-
-    &.button-primary {
-        background-color: var(--color-accent);
-        color: #FFF;
-        border: none;
-
-        &:hover {
-            background-color: var(--color-accent-hover);
-        }
-    }
+  }
 }
