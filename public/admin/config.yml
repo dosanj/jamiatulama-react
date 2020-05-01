@@ -5,15 +5,14 @@ backend:
 
 site_url: https://jamiatulamasolapur.netlify.app/
 publish_mode: editorial_workflow
-media_folder: public/media
-public_folder: /media
+media_folder: src/assets/media
 collections:
   - name: posts
     label: Posts
     extension: json
     files:
-      - label: 'Website Content'
-        name: 'website-content'
+      - label: 'Navigation Content'
+        name: 'navigation-content'
         file: 'src/content/web-content.json'
         fields:
           - label: Main Category
@@ -141,3 +140,60 @@ collections:
                               widget: string,
                               required: false,
                             }
+      - label: 'Home Page Content'
+        name: 'home-page-content'
+        file: 'src/content/home-page.json'
+        fields:
+          - {
+              label: English Ayat Meaning,
+              name: english-ayat-meaning,
+              required: false,
+              widget: string,
+            }
+          - {
+              label: Hindi Ayat Meaning,
+              name: hindi-ayat-meaning,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Urdu Ayat Meaning,
+              name: urdu-ayat-meaning,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: English Know More Button,
+              name: english-know-more-button,
+              required: false,
+              widget: string,
+            }
+          - {
+              label: Hindi Know More Button,
+              name: hindi-know-more-button,
+              widget: string,
+              required: false,
+            }
+          - {
+              label: Urdu Know More Button,
+              name: urdu-know-more-button,
+              widget: string,
+              required: false,
+            }
+          - label: Images Gallery
+            name: gallery-images
+            widget: list
+            fields:
+              - {
+                  label: English Title,
+                  name: english-image-title,
+                  required: false,
+                  widget: string,
+                }
+              - {
+                  label: 'Image',
+                  name: 'image',
+                  widget: 'image',
+                  required: false,
+                  tagname: '',
+                }
