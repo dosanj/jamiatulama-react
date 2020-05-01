@@ -1,60 +1,55 @@
-.slider {
+.image-slider {
     width: 100%;
-    text-align: center;
     overflow: hidden;
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
 
-    img {
-        object-fit: cover;
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
+    &::-webkit-scrollbar {
+        width: 5px;
+        height: 5px;
     }
 
-    .slides {
+    &::-webkit-scrollbar-thumb {
+        background: var(--color-text-tertiary);
+        border-radius: 10px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: transparent;
+    }
+
+    &--images {
+        scroll-snap-align: start;
+        flex-shrink: 0;
+        width: 600px;
+        height: 400px;
+        overflow: hidden;
+        margin-right: 50px;
+        border-radius: 10px;
+        color: var(--color-text);
+        background: var(--color-highlight);
+        transform-origin: center center;
+        transform: scale 1;
+        transition: transform 0.5s;
+        position: relative;
         display: flex;
-        overflow-x: auto;
-        scroll-behavior: smooth;
-        -webkit-overflow-scrolling: touch;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding-top: 1rem;
 
-        &::-webkit-scrollbar {
-            width: 5px;
-            height: 5px;
+        img {
+            width: auto;
         }
 
-        &::-webkit-scrollbar-thumb {
-            background: var(--color-text-tertiary);
-            border-radius: 10px;
+        @include if-mobile() {
+            width: 100%;
+            height: auto;
+
         }
-
-        &::-webkit-scrollbar-track {
-            background: transparent;
-        }
-
-        >div {
-            scroll-snap-align: start;
-            flex-shrink: 0;
-            width: 600px;
-            height: 400px;
-            margin-right: 50px;
-            border-radius: 10px;
-            color: var(--color-text);
-            background: var(--color-highlight);
-            transform-origin: center center;
-            transform: scale 1;
-            transition: transform 0.5s;
-            position: relative;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 100px;
-
-            @include if-mobile() {
-                width: 100%;
-                height: 300px;
-            }
-        }
-
     }
+
 }
