@@ -15,7 +15,10 @@ export function SideNav(props: ISideNavProps) {
           navLevel={navLevel}
         />
       ))}
-      <div className="donate-button">
+      <div className="become-member-link" onClick={props.closeSideMenu}>
+        <Link to="/become-member"> Become a Member </Link>
+      </div>
+      <div className="donate-button" onClick={props.closeSideMenu}>
         <button className="button button-primary clickable">
           <Link to="/donate-us"> Donate Us</Link>
         </button>

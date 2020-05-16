@@ -14,6 +14,7 @@ export interface ISideNavProps {
   currentLanguage: string;
   isMenuOpen: boolean;
   sideNavData: ISideMenuItem[];
+  closeSideMenu: () => void;
 }
 
 export interface ISideNavItemProps {

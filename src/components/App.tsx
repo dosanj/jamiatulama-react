@@ -33,6 +33,7 @@ export function App() {
       selectionChanged(link);
       setCurrentSelectedItem(contentData[link]);
       setCurrentLink(link);
+      closeSideMenu();
     }
   };
 
@@ -100,11 +101,19 @@ export function App() {
         <SideNav
           currentLanguage={currentLanguage}
           isMenuOpen={isMenuOpen}
+          closeSideMenu={closeSideMenu}
           sideNavData={sideNavData}
         />
         <Switch>
+          <Route path="/become-member">
+            <div className="become-member">
+              <h1> Become a Member </h1>
+            </div>
+          </Route>
           <Route path="/donate-us">
-            <h1> Donate us </h1>
+            <div className="donate-us">
+              <h1> Donate us </h1>
+            </div>
           </Route>
           <Route path="/:link">
             <AppContent
@@ -125,7 +134,6 @@ export function App() {
             />
           </Route>
         </Switch>
-        ,
       </div>
     </div>
   );

@@ -1,53 +1,59 @@
 .side-nav {
-    box-shadow: 0px 1px 4px var(--color-shadow-dark);
-    display: block;
-    transition: ease-out margin 0.2s;
-    overflow-y: hidden;
-    padding-top: 1rem;
-    width: 260px;
-    background-color: var(--color-background);
+  box-shadow: 0px 1px 4px var(--color-shadow-dark);
+  display: block;
+  transition: ease-out margin 0.2s;
+  overflow-y: hidden;
+  padding-top: 1rem;
+  width: 260px;
+  background-color: var(--color-background);
 
-    @include if-mobile() {
-        position: fixed;
-        height: calc(100% - 60px);
-        z-index: 1;
-        margin-top: 2px;
-    }
+  @include if-mobile() {
+    position: fixed;
+    height: calc(100% - 60px);
+    z-index: 1;
+    margin-top: 2px;
+  }
 
-    &:hover {
-        overflow-y: overlay;
-    }
+  &:hover {
+    overflow-y: overlay;
+  }
 
-    &>.side-nav--item {
-        border-bottom: 1px solid var(--color-text-tertiary);
-    }
+  & > .side-nav--item {
+    border-bottom: 1px solid var(--color-text-tertiary);
+  }
 
+  &.show {
+    margin-left: 0px;
+  }
 
-    &.show {
-        margin-left: 0px;
-    }
+  &.hide {
+    margin-left: -260px;
+    box-shadow: none;
+  }
 
-    &.hide {
-        margin-left: -260px;
-        box-shadow: none;
-    }
+  &::-webkit-scrollbar {
+    width: 0.5em;
+  }
 
-    &::-webkit-scrollbar {
-        width: 0.5em;
-    }
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
 
-    &::-webkit-scrollbar-track {
-        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
-    }
-
-    &::-webkit-scrollbar-thumb {
-        background-color: #aaa;
-        border-radius: 10px;
-    }
+  &::-webkit-scrollbar-thumb {
+    background-color: #aaa;
+    border-radius: 10px;
+  }
 }
-
 .donate-button {
-    display: flex;
-    padding: 1rem 0;
-    justify-content: center;
+  display: flex;
+  padding: 1rem 0;
+  justify-content: center;
+}
+.become-member-link {
+  display: flex;
+  padding: 1rem 0;
+  justify-content: center;
+  :hover {
+    color: var(--color-accent-hover);
+  }
 }
