@@ -27,14 +27,14 @@ export function expandList() {
     expand(item);
   });
 }
-export function createUrl(item: ISideMenuItem): string | null {
+export function createUrl(item: ISideMenuItem): string {
   if (item['external-url']) {
     return item['external-url'];
   }
   if (item && item['english-name'] && !item.children) {
     return item['english-name'].toLowerCase().replace(/ /g, '-');
   }
-  return null;
+  return '';
 }
 export function getContentData() {
   if (contentData) {

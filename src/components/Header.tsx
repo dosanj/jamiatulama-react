@@ -1,9 +1,9 @@
-import React from 'react';
-import MenuOpenRounded from '@material-ui/icons/MenuOpenRounded';
-import Menu from '@material-ui/icons/Menu';
-import Brightness2Outlined from '@material-ui/icons/Brightness2Outlined';
-import Brightness2 from '@material-ui/icons/Brightness2';
-import TranslateIcon from '@material-ui/icons/Translate';
+import React from "react";
+import MenuOpenRounded from "@material-ui/icons/MenuOpenRounded";
+import Menu from "@material-ui/icons/Menu";
+import Brightness2Outlined from "@material-ui/icons/Brightness2Outlined";
+import Brightness2 from "@material-ui/icons/Brightness2";
+import TranslateIcon from "@material-ui/icons/Translate";
 import {
   MenuItem,
   Popper,
@@ -11,9 +11,10 @@ import {
   Paper,
   ClickAwayListener,
   MenuList,
-} from '@material-ui/core';
-import { IHeaderProps } from '../models/components.props';
-import { Languages } from '../services/utility-service';
+} from "@material-ui/core";
+import { IHeaderProps } from "../models/components.props";
+import { Languages } from "../services/utility-service";
+import { Link } from "react-router-dom";
 
 export function Header(props: IHeaderProps) {
   const [languagePopupOpen, setLanguagePopupOpen] = React.useState(false);
@@ -23,7 +24,7 @@ export function Header(props: IHeaderProps) {
     setLanguagePopupOpen((prevOpen) => !prevOpen);
   };
 
-  const handleClose = (event: any, language = '') => {
+  const handleClose = (event: any, language = "") => {
     if (
       (anchorRef as any).current &&
       (anchorRef as any).current.contains(event.target)
@@ -37,7 +38,7 @@ export function Header(props: IHeaderProps) {
   };
 
   function handleListKeyDown(event: any) {
-    if (event.key === 'Tab') {
+    if (event.key === "Tab") {
       event.preventDefault();
       setLanguagePopupOpen(false);
     }
@@ -65,26 +66,23 @@ export function Header(props: IHeaderProps) {
       </span>
     );
   };
-  const goToHomePage = () => {
-    props.goToHomePage();
-  };
   return (
     <header className="app-header">
       <div className="app-header--logo">
         {showMenuIcon()}
-        <span
-          className="app-header--logo__name clickable"
-          onClick={goToHomePage}
-        >
-          Jamiat Ulama{' '}
-          <span className="app-header--logo__name__main"> Solapur</span>
-        </span>
+        <Link to="/">
+          {" "}
+          <span className="app-header--logo__name clickable">
+            Jamiat Ulama{" "}
+            <span className="app-header--logo__name__main"> Solapur</span>
+          </span>
+        </Link>
       </div>
       <div className="app-header--right-side">
         <span
           className={`app-header--right-side__language-switcher clickable`}
           ref={anchorRef}
-          aria-controls={languagePopupOpen ? 'language-switcher' : undefined}
+          aria-controls={languagePopupOpen ? "language-switcher" : undefined}
           aria-haspopup="true"
           onClick={changeLanguage}
         >
@@ -102,7 +100,7 @@ export function Header(props: IHeaderProps) {
               {...TransitionProps}
               style={{
                 transformOrigin:
-                  placement === 'bottom' ? 'center top' : 'center bottom',
+                  placement === "bottom" ? "center top" : "center bottom",
               }}
             >
               <Paper>

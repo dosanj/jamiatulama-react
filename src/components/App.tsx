@@ -1,21 +1,18 @@
-import React, { useState, useEffect, useCallback } from 'react';
-import { Header } from './components/Header';
-import { SideNav } from './components/SideNav';
-import { AppContent } from './components/AppContent';
-import { sideMenuDetails, ISideMenuItem } from './data/navigation-page.data';
+import React, { useState, useCallback } from "react";
+import { Header } from "./Header";
+import { SideNav } from "./SideNav";
+import { AppContent } from "./AppContent";
+import { sideMenuDetails, ISideMenuItem } from "../data/navigation-page.data";
 import {
   createUrl,
   getContentData,
   Languages,
-} from './services/utility-service';
-import { useParams, useHistory, useRouteMatch } from 'react-router-dom';
-import { checkIfSmallDevice } from './services/is-small-device-hook';
+} from "../services/utility-service";
+import { Route, Switch } from "react-router-dom";
+import { checkIfSmallDevice } from "../services/is-small-device-hook";
 
-export function App(props: Readonly<{}>) {
+export function App() {
   // Hooks
-  const { link } = useParams();
-  const match = useRouteMatch();
-  const history = useHistory();
   const contentData = getContentData();
   const isSmallDevice = checkIfSmallDevice();
 
@@ -25,11 +22,20 @@ export function App(props: Readonly<{}>) {
     Languages.ENGLISH as string
   );
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [currentLink, setCurrentLink] = useState();
   const [sideNavData, setSideNavData] = useState(sideMenuDetails);
   const [currentSelectedItem, setCurrentSelectedItem] = useState(
     (null as unknown) as ISideMenuItem
   );
-  const [currentLink, setCurrentLink] = useState('');
+
+  const linkChanged = (link: any) => {
+    if (currentLink !== link) {
+      selectionChanged(link);
+      setCurrentSelectedItem(contentData[link]);
+      setCurrentLink(link);
+    }
+  };
+
   // Functions
 
   const toggleCurrentTheme = () => {
@@ -38,19 +44,6 @@ export function App(props: Readonly<{}>) {
 
   const toggleMenu = () => {
     setIsMenuOpen(!isMenuOpen);
-  };
-  const openLink = (item: ISideMenuItem) => {
-    if (item) {
-      if (item['external-url']) {
-        window.open(item['external-url'], '_blank');
-      } else {
-        const url = Object.keys(match.params).length
-          ? match.path.replace(':link', createUrl(item) as string)
-          : match.url + createUrl(item);
-        history.push(url);
-      }
-    }
-    setIsMenuOpen(false);
   };
 
   const closeSideMenu = () => {
@@ -67,7 +60,7 @@ export function App(props: Readonly<{}>) {
     (item: ISideMenuItem, link: string | null): boolean => {
       if (!item.children || item.children.length === 0) {
         item.selected =
-          item['english-name'] && link ? createUrl(item) === link : false;
+          item["english-name"] && link ? createUrl(item) === link : false;
         return item.selected;
       }
       item.expand = false;
@@ -79,6 +72,7 @@ export function App(props: Readonly<{}>) {
     },
     []
   );
+
   const selectionChanged = useCallback(
     (link: string): void => {
       sideNavData.forEach((item: ISideMenuItem) => {
@@ -90,34 +84,10 @@ export function App(props: Readonly<{}>) {
     },
     [markItemSelected, sideNavData]
   );
-  // Logic
-  const goToHomePage = () => {
-    setCurrentLink('/');
-    selectionChanged('/');
-    history.push('/');
-    setCurrentSelectedItem((null as unknown) as ISideMenuItem);
-    setIsMenuOpen(false);
-  };
-  useEffect(() => {
-    if (link && link !== currentLink) {
-      setCurrentLink(link);
-      selectionChanged(link);
-      setCurrentSelectedItem(contentData[link]);
-    }
-  }, [
-    link,
-    currentLink,
-    contentData,
-    isSmallDevice,
-    sideNavData,
-    history,
-    selectionChanged,
-  ]);
 
   return (
-    <div className={isLightMode ? 'light-mode main-app' : 'dark-mode main-app'}>
+    <div className={isLightMode ? "light-mode main-app" : "dark-mode main-app"}>
       <Header
-        goToHomePage={goToHomePage}
         isSmallDevice={isSmallDevice}
         isLightMode={isLightMode}
         isMenuOpen={isMenuOpen}
@@ -129,16 +99,33 @@ export function App(props: Readonly<{}>) {
       <div className="app-layout">
         <SideNav
           currentLanguage={currentLanguage}
-          changeSelection={(item) => openLink(item)}
           isMenuOpen={isMenuOpen}
           sideNavData={sideNavData}
         />
-        <AppContent
-          currentLanguage={currentLanguage}
-          closeSideMenu={closeSideMenu}
-          openSideMenu={openSideMenu}
-          contentData={currentSelectedItem}
-        />
+        <Switch>
+          <Route path="/donate-us">
+            <h1> Donate us </h1>
+          </Route>
+          <Route path="/:link">
+            <AppContent
+              linkChanged={linkChanged}
+              currentLanguage={currentLanguage}
+              closeSideMenu={closeSideMenu}
+              openSideMenu={openSideMenu}
+              contentData={currentSelectedItem}
+            />
+          </Route>
+          <Route path="/">
+            <AppContent
+              linkChanged={linkChanged}
+              currentLanguage={currentLanguage}
+              closeSideMenu={closeSideMenu}
+              openSideMenu={openSideMenu}
+              contentData={currentSelectedItem}
+            />
+          </Route>
+        </Switch>
+        ,
       </div>
     </div>
   );
