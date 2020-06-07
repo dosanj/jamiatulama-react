@@ -10,6 +10,8 @@ import {
 } from "../services/utility-service";
 import { Route, Switch } from "react-router-dom";
 import { checkIfSmallDevice } from "../services/is-small-device-hook";
+import { BecomeMember } from "./BecomeMember";
+import { DonateUs } from "./DonateUs";
 
 export function App() {
   // Hooks
@@ -106,14 +108,10 @@ export function App() {
         />
         <Switch>
           <Route path="/become-member">
-            <div className="become-member">
-              <h1> Become a Member </h1>
-            </div>
+            <BecomeMember />
           </Route>
           <Route path="/donate-us">
-            <div className="donate-us">
-              <h1> Donate us </h1>
-            </div>
+            <DonateUs />
           </Route>
           <Route path="/:link">
             <AppContent
