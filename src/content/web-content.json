@@ -2161,7 +2161,7 @@
       ]
     },
     {
-      "english-name": "دوسرے عنوانات",
+      "english-name": "Others",
       "children": [
         {
           "english-name": "Useful Online Information",
@@ -2394,7 +2394,8 @@
             }
           ]
         }
-      ]
+      ],
+      "urdu-name": "دوسرے عنوانات"
     }
   ]
 }
