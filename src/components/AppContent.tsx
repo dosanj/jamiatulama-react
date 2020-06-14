@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { IAppContentProps } from "../models/components.props";
 import { HomePage } from "./HomePage";
 import { useParams } from "react-router-dom";
+import { Languages } from "../services/utility-service";
 export function AppContent(props: IAppContentProps) {
   const { link } = useParams();
 
@@ -19,6 +20,35 @@ export function AppContent(props: IAppContentProps) {
       />
     </div>
   );
+  const getHeading = () => {
+    const content = props.contentData;
+    let heading;
+    if (props.currentLanguage === Languages.URDU) {
+      heading = content?.["urdu-heading"];
+    }
+    if (props.currentLanguage === Languages.HINDI) {
+      heading = content?.["hindi-heading"];
+    }
+    if (!name) {
+      heading = content?.["english-heading"];
+    }
+    return heading;
+  };
+  const getSubHeading = () => {
+    const content = props.contentData;
+    let heading;
+    if (props.currentLanguage === Languages.URDU) {
+      heading = content?.["urdu-sub-heading"];
+    }
+    if (props.currentLanguage === Languages.HINDI) {
+      heading = content?.["hindi-sub-heading"];
+    }
+    if (!name) {
+      heading = content?.["english-sub-heading"];
+    }
+    return heading;
+  };
+
   useEffect(() => {
     props.linkChanged(link);
   });
@@ -26,8 +56,8 @@ export function AppContent(props: IAppContentProps) {
   if (content) {
     contentPage = (
       <div className="app-content" onClick={closeSideMenu}>
-        <h1>{content?.["english-heading"]}</h1>
-        <p>{content?.["english-sub-heading"]}</p>
+        <h1>{getHeading()}</h1>
+        <p>{getSubHeading()}</p>
         <div className="videos-list">
           {content["videos-list"]?.map((video) => {
             return (

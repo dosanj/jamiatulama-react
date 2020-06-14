@@ -1,18 +1,22 @@
-import data from '../content/web-content.json';
+import data from "../content/web-content.json";
 export interface ISideMenuItem {
-  'english-name': string;
-  'english-heading'?: string;
-  'english-sub-heading'?: string;
-  'urdu-name'?: string;
-  'hindi-name'?: string;
+  "english-name": string;
+  "english-heading"?: string;
+  "english-sub-heading"?: string;
+  "urdu-heading"?: string;
+  "urdu-sub-heading"?: string;
+  "hindi-heading"?: string;
+  "hindi-sub-heading"?: string;
+  "urdu-name"?: string;
+  "hindi-name"?: string;
   expand?: boolean;
-  'external-url'?: string;
+  "external-url"?: string;
   selected?: boolean;
   children?: ISideMenuItem[];
-  'videos-list'?: IVideo[];
+  "videos-list"?: IVideo[];
 }
 export interface IVideo {
-  'video-url': string;
+  "video-url": string;
   english: string;
   hindi: string;
   urdu: string;
