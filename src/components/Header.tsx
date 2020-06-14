@@ -74,6 +74,9 @@ export function Header(props: IHeaderProps) {
     if (currentLanguage === Languages.HINDI) {
       return "हिन्दी";
     }
+    if (currentLanguage === Languages.ENGLISH) {
+      return "English";
+    }
     return currentLanguage;
   };
   return (
