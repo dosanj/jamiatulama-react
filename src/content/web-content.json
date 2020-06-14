@@ -4,146 +4,11 @@
       "english-name": "Topics",
       "children": [
         {
-          "english-name": "Social Issues",
+          "english-name": "تازہ ترین رجحان",
           "children": [
             {
-              "english-name": "Cleanliness",
-              "english-heading": "Cleanliness In Muslim Society",
-              "english-sub-heading": "Throwing garbage and spitting on roads. Dirty Masjid Toilet. Clean house but dirty society.",
-              "videos-list": [
-                {
-                  "video-url": "https://youtube.com/embed/lue4Em1AKfY",
-                  "english": "Kids teaching not to throw garbage on road",
-                  "hindi": "सड़क पर कचरा नहीं फेंकना सिखा रहे बच्चे",
-                  "urdu": "بچے کچرے کو سڑک پر نہ پھینکنا سکھاتے ہیں"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/LLWxZymPBYo",
-                  "english": "if you know that Qiyamat is coming tomorrow, plan a tree today",
-                  "hindi": "अगर आप जानते हैं कि कल क़यामत आ रही है, तो आज एक पेड़ लगाएं",
-                  "urdu": "اگر آپ جانتے ہیں کہ قیامت کل آنے والی ہے تو آج ہی ایک درخت لگایں بنائیں"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/aLaLbNm3W34",
-                  "english": "a funny video of spitting on road",
-                  "hindi": "सड़क पर थूकने का एक मज़ेदार वीडियो",
-                  "urdu": "سڑک پر تھوکنے کی ایک مزاحیہ ویڈیو"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/iNRavFdKC8U",
-                  "english": "is corporation responsible for dirty Muslim societies?",
-                  "hindi": "क्या गंदे मुस्लिम मोहल्लों के लिए कारपोरेशन जिम्मेदार है?",
-                  "urdu": "کیا گندے مسلم معاشروں کے لئے کارپوریشن ذمہ دار ہے؟"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/XT9aDTC1aFY",
-                  "english": "keep on watching the video and count the total loss",
-                  "hindi": "वीडियो को देखते रहें और कुल नुकसान को गिनें",
-                  "urdu": "ویڈیو دیکھنا جاری رکھیں اور کل نقصان گنیں"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/fsdGsUOKWu4",
-                  "english": "how garbage starts collects on road?",
-                  "hindi": "सड़क पर कचरा कैसे जमा होना शुरू होता है?",
-                  "urdu": "سڑک پر کچرا جمع ہونا کس طرح شروع ہوتا ہے؟"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/2fs0IUQlzbw",
-                  "english": "few young people cleaning Masjid - Pune Maharashtra",
-                  "hindi": "मस्जिद की सफाई करते कुछ नौजवान - पूना महाराष्ट्र",
-                  "urdu": "مسجد کی صفائی کرنے والے کچھ نوجوان - پونہ مہاراشٹر"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/Huj1s7fRBB4",
-                  "english": "Foreign tablighi jamat and indian dirty wuzu khana and toilet",
-                  "hindi": "बहार मुल्क की तब्लीगी जमात और भारतीय गंदे वुज़ू खान और टॉयलेट",
-                  "urdu": "غیر ملکی تبلیغی جماعت اور ہندوستانی گندے وضو خانہ اور ٹوائلٹ"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/CRtVOE3zolw",
-                  "english": "cleanliness in Europe and in our society",
-                  "hindi": "यूरोप और हमारे समाज में स्वच्छता",
-                  "urdu": "یورپ اور ہمارے معاشرے میں صفائی"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/u3-uzMk90G8",
-                  "english": "House and cloth clean but society dirty",
-                  "hindi": "घर और कपड़ा साफ लेकिन समाज गंदा",
-                  "urdu": "گھر اور کپڑا صاف لیکن معاشرے گندا"
-                }
-              ],
-              "hindi-name": "मुस्लिम मोहल्ले  में सफाई"
-            },
-            {
-              "english-name": "Eating Habbits",
-              "english-heading": "GOOD AND BAD EATING HABITS",
-              "english-sub-heading": "Belly fat. When to eat and when to stop. Who gets the benefit of Gutkha. Eating habits of Prophet Mohammad (pbuh). Cycling",
-              "videos-list": [
-                {
-                  "video-url": "https://youtube.com/embed/E4xQmyKN_Z0",
-                  "english": "Prophet Mohammed put his finger in one man's tummy",
-                  "hindi": "पैगंबर मोहम्मद ने एक आदमी के तोंद में अपनी उंगली डाल दी",
-                  "urdu": "حضرت محمد صلی اللہ علیہ وسلم نے ایک شخص کے توند میں انگلی ڈالی"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/18vN6X912os",
-                  "english": "Gutkha- you are benefiting companies by spoiling your heath and future of your wife and children. you know better gutkha benefits",
-                  "hindi": "गुटखा - आप अपनी सेहत और बीवी बच्चों के भविष्य ख़राब करके गुटखा कम्पनी का फ़ायदा कर रहे हो. गुटखा के फायदे तो आप जानते हो",
-                  "urdu": "گٹکے - آپ اپنی صحت اور اپنی بیوی اور بچوں کے مستقبل کو خراب کرکے کمپنیوں کو فائدہ دے رہے ہیں. آپ گٹکے کے بہتر فوائد جانتے ہیں"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/qu07R5HbNqE",
-                  "english": "Obesity is reason for all deceases",
-                  "hindi": "मोटापा सभी बीमारी की वजह है",
-                  "urdu": "موٹاپا ہر طرح کی بیماری کا سبب ہے"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/GKni72rRKow",
-                  "english": "Eating lifestyle of Prophet Mohammad (pbuh) - Lecture in English",
-                  "hindi": "पैगंबर मोहम्मद की खाने की ज़िन्दगी - अंग्रेजी में बयान",
-                  "urdu": "حضرت محمد مصطفی صلی اللہ علیہ وسلم کا کھانے کا طرز زندگی۔ انگریزی میں لیکچر"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/0kPfBb-jGAw",
-                  "english": "Many suggestions on healthy life style and eating habits",
-                  "hindi": "सेहत मंद ज़िन्दगी और खाने के बारे में बहोत सारे मशवरे",
-                  "urdu": "صحت مند طرز زندگی اور کھانے کی عادات سے متعلق بہت سارے مشورے"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/gQ-oKGKb9v0",
-                  "english": "Pepsi and Coca cola",
-                  "hindi": "पेप्सी और कोका कोला",
-                  "urdu": "پیپسی اور کوکا کولا"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/lz71IL6ZUxg",
-                  "english": "religious people are also obese",
-                  "hindi": "दीनदारा लोग भी मोठे होते हैं",
-                  "urdu": "دیندار لوگ بھی موٹے ہوتے ہیں"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/I9woF0Ry5A8",
-                  "english": "when to eat and when to stop eating?",
-                  "hindi": "कब खाना है और कब खाना बंद करना है?",
-                  "urdu": "کب کھانا ہے اور کب کھانا بند کرنا ہے؟"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/GOrxCTajtUs",
-                  "english": "Cycling to office/work",
-                  "hindi": "ऑफिस / काम के लिए साइकिल चलाना",
-                  "urdu": "دفتر / کام پر سائیکلنگ"
-                },
-                {
-                  "video-url": "https://youtube.com/embed/vdmenPb41qw",
-                  "english": "Islam and Gym",
-                  "hindi": "اسلام اور جم",
-                  "urdu": "इस्लाम और जिम,"
-                }
-              ]
-            },
-            {
               "english-name": "Food Waste",
-              "english-heading": "FOOD WASTING",
+              "english-heading": "خوراک ضائع کرنا",
               "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
               "videos-list": [
                 {
@@ -252,9 +117,9 @@
               ]
             },
             {
-              "english-name": "Pornography and Adult films",
-              "english-heading": "PORNOGRAPHY - NUDE FILMS",
-              "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
+              "english-name": "فحش ننگی فلمیں",
+              "english-heading": "فحش - ننگی فلمیں",
+              "english-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Ebn2vvqElDM",
@@ -307,7 +172,7 @@
               ]
             },
             {
-              "english-name": "Cloths Charity",
+              "english-name": "استعمال شدہ لباس  کا  صدقہ",
               "english-heading": "",
               "english-sub-heading": "",
               "videos-list": [
@@ -332,9 +197,9 @@
               ]
             },
             {
-              "english-name": "Street Beggers",
-              "english-heading": "STREET & MASJID BEGGERS",
-              "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
+              "english-name": "راستے کے بھکاری",
+              "english-heading": "مسجد اور راستے کے بھکاری",
+              "english-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/4CQFBRrWArE",
@@ -375,8 +240,8 @@
               ]
             },
             {
-              "english-name": "Corruption",
-              "english-heading": "CORRUPTION",
+              "english-name": "\"بدعنوانی\"",
+              "english-heading": "\"بدعنوانی\"",
               "english-sub-heading": "Generally speaking as “the abuse of entrusted power for private gain”. Corruption can be classified as grand, petty and political, depending on the amounts of money lost and the sector where it occurs.",
               "videos-list": [
                 {
@@ -910,7 +775,9 @@
                   "hindi": "दुनिया की १०० असर दार शक्सियात",
                   "urdu": "دنیا کی 100 اثر دار شخصیات"
                 }
-              ]
+              ],
+              "urdu-name": "سیرت ان نبی نہیں جاننا",
+              "urdu-heading": "حضرت محمد صلی اللہ علیہ وسلم کی زندگی"
             },
             {
               "english-name": "Living with Non-Muslims",
@@ -965,7 +832,8 @@
                   "hindi": "खलीफा उमर ने एक गैर मुस्लिम भिखारी की मदद की",
                   "urdu": "خلیفہ عمر نے ایک غیر مسلم بھکاری کی مدد کی"
                 }
-              ]
+              ],
+              "urdu-name": "غیر مسلم کے ساتھ رہنا"
             },
             {
               "english-name": "Missing Fajr",
@@ -2268,7 +2136,7 @@
       ]
     },
     {
-      "english-name": "Others",
+      "english-name": "دوسرے عنوانات",
       "children": [
         {
           "english-name": "Useful Online Information",
@@ -2337,7 +2205,7 @@
           ]
         },
         {
-          "english-name": "Islamic History",
+          "english-name": "اسلامی تاریخ",
           "children": [
             {
               "english-name": "Muslim in Freedom of India",
