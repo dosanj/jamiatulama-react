@@ -7,9 +7,9 @@
           "english-name": "تازہ ترین رجحان",
           "children": [
             {
-              "english-name": "کھانا ضائع کرنا",
-              "english-heading": "خوراک ضائع کرنا",
-              "english-sub-heading": "ھانے کی بربادی بوفے سسٹم میں بھی۔ ہندوستان اور دنیا میں کھانا ضائع کرنا۔ ریسٹورانٹ کے بچے ہوے کھانے کا استعمال۔ رمضان میں کھانا ضائع کرنا۔ روٹی بینک۔",
+              "english-name": "FOOD WASTING",
+              "english-heading": "FOOD WASTING",
+              "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/mTYFnB1T2qU",
@@ -59,12 +59,15 @@
                   "hindi": "ज़मीन पर सब से ज़्यदा भूकी जगह",
                   "urdu": "زمین پر سب سے زیدہ بھوکا مقام"
                 }
-              ]
+              ],
+              "urdu-name": "کھانا ضائع کرنا",
+              "urdu-heading": "خوراک ضائع کرنا",
+              "urdu-sub-heading": "ھانے کی بربادی بوفے سسٹم میں بھی۔ ہندوستان اور دنیا میں کھانا ضائع کرنا۔ ریسٹورانٹ کے بچے ہوے کھانے کا استعمال۔ رمضان میں کھانا ضائع کرنا۔ روٹی بینک۔"
             },
             {
-              "english-name": "سوشل میڈیا کا استعمال",
-              "english-heading": "سوشل میڈیا کا استعمال",
-              "english-sub-heading": "فون کے آداب۔ حج / عمرہ سیلفی۔ سوشل میڈیا پر وقت ضائع کرنا۔ مسجد میں موبائل فون۔ جھوٹھے واٹس ایپ میسج ۔",
+              "english-name": "Social Media",
+              "english-heading": "USE OF SOCIAL MEDIA",
+              "english-sub-heading": "Phone etiquette. Hajj/Umrah selfie. Wasting time on social media. Mobile phone in masjid. Fake WhatsApp messages.",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/8ZF3Wa07r5A",
@@ -114,12 +117,15 @@
                   "hindi": "सोशल मीडिया के फायदे",
                   "urdu": "سوشل میڈیا کے فوائد"
                 }
-              ]
+              ],
+              "urdu-name": "سوشل میڈیا کا استعمال",
+              "urdu-heading": "سوشل میڈیا کا استعمال",
+              "urdu-sub-heading": "فون کے آداب۔ حج / عمرہ سیلفی۔ سوشل میڈیا پر وقت ضائع کرنا۔ مسجد میں موبائل فون۔ جھوٹھے واٹس ایپ میسج "
             },
             {
-              "english-name": "فحش ننگی فلمیں",
-              "english-heading": "فحش - ننگی فلمیں",
-              "english-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے",
+              "english-name": "PORNOGRAPHY AND  ADULTS FLIMS",
+              "english-heading": "PORNOGRAPHY - NUDE FILMS",
+              "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Ebn2vvqElDM",
@@ -169,10 +175,13 @@
                   "hindi": "कैसे पोर्न आपके दिमाग को नष्ट कर देता है",
                   "urdu": "کس طرح فحش آپ کے دماغ کو ختم کرتی ہے"
                 }
-              ]
+              ],
+              "urdu-name": "فحش ننگی فلمیں",
+              "urdu-heading": "فحش - ننگی فلمیں",
+              "urdu-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے"
             },
             {
-              "english-name": "استعمال شدہ لباس  کا  صدقہ",
+              "english-name": "cloths charity",
               "english-heading": "",
               "english-sub-heading": "",
               "videos-list": [
@@ -194,12 +203,13 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "استعمال شدہ لباس  کا  صدقہ"
             },
             {
-              "english-name": "راستے کے بھکاری",
-              "english-heading": "مسجد اور راستے کے بھکاری",
-              "english-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری",
+              "english-name": "STREET BEGGERS",
+              "english-heading": "STREET & MASJID BEGGERS",
+              "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/4CQFBRrWArE",
@@ -237,11 +247,14 @@
                   "hindi": "इस मामले में सदक़ा करना हराम है",
                   "urdu": "اس معاملے میں صدقہ کرنا حرام ہے"
                 }
-              ]
+              ],
+              "urdu-name": "راستے کے بھکاری",
+              "urdu-heading": "مسجد اور راستے کے بھکاری",
+              "urdu-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری"
             },
             {
-              "english-name": "\"بدعنوانی\"",
-              "english-heading": "\"بدعنوانی\"",
+              "english-name": "Corruption",
+              "english-heading": "Corruption",
               "english-sub-heading": "Generally speaking as “the abuse of entrusted power for private gain”. Corruption can be classified as grand, petty and political, depending on the amounts of money lost and the sector where it occurs.",
               "videos-list": [
                 {
@@ -268,12 +281,14 @@
                   "hindi": "किसी का माल ना हक़ खाना",
                   "urdu": "کسی کا مال نہ حق کھانا"
                 }
-              ]
+              ],
+              "urdu-name": "\"بدعنوانی\"",
+              "urdu-heading": "\"بدعنوانی\""
             },
             {
-              "english-name": "تعلیم",
-              "english-heading": "تعلیم میں مسلمان",
-              "english-sub-heading": "تعلیم میں مسلمان",
+              "english-name": "Education",
+              "english-heading": "Muslims in Education ",
+              "english-sub-heading": "Muslims in Education ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/phBN9b-kexU",
@@ -311,12 +326,15 @@
                   "hindi": "मुसलमान कब पढ़ेगा?",
                   "urdu": "مسلمان کب پڑھے گا؟"
                 }
-              ]
+              ],
+              "urdu-name": "تعلیم ",
+              "urdu-heading": "تعلیم میں مسلمان",
+              "urdu-sub-heading": "تعلیم میں مسلمان"
             },
             {
-              "english-name": "\"مغرب میں خاندانی نظام\"",
-              "english-heading": "مغربی ممالک میں زندگی",
-              "english-sub-heading": "لوگ دوست / اہل خانہ سے بات نہیں کرتے ، بچے صرف ماؤں کے ساتھ ہوتے ہیں اور والد نہیں ، شادی کے بغیر بچے ، والد کی غیر موجودگی کی وجہ سے مسئلہ ، مرد خود کشی ، قانونی خودکشی سوئٹزرلینڈ میں.ہم جنس پرست شادی",
+              "english-name": "FAMILY System",
+              "english-heading": "LIFE IN WESTERN COUNTRIES",
+              "english-sub-heading": "People not speaking to Friends/Families, Kids only with mothers and no fathers,Kids without marriage, problem due to no presence of father, Men suicide, legal suicide in Switzerland. Same sex marriage",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/qFOvxG5sXpM",
@@ -372,12 +390,15 @@
                   "hindi": "जब गैरत मर जाती है।",
                   "urdu": "جب غیرت مر جاتی ہے"
                 }
-              ]
+              ],
+              "urdu-name": "\"مغرب میں خاندانی نظام\"",
+              "urdu-heading": "مغربی ممالک میں زندگی",
+              "urdu-sub-heading": "لوگ دوست / اہل خانہ سے بات نہیں کرتے ، بچے صرف ماؤں کے ساتھ ہوتے ہیں اور والد نہیں ، شادی کے بغیر بچے ، والد کی غیر موجودگی کی وجہ سے مسئلہ ، مرد خود کشی ، قانونی خودکشی سوئٹزرلینڈ میں.ہم جنس پرست شادی"
             },
             {
-              "english-name": "جھگڑے کو حل کرنا",
-              "english-heading": "دارالقضا / شرعی عدالت",
-              "english-sub-heading": "دارالقضا کیا ہے؟ آج کے معاشرے میں اس کی اہمیت اور ہندوستانی عدلیہ کے نظام میں مدد۔ حضرت محمد (ص) مدینہ منورہ میں دارالقضا کو کس طرح قائم کی ۔ نیز ہندوستانی عدالتوں میں پینڈنگ عدالتی مقدمات",
+              "english-name": "Dispute Solving",
+              "english-heading": "DARUL QAZA/ SHARIAH COURT",
+              "english-sub-heading": "What is Darul Qaza? its importance in today's society and assistance to indian judiciary system. How Prophet Mohammad (pbuh) establish Darul Qaza in Madina. Also pending court cases in Indian courts",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/FwHa5INAi4s",
@@ -433,7 +454,10 @@
                   "hindi": "इंडिया में कितने कोर्ट कैसे अभी भी पेंडिंग है",
                   "urdu": "ہندوستان عدالت میں پینڈنگ کورٹ کیس"
                 }
-              ]
+              ],
+              "urdu-name": "جھگڑے کو حل کرنا",
+              "urdu-heading": "دارالقضا / شرعی عدالت",
+              "urdu-sub-heading": "دارالقضا کیا ہے؟ آج کے معاشرے میں اس کی اہمیت اور ہندوستانی عدلیہ کے نظام میں مدد۔ حضرت محمد (ص) مدینہ منورہ میں دارالقضا کو کس طرح قائم کی ۔ نیز ہندوستانی عدالتوں میں پینڈنگ عدالتی مقدمات"
             }
           ]
         },
@@ -569,7 +593,7 @@
               ]
             },
             {
-              "english-name": "\"کاروبار میں ترقی کیسے کریں",
+              "english-name": "Improvement_in_Business'",
               "english-heading": "MUSLIM BUSINESSMEN AND WHY BUSINESS DOES NOT WORK",
               "english-sub-heading": "Why should customer come to you? Laziness on the name of Islam. Effect of politeness. why business of non-Muslims work? Incorrect concept of Destiny. Working hard. Sahaba in Indonesia",
               "videos-list": [
@@ -627,7 +651,8 @@
                   "hindi": "इंडोनेशिया में सहाबा",
                   "urdu": "انڈونیشیا میں صحابہ"
                 }
-              ]
+              ],
+              "urdu-name": "\"کاروبار میں ترقی کیسے کریں"
             }
           ]
         },
