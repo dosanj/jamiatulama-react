@@ -29,7 +29,7 @@ export function AppContent(props: IAppContentProps) {
     if (props.currentLanguage === Languages.HINDI) {
       heading = content?.["hindi-heading"];
     }
-    if (!name) {
+    if (!heading) {
       heading = content?.["english-heading"];
     }
     return heading;
@@ -46,6 +46,7 @@ export function AppContent(props: IAppContentProps) {
     if (!heading) {
       heading = content?.["english-sub-heading"];
     }
+
     return heading;
   };
 
