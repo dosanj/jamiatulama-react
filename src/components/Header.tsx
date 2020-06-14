@@ -1,9 +1,8 @@
-import React from "react";
+import React, { useState } from "react";
 import MenuOpenRounded from "@material-ui/icons/MenuOpenRounded";
 import Menu from "@material-ui/icons/Menu";
 import Brightness2Outlined from "@material-ui/icons/Brightness2Outlined";
 import Brightness2 from "@material-ui/icons/Brightness2";
-import TranslateIcon from "@material-ui/icons/Translate";
 import {
   MenuItem,
   Popper,
@@ -19,6 +18,7 @@ import { Link } from "react-router-dom";
 export function Header(props: IHeaderProps) {
   const [languagePopupOpen, setLanguagePopupOpen] = React.useState(false);
   const anchorRef = React.useRef(null);
+  const [currentLanguage, setCurrentLanguage] = useState("Aبअ");
 
   const changeLanguage = () => {
     setLanguagePopupOpen((prevOpen) => !prevOpen);
@@ -33,6 +33,7 @@ export function Header(props: IHeaderProps) {
     }
     if (language) {
       props.changeLanguage((language as unknown) as string);
+      setCurrentLanguage(language);
     }
     setLanguagePopupOpen(false);
   };
@@ -66,6 +67,15 @@ export function Header(props: IHeaderProps) {
       </span>
     );
   };
+  const displayCurrentLanguage = (currentLanguage: string) => {
+    if (currentLanguage === Languages.URDU) {
+      return "اردو";
+    }
+    if (currentLanguage === Languages.HINDI) {
+      return "हिन्दी";
+    }
+    return currentLanguage;
+  };
   return (
     <header className="app-header">
       <div className="app-header--logo">
@@ -86,7 +96,7 @@ export function Header(props: IHeaderProps) {
           aria-haspopup="true"
           onClick={changeLanguage}
         >
-          <TranslateIcon />
+          {displayCurrentLanguage(currentLanguage)}
         </span>
         <Popper
           open={languagePopupOpen}
@@ -115,21 +125,21 @@ export function Header(props: IHeaderProps) {
                         handleClose(event, Languages.ENGLISH as string)
                       }
                     >
-                      English
+                      {displayCurrentLanguage(Languages.ENGLISH)}
                     </MenuItem>
                     <MenuItem
                       onClick={(event) =>
                         handleClose(event, Languages.URDU as string)
                       }
                     >
-                      Urdu
+                      {displayCurrentLanguage(Languages.URDU)}
                     </MenuItem>
                     <MenuItem
                       onClick={(event) =>
                         handleClose(event, Languages.HINDI as string)
                       }
                     >
-                      Hindi
+                      {displayCurrentLanguage(Languages.HINDI)}
                     </MenuItem>
                   </MenuList>
                 </ClickAwayListener>
