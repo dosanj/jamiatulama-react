@@ -57,8 +57,16 @@ export function AppContent(props: IAppContentProps) {
   if (content) {
     contentPage = (
       <div className="app-content" onClick={closeSideMenu}>
-        <h1>{getHeading()}</h1>
-        <p>{getSubHeading()}</p>
+        <h1
+          className={props.currentLanguage === Languages.URDU ? "urduText" : ""}
+        >
+          {getHeading()}
+        </h1>
+        <p
+          className={props.currentLanguage === Languages.URDU ? "urduText" : ""}
+        >
+          {getSubHeading()}
+        </p>
         <div className="videos-list">
           {content["videos-list"]?.map((video) => {
             return (
