@@ -2230,7 +2230,7 @@
           ]
         },
         {
-          "english-name": "اسلامی تاریخ",
+          "english-name": "Islamic History",
           "children": [
             {
               "english-name": "Muslim in Freedom of India",
@@ -2392,7 +2392,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "urdu-name": "اسلامی تاریخ"
         }
       ],
       "urdu-name": "دوسرے عنوانات"
