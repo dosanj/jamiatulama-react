@@ -57,10 +57,14 @@ export function AppContent(props: IAppContentProps) {
   if (content) {
     contentPage = (
       <div className="app-content" onClick={closeSideMenu}>
-        <h1
-          className={props.currentLanguage === Languages.URDU ? "urduText" : ""}
-        >
-          {getHeading()}
+        <h1>
+          <span
+            className={
+              props.currentLanguage === Languages.URDU ? "urduText" : ""
+            }
+          >
+            {getHeading()}
+          </span>
         </h1>
         <p
           className={props.currentLanguage === Languages.URDU ? "urduText" : ""}
