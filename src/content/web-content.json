@@ -1745,7 +1745,8 @@
           ],
           "urdu-name": "والدین کے رہنما اصول"
         }
-      ]
+      ],
+      "urdu-name": "ہدایات"
     },
     {
       "english-name": "Special",
@@ -2119,7 +2120,10 @@
                   "hindi": "रमजान के बाद खाली मस्जिद क्यों?",
                   "urdu": "رمضان کے بعد خالی مسجد کیوں؟"
                 }
-              ]
+              ],
+              "urdu-name": "عید الفطر",
+              "urdu-heading": "عید الفطر",
+              "urdu-sub-heading": "عید الفطر"
             },
             {
               "english-name": "Eid Ul-Adha",
@@ -2162,25 +2166,35 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "عید الاضحی",
+              "urdu-heading": "عید الاضحی",
+              "urdu-sub-heading": "ذبح اور دعائیں کیسے کریں ، جانوروں کا احترام کریں ، 3 حصوں کے بارے میں کچھ غلط فہمیاں ، حلال جانوروں میں حرمت والے حصے ، صفائی ستھرائی"
             },
             {
               "english-name": "Milad un Nabi",
               "english-heading": "MILAD",
               "english-sub-heading": "milad",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "میلاد النبی",
+              "urdu-heading": "میلاد",
+              "urdu-sub-heading": "میلاد"
             },
             {
               "english-name": "Moharram",
               "english-heading": "MUHARRAM",
               "english-sub-heading": "muharram",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "محرم",
+              "urdu-heading": "محرم",
+              "urdu-sub-heading": "محرم"
             },
             {
               "english-name": "Salatul Istisqa",
               "english-heading": "EID",
               "english-sub-heading": "eid",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "صلاۃ الاستسقاء"
             },
             {
               "english-name": "haj and Umrah",
@@ -2229,29 +2243,40 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "حج اور عمرہ",
+              "urdu-heading": "حج اور عمرہ",
+              "urdu-sub-heading": "حج اور عمرہ"
             },
             {
               "english-name": "Shabe-E-Meraj or Barat or Qadr",
               "english-heading": "SHAB-E-MERAJ/BARAAT/QADR",
               "english-sub-heading": "Shab-E-Meraj/Baraat/Qadr",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "شب معراج اور شب قدر یا شب بر‏ات",
+              "urdu-heading": "شب معراج اور شب قدر یا شب بر‏ات"
             },
             {
               "english-name": "Janazah",
               "english-heading": "Janazah",
               "english-sub-heading": "",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "جنازہ",
+              "urdu-heading": "جنازہ"
             },
             {
               "english-name": "Daswa Chilla Barsi",
               "english-heading": "DASWA, CHILLA, BARSI",
               "english-sub-heading": "",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "دسواں۔چلہ۔برسی",
+              "urdu-heading": "دسواں۔چلہ۔برسی",
+              "urdu-sub-heading": ""
             }
           ]
         }
-      ]
+      ],
+      "urdu-name": "خصوصی پیغامات"
     },
     {
       "english-name": "Others",
@@ -2276,7 +2301,10 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "حکومتی دستاویزات کے لئے درخواست دیں۔ ",
+              "urdu-heading": "پاس ورڈ / آدھار کارڈ / ووٹر شناختی کارڈ کا اطلاق کیسے کریں",
+              "urdu-sub-heading": "رجسٹرڈ لاگ ان شناخت کے ساتھ پاسپورٹ سروس آن لائن پورٹل میں لاگ ان کریں۔ \"تازہ ترین پاسپورٹ کے لئے درخواست دیں / پاسپورٹ کے دوبارہ اجراء\" کے لنک پر کلک کریں۔ فارم میں مطلوبہ تفصیلات پُر کریں اور جمع کروائیں۔ ملاقات کا وقت طے کرنے کے لئے \"محفوظ شدہ / جمع درخواستیں دیکھیں\" اسکرین پر \"تنخواہ اور وقت کی تقرری\" لنک ​​پر کلک کریں"
             },
             {
               "english-name": "Train and Flight tickets Booking",
@@ -2289,17 +2317,24 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "ٹرین اور فلائٹ ٹکٹوں کی بکنگ",
+              "urdu-heading": "آن لائن ٹرین / فلائٹ ٹکٹس کس طرح سیکھیں",
+              "urdu-sub-heading": "صارفین کو ذریعہ اور منزل مقصود اسٹیشن کا انتخاب کرنا ہوگا ، ٹرین کا انتخاب کرنا ہوگا ، ٹرین کی ٹکٹ کی دستیابی کے لئے جانچ کرنا ہو گا ، مسافروں کی تفصیلات (نام / ص ، عمر ، صنف ، برتھ ترجیح اور کھانے کی ترجیح) فراہم کرنا ہوں گے اور پھر ادائیگی کے گیٹ وے کی طرف بڑھنا ہو گا۔ ایک بار ادائیگی کے بعد آن لائن ٹرین کی ٹکٹ بکنگ کو حتمی شکل دی جاتی ہے۔"
             },
             {
               "english-name": "Scholarship",
-              "external-url": "http://www.360careervision.com/"
+              "external-url": "http://www.360careervision.com/",
+              "urdu-name": "وظیفہ"
             },
             {
               "english-name": "What is KYC",
               "english-heading": "WHAT IS KYC",
               "english-sub-heading": "Know Your Customer, alternatively known as know your client or simply KYC, is the process of a business verifying the identity of its clients and assessing their suitability, along with the potential risks of illegal intentions towards the business relationship.",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "کیا ہے؟  KYC",
+              "urdu-heading": " کیا ہے؟  KYC",
+              "urdu-sub-heading": "اپنے کسٹمر کو جانیں ، جسے متبادل طور پر آپ کے مؤکل کو جانتے ہیں یا صرف کے وائی سی کو جانا جاتا ہے ، یہ ایک ایسا کاروبار ہے جس میں کاروباری تعلقات کی طرف ہونے والے غیر قانونی ارادوں کے امکانی خطرات کے ساتھ ساتھ اپنے مراجعین کی شناخت کی تصدیق اور ان کے مناسب ہونے کا اندازہ لگانا ہوتا ہے۔"
             },
             {
               "english-name": "Using UPI & Paytm",
@@ -2318,7 +2353,10 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": " کا استعمال کرتے ہوئے UPI & Paytm",
+              "urdu-heading": "گوگل پے اور پٹیم کا استعمال کیسے کریں",
+              "urdu-sub-heading": "Google Play یا App Store پر ایپ ڈاؤن لوڈ کریں ، یا pay.google.com دیکھیں۔ اپنے Google اکاؤنٹ میں سائن ان کریں اور ادائیگی کا طریقہ شامل کریں۔ اگر آپ اسٹورز میں گوگل پے استعمال کرنا چاہتے ہیں تو یہ دیکھنے کے ل check چیک کریں کہ آیا آپ کے فون میں این ایف سی ہے"
             }
           ]
         },
