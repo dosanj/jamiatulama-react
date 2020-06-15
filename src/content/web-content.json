@@ -4,11 +4,11 @@
       "english-name": "Topics",
       "children": [
         {
-          "english-name": "تازہ ترین رجحان",
+          "english-name": "Social Issues",
           "children": [
             {
-              "english-name": "Food Waste",
-              "english-heading": "خوراک ضائع کرنا",
+              "english-name": "FOOD WASTING",
+              "english-heading": "FOOD WASTING",
               "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
               "videos-list": [
                 {
@@ -59,7 +59,10 @@
                   "hindi": "ज़मीन पर सब से ज़्यदा भूकी जगह",
                   "urdu": "زمین پر سب سے زیدہ بھوکا مقام"
                 }
-              ]
+              ],
+              "urdu-name": "کھانا ضائع کرنا",
+              "urdu-heading": "خوراک ضائع کرنا",
+              "urdu-sub-heading": "ھانے کی بربادی بوفے سسٹم میں بھی۔ ہندوستان اور دنیا میں کھانا ضائع کرنا۔ ریسٹورانٹ کے بچے ہوے کھانے کا استعمال۔ رمضان میں کھانا ضائع کرنا۔ روٹی بینک۔"
             },
             {
               "english-name": "Social Media",
@@ -114,12 +117,15 @@
                   "hindi": "सोशल मीडिया के फायदे",
                   "urdu": "سوشل میڈیا کے فوائد"
                 }
-              ]
+              ],
+              "urdu-name": "سوشل میڈیا کا استعمال",
+              "urdu-heading": "سوشل میڈیا کا استعمال",
+              "urdu-sub-heading": "فون کے آداب۔ حج / عمرہ سیلفی۔ سوشل میڈیا پر وقت ضائع کرنا۔ مسجد میں موبائل فون۔ جھوٹھے واٹس ایپ میسج "
             },
             {
-              "english-name": "فحش ننگی فلمیں",
-              "english-heading": "فحش - ننگی فلمیں",
-              "english-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے",
+              "english-name": "PORNOGRAPHY AND  ADULTS FLIMS",
+              "english-heading": "PORNOGRAPHY - NUDE FILMS",
+              "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Ebn2vvqElDM",
@@ -169,10 +175,13 @@
                   "hindi": "कैसे पोर्न आपके दिमाग को नष्ट कर देता है",
                   "urdu": "کس طرح فحش آپ کے دماغ کو ختم کرتی ہے"
                 }
-              ]
+              ],
+              "urdu-name": "فحش ننگی فلمیں",
+              "urdu-heading": "فحش - ننگی فلمیں",
+              "urdu-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے"
             },
             {
-              "english-name": "استعمال شدہ لباس  کا  صدقہ",
+              "english-name": "cloths charity",
               "english-heading": "",
               "english-sub-heading": "",
               "videos-list": [
@@ -194,12 +203,13 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "استعمال شدہ لباس  کا  صدقہ"
             },
             {
-              "english-name": "راستے کے بھکاری",
-              "english-heading": "مسجد اور راستے کے بھکاری",
-              "english-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری",
+              "english-name": "STREET BEGGERS",
+              "english-heading": "STREET & MASJID BEGGERS",
+              "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/4CQFBRrWArE",
@@ -237,11 +247,14 @@
                   "hindi": "इस मामले में सदक़ा करना हराम है",
                   "urdu": "اس معاملے میں صدقہ کرنا حرام ہے"
                 }
-              ]
+              ],
+              "urdu-name": "راستے کے بھکاری",
+              "urdu-heading": "مسجد اور راستے کے بھکاری",
+              "urdu-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری"
             },
             {
-              "english-name": "\"بدعنوانی\"",
-              "english-heading": "\"بدعنوانی\"",
+              "english-name": "Corruption",
+              "english-heading": "Corruption",
               "english-sub-heading": "Generally speaking as “the abuse of entrusted power for private gain”. Corruption can be classified as grand, petty and political, depending on the amounts of money lost and the sector where it occurs.",
               "videos-list": [
                 {
@@ -268,12 +281,14 @@
                   "hindi": "किसी का माल ना हक़ खाना",
                   "urdu": "کسی کا مال نہ حق کھانا"
                 }
-              ]
+              ],
+              "urdu-name": "\"بدعنوانی\"",
+              "urdu-heading": "\"بدعنوانی\""
             },
             {
               "english-name": "Education",
-              "english-heading": "MUSLIM IN EDUCATION",
-              "english-sub-heading": "Muslim in Education",
+              "english-heading": "Muslims in Education ",
+              "english-sub-heading": "Muslims in Education ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/phBN9b-kexU",
@@ -311,10 +326,13 @@
                   "hindi": "मुसलमान कब पढ़ेगा?",
                   "urdu": "مسلمان کب پڑھے گا؟"
                 }
-              ]
+              ],
+              "urdu-name": "تعلیم ",
+              "urdu-heading": "تعلیم میں مسلمان",
+              "urdu-sub-heading": "تعلیم میں مسلمان"
             },
             {
-              "english-name": "Family System in West",
+              "english-name": "FAMILY System",
               "english-heading": "LIFE IN WESTERN COUNTRIES",
               "english-sub-heading": "People not speaking to Friends/Families, Kids only with mothers and no fathers,Kids without marriage, problem due to no presence of father, Men suicide, legal suicide in Switzerland. Same sex marriage",
               "videos-list": [
@@ -372,7 +390,10 @@
                   "hindi": "जब गैरत मर जाती है।",
                   "urdu": "جب غیرت مر جاتی ہے"
                 }
-              ]
+              ],
+              "urdu-name": "\"مغرب میں خاندانی نظام\"",
+              "urdu-heading": "مغربی ممالک میں زندگی",
+              "urdu-sub-heading": "لوگ دوست / اہل خانہ سے بات نہیں کرتے ، بچے صرف ماؤں کے ساتھ ہوتے ہیں اور والد نہیں ، شادی کے بغیر بچے ، والد کی غیر موجودگی کی وجہ سے مسئلہ ، مرد خود کشی ، قانونی خودکشی سوئٹزرلینڈ میں.ہم جنس پرست شادی"
             },
             {
               "english-name": "Dispute Solving",
@@ -433,12 +454,16 @@
                   "hindi": "इंडिया में कितने कोर्ट कैसे अभी भी पेंडिंग है",
                   "urdu": "ہندوستان عدالت میں پینڈنگ کورٹ کیس"
                 }
-              ]
+              ],
+              "urdu-name": "جھگڑے کو حل کرنا",
+              "urdu-heading": "دارالقضا / شرعی عدالت",
+              "urdu-sub-heading": "دارالقضا کیا ہے؟ آج کے معاشرے میں اس کی اہمیت اور ہندوستانی عدلیہ کے نظام میں مدد۔ حضرت محمد (ص) مدینہ منورہ میں دارالقضا کو کس طرح قائم کی ۔ نیز ہندوستانی عدالتوں میں پینڈنگ عدالتی مقدمات"
             }
-          ]
+          ],
+          "urdu-name": "معاشرتی مسا‏ئل"
         },
         {
-          "english-name": "Economical Issues",
+          "english-name": "Economical Issues‎",
           "children": [
             {
               "english-name": "Property Distribution",
@@ -511,7 +536,10 @@
                   "hindi": "ऐसा मुस्लिम मत बनो जो सिर्फ नमाज़ पढ़ता हो।",
                   "urdu": "ایسا مسلم مت بنو جو صرف نماز پڑھتا ہو"
                 }
-              ]
+              ],
+              "urdu-name": " جائیداد کی تقسیم",
+              "urdu-heading": "ہندوستان کے مسلمان میں جائیداد کی تقسیم",
+              "urdu-sub-heading": "جائداد کا غیر منقولہ مسئلہ کیا ہے؟ گھر والوں میں لڑائی۔ خواتین کی جائداد کا حصہ. اسلامی قانون کے مطابق کس طرح جائیداد کی جائے"
             },
             {
               "english-name": "Money Lending",
@@ -566,10 +594,13 @@
                   "hindi": "जो कर्ज नहीं लौटाता है उसे क़यामत के दिन अपने नेक आमाल देना होता है",
                   "urdu": "جو قرض واپس نہیں کرتا ہے اسے قیامت کے دن اپنی نیکیاں دینا پڑتی ہیں"
                 }
-              ]
+              ],
+              "urdu-heading": "قرض کے لین دین کے بارے میں",
+              "urdu-sub-heading": "اچھا انسان کون ہے؟ قرآن قرض کے بارے میں ۔ ایک شہید کا قرض۔ پیسے لوٹتے وقت لوگوں کی لہجہ ۔ اور اس شخص کا کیا ہوگا جو قرض واپس نہیں کرتا ہے؟",
+              "urdu-name": "پیسہ  وغیرہ قرض دینا"
             },
             {
-              "english-name": "Buisiness Improvment",
+              "english-name": "Improvement_in_Business'",
               "english-heading": "MUSLIM BUSINESSMEN AND WHY BUSINESS DOES NOT WORK",
               "english-sub-heading": "Why should customer come to you? Laziness on the name of Islam. Effect of politeness. why business of non-Muslims work? Incorrect concept of Destiny. Working hard. Sahaba in Indonesia",
               "videos-list": [
@@ -627,9 +658,13 @@
                   "hindi": "इंडोनेशिया में सहाबा",
                   "urdu": "انڈونیشیا میں صحابہ"
                 }
-              ]
+              ],
+              "urdu-name": "\"کاروبار میں ترقی کیسے کریں",
+              "urdu-heading": "مسلمان کاروبار اور کاروبار کیوں کام نہیں کرتا ہے",
+              "urdu-sub-heading": "گاہک آپ کے پاس کیوں آئے؟ اسلام کے نام پر کاہلی۔ شائستگی کا اثر۔ غیر مسلموں کا کاروبار کیوں کام کرتا ہے؟ مقدر کا غلط تصور۔ سخت محنت کر. صحابہ انڈونیشیا میں"
             }
-          ]
+          ],
+          "urdu-name": "معاشی مسائل"
         },
         {
           "english-name": "Religious Issues",
@@ -833,13 +868,17 @@
                   "urdu": "خلیفہ عمر نے ایک غیر مسلم بھکاری کی مدد کی"
                 }
               ],
-              "urdu-name": "غیر مسلم کے ساتھ رہنا"
+              "urdu-name": "غیر مسلم کے ساتھ رہنا",
+              "urdu-heading": "غیرمسلموں کے ساتھ رہنا",
+              "urdu-sub-heading": "غیر مسلموں / اقلیتوں کا حق اسلامی حکمرانی میں ہے۔ ان کے ساتھ اچھا کردار دکھا رہا ہے۔اس حد تک انکے ساتھ رہنے کی اجازت نہیں"
             },
             {
               "english-name": "Missing Fajr",
               "english-heading": "WAKE UP FOR FAJR",
               "english-sub-heading": "",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "فجر کے لئے اٹھنا ",
+              "urdu-heading": "فجر کے لئے اٹھنا "
             },
             {
               "english-name": "Azan and its Volume",
@@ -888,7 +927,10 @@
                   "hindi": "अज़ान कैसे शुरू हुई?",
                   "urdu": "اذان کیسے شروع ہوئی ؟"
                 }
-              ]
+              ],
+              "urdu-name": "اذان اور اسپیکر  کا حجم",
+              "urdu-heading": "غلط اذان اور اسپیکر آواز",
+              "urdu-sub-heading": "غلط اذان کی وجہ ، اس کے اثرات ، حل ، اسپیکر کی مقدار۔ اذان مقابلہ جیتنے والا ایک غیر مسلم لڑکا۔"
             },
             {
               "english-name": "Destiny and Planning",
@@ -943,7 +985,9 @@
                   "hindi": "बुढ़ापे के लिए पैसे बचाना कैसा है?",
                   "urdu": "بوڑھاپے کے لئے پیسے جما کرنا کیسا ہے ؟"
                 }
-              ]
+              ],
+              "urdu-name": "تقدیر یا منصوبہ بندی\"",
+              "urdu-heading": "تقدیر یا منصوبہ بندی\""
             },
             {
               "english-name": "Khatme Nabuwat",
@@ -956,9 +1000,13 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "ختم نبوت",
+              "urdu-heading": "ختم نبوت",
+              "urdu-sub-heading": "ختم النبیین (‎ختم نبوت)"
             }
-          ]
+          ],
+          "urdu-name": "مذہبی مسائل"
         }
       ],
       "urdu-name": "موجودہ مسائل",
@@ -973,7 +1021,7 @@
             {
               "english-name": "Marriage Age",
               "english-heading": "WHEN TO GET MARRIED",
-              "english-sub-heading": "A new study suggests that people should get married between the ages of 28 and 32 if they don't want to get divorced, at least in the first five yearssss",
+              "english-sub-heading": "A new study suggests that people should get married between the ages of 28 and 32 if they don't want to get divorced, at least in the first five years",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/GEJwQXNijJE",
@@ -1005,7 +1053,10 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-heading": "شادی کب کرنی چاہیے",
+              "urdu-name": "شادی کی عمر",
+              "urdu-sub-heading": "ایک نئی تحقیق میں بتایا گیا ہے کہ لوگوں کو کم از کم ابتدائی پانچ سالوں میں ، اگر وہ طلاق نہیں لینا چاہتے ہیں تو ، 28 اور 32 سال کی عمر کے درمیان شادی کرنی چاہئے۔"
             },
             {
               "english-name": "Wedding Preparation",
@@ -1048,7 +1099,10 @@
                   "hindi": "मेहंदी और फूल पहनना दूल्हा",
                   "urdu": "دولہا مہندی اور پھول پہنے ہوئے"
                 }
-              ]
+              ],
+              "urdu-name": "شادی کی تیاری",
+              "urdu-heading": "شادی کی تیاری",
+              "urdu-sub-heading": "محققین کو تاریخ کے وقت تک \"صحیح\" وقت معلوم ہوا جب تک آپ کی شادی ہو رہی ہے - اور یہ سوچنے کی ضرورت نہیں ہوگی۔ ایک تحقیق میں بتایا گیا ہے کہ شادی کے لئے تھوڑا انتظار کرنا آپ کے طلاق کا امکان کم کرسکتا ہے۔ خاص طور پر ، تین سال یا زیادہ انتظار کرنے سے طلاق کے امکانات میں 50٪ کمی واقع ہوتی ہے۔"
             },
             {
               "english-name": "Right Life Partner",
@@ -1085,7 +1139,10 @@
                   "hindi": "इस्तेखार करने का गलत तरीक़ा",
                   "urdu": "استخارہ کرنے کا غلط طریقہ"
                 }
-              ]
+              ],
+              "urdu-name": "شریک حیات",
+              "urdu-sub-heading": "ٹیسٹ ڈرائیو لیں۔ ... اے مذہب کو تلاش کریں B. اچھی فطرت سی. مطابقت D. مہذب فیملی E. وجہ F. جسمانی اور دماغی صحت جی۔ آپ کس سے شادی کر سکتے ہیں؟ وہ شخص جو نیک اور محبت کرنے والا ہے۔ ...",
+              "urdu-heading": "شریک حیات کی تلاش"
             },
             {
               "english-name": "Engagement",
@@ -1104,7 +1161,10 @@
                   "hindi": "मंगनी के बाद कॉल/चैटिंग करने का नुकसान",
                   "urdu": "منگنی کے بعد بات/چیت کرنے کے نقصانات"
                 }
-              ]
+              ],
+              "urdu-name": "منگنی",
+              "urdu-heading": "منگنی",
+              "urdu-sub-heading": "منگنی"
             },
             {
               "english-name": "Wedding Expenses",
@@ -1123,7 +1183,10 @@
                   "hindi": "मुस्लिम औरतें सड़क पर भिक मांग रही और हम शादी में फ़िज़ूल`खर्च`करते हैं",
                   "urdu": "مسلمان خواتین سڑک پر بھیک مانگتی ہیں اور ہم شادی میں رقم خرچ کرتے ہیں"
                 }
-              ]
+              ],
+              "urdu-name": "شادی کے اخراجات",
+              "urdu-heading": "شادی کے اخراجات",
+              "urdu-sub-heading": "شادی کے اخراجات"
             },
             {
               "english-name": "Dowry",
@@ -1154,7 +1217,10 @@
                   "hindi": "दहेज हत्या",
                   "urdu": "جہیز کی موت"
                 }
-              ]
+              ],
+              "urdu-name": "جہیز",
+              "urdu-heading": "جہیز",
+              "urdu-sub-heading": "جہیز"
             },
             {
               "english-name": "Post Wedding Life",
@@ -1227,7 +1293,10 @@
                   "hindi": "इस्लाम में हनीमून",
                   "urdu": "اسلام میں ہنی مون"
                 }
-              ]
+              ],
+              "urdu-name": "شادی کے بعد کی زندگی",
+              "urdu-heading": "شادی کے بعد",
+              "urdu-sub-heading": "12 مختصر ویڈیوز پہلی رات کے لئے دعا. پہلی رات کے لئے دعا. حلال ولیمہ۔ نہانے کا طریقہ بیوی سے دور رہنا۔ 52 جنسی علم کے نکات۔ بیوی پر خرچ کرنا۔ اچھی بیوی. مشترکہ کنبہ ۔کون کی بیوی چاہتی ہے؟ ہنی مون۔"
             },
             {
               "english-name": "Saas and Sasur",
@@ -1252,7 +1321,10 @@
                   "hindi": "सास बहू और शैतान",
                   "urdu": "ساس بہو اور شیطان"
                 }
-              ]
+              ],
+              "urdu-name": "ساس اور سسر",
+              "urdu-heading": "ساس اور سسر",
+              "urdu-sub-heading": "ساس اور سسر"
             },
             {
               "english-name": "Husband and Wife Love",
@@ -1313,7 +1385,10 @@
                   "hindi": "मियां बीवी मोहब्बत की चंद बातें",
                   "urdu": "میاں بیوی محبت کی چند باتیں"
                 }
-              ]
+              ],
+              "urdu-name": "شوہر بیوی میں محبت",
+              "urdu-heading": "شوہر بیوی میں محبت",
+              "urdu-sub-heading": "محبت کا اظہار ، پیغمبر اسلام (ص) اور مثالی شوہر ، شوہر کی بیوی کی غلطیاں ، بیوی پر قابو پانے کے لئے پانچ چیزیں ، شوہر سے محبت ،"
             },
             {
               "english-name": "Court Involvment",
@@ -1344,7 +1419,10 @@
                   "hindi": "पत्नी का झूठे दहेज के मामले में खींचने की धमकी",
                   "urdu": "بیوی نے جہیز کے جھوٹے معاملے میں کھینچنے کی دھمکی دی"
                 }
-              ]
+              ],
+              "urdu-name": "کورٹ انوولویمنٹ",
+              "urdu-heading": "ازدواجی عدالت کے مقدمات کے بعد",
+              "urdu-sub-heading": "آپ کے دو میاں بیوی ہیں: ایک آپ نے ابھی طلاق نہیں دی ہے اور ایک آپ نے ابھی شادی کی ہے۔ ... شہری خاندانی قوانین شادی بیاہ کے تصور کو کچھ مختلف انداز میں پیش کرتے ہیں۔ کیونکہ آپ کی دوسری شادی غیر قانونی ہے ، تکنیکی طور پر یہ موجود نہیں ہوسکتی ہے۔ آپ پر پھر بھی فوجداری عدالت میں مقدمہ چلایا جاسکتا ہے ، لیکن شادی ختم کرنے کے ل you آپ کو طلاق دینے کی ضرورت نہیں ہے۔"
             },
             {
               "english-name": "Talaq and Khula",
@@ -1399,7 +1477,10 @@
                   "hindi": "तालाक-शुदा / बेवा के साथ शादी",
                   "urdu": "طلاق شودہ / بیوا کے ساتھ نکاح"
                 }
-              ]
+              ],
+              "urdu-name": "طلق اور خلع",
+              "urdu-heading": "طلق اور خلع",
+              "urdu-sub-heading": "اسباب ، کیا اللہ کو پسند ہے؟ محبت کی شادی کے بعد محبت نہیں ، بچوں پر اثر ، طلق / خولہ کا عمل۔طلاق کے بعد"
             },
             {
               "english-name": "Husband and wife fighting",
@@ -1430,9 +1511,11 @@
                   "hindi": "औरतें ही औरतों की दुश्मन हैं",
                   "urdu": "عورتیں عورتوں کی دشمن ہیں"
                 }
-              ]
+              ],
+              "urdu-name": "شوہر اور بیوی  کی آپس میں لڑائی"
             }
-          ]
+          ],
+          "urdu-name": "\"شادی کی ہدایات\""
         },
         {
           "english-name": "Parenting Guidelines",
@@ -1514,7 +1597,10 @@
                   "hindi": "हिफ़्ज़ के लिए सबसे अच्छी उम्र। स्कूल में कब डालें ?",
                   "urdu": "قرآن حفظ کی امر اور اسکول میں کب ڈالیں"
                 }
-              ]
+              ],
+              "urdu-name": "  پانچ سال تک کے بچے",
+              "urdu-heading": "والدین کی رہنما - بچہ کی پیدائش سے 5 سال کی عمر",
+              "urdu-sub-heading": "نوزائیدہ بچہ - کرنے اور نہ کرنے کی چیزیں۔ نام اور ختنہ ، کالے دھاگے ، عقیقہ ، مساج ، سالگرہ ، جب بچ بات کرنا سیکھے ، صفائی ستھرائی ، اسکول کی عمر کا آغاز کرتا ہے۔"
             },
             {
               "english-name": "5 to 10 years",
@@ -1593,7 +1679,10 @@
                   "hindi": "इस्लामिक शरीयत के मुताबिक़ कौन सा खेल जाइज़ है?",
                   "urdu": "اسلامی شریعت کے مطابق کونسا کھیل جائز ہے؟"
                 }
-              ]
+              ],
+              "urdu-name": "    پانچ سے   د س سال کی عمر کے بچے  ",
+              "urdu-sub-heading": "سکھائیں قرآن ، سکھائیں شکریہ - معافی مانگنا ، بچوں کے جھگڑے ، بچے جھوٹ بولنے کا طریقہ سیکھتے ہیں۔ بری دوستی ، 4 نفسیاتی نکات ، بچوں کو مسجد لے جانا اور انھیں نماز پڑھانے کا طریقہ ، بچوں کو منحصر نہیں بنانا ، اسلامی کھیل",
+              "urdu-heading": "والدین کے رہنمایی اصول - 5 سے 10 سال کی عمر کے بچے"
             },
             {
               "english-name": "10 to 20 years",
@@ -1648,11 +1737,16 @@
                   "hindi": "बच्चा बालिग़/बड़ा कब होता है? और स्नान कैसे करें?",
                   "urdu": "بچہ بالغ/بڑا کب ہوتا ہے ؟اور غسل کیسے کریں؟"
                 }
-              ]
+              ],
+              "urdu-name": " دس سال سے بیسس سال کی عمر کے بچے",
+              "urdu-heading": "والدین کے رہنما اصول - 10 سے 20 سال کی عمر کے بچے",
+              "urdu-sub-heading": "والدین کا سلوک ، 10/12 کے بعد کیا ، نوعمروں کے 10 مسائل (10-20 سال) ، اپنے بیٹے / بیٹی کا دوست بنیں ، زندگی کے لئے منصوبہ بنا رہے ہو ، ان کی انٹرنیٹ سرگرمی کی نگرانی کریں ، نوعمر فوجی کمانڈرصحابی ، بلوغت اور نہانے کا طریقہ"
             }
-          ]
+          ],
+          "urdu-name": "والدین کے رہنما اصول"
         }
-      ]
+      ],
+      "urdu-name": "ہدایات"
     },
     {
       "english-name": "Special",
@@ -1731,7 +1825,10 @@
                   "hindi": "आलिम वह नहीं है जो सिर्फ फिक़ी (रोज़ा, नमाज़ वगेरा) मसले सिखाता है",
                   "urdu": "عالم وہ نہیں جو صرف فقہی علم(روزہ،نماز وغیرہ ) کی تعلیم دیتا ہے"
                 }
-              ]
+              ],
+              "urdu-name": "علمائے کرام ",
+              "urdu-heading": "علمائے کرام کو خصوصی پیغام",
+              "urdu-sub-heading": "علمائے کرام کی ذمہ داری۔ خالص نیت کے ساتھ تقریر کے لئے عنوان کا فیصلہ کریں۔ اور ان دس غلطیوں سے بچے ۔ لوگوں میں قرآن کی تفہیم کے بارے میں غلط فہمی کو دور کریں۔ مکتب کی تعلیم کے کچھ اصول۔"
             },
             {
               "english-name": "To Doctors",
@@ -1774,7 +1871,10 @@
                   "hindi": "उलमा के बाद, उम्मत के जिम्मेदार कौन हैं?",
                   "urdu": "علمائے کرام کے بعد ، معاشرے کے ذمہ دار کون ہیں؟"
                 }
-              ]
+              ],
+              "urdu-name": " ڈاکٹر",
+              "urdu-heading": "مسلم ڈاکٹروں کو خصوصی پیغام",
+              "urdu-sub-heading": "ارادے ، مفت خدمت ، تاریخ ، رہنما اصول اور ذمہ داری"
             },
             {
               "english-name": "To Engineers",
@@ -1799,7 +1899,10 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "انجینئر",
+              "urdu-heading": "انجینئر",
+              "urdu-sub-heading": "انجینئر"
             },
             {
               "english-name": "To Lawyers",
@@ -1830,7 +1933,10 @@
                   "hindi": "मौलाना तारिक़ जमील बयान वकीलों में",
                   "urdu": "مولانا طارق جمیل بیان وکلاء میں"
                 }
-              ]
+              ],
+              "urdu-name": "وکیل",
+              "urdu-heading": "مسلم وکلاء کی خدمات میں خصوصی پیغام",
+              "urdu-sub-heading": "معاشرے میں انصاف میں تعاون۔ اچھے وکیل کی کچھ خصوصیات۔ وکلاء میں مولانا طارق جمیل کا بیان ۔"
             },
             {
               "english-name": "To Teachers",
@@ -1873,7 +1979,10 @@
                   "hindi": "स्मार्ट क्लास क्या है?",
                   "urdu": "اسمارٹ کلاس کیا ہے؟"
                 }
-              ]
+              ],
+              "urdu-heading": "مسلمان اساتذہ کو پیغام",
+              "urdu-name": "اساتذہ",
+              "urdu-sub-heading": "اچھے استاد کا پہچان ۔ نبی. کی تعلیمات کی خصوصیات۔ آواز کے انداز کا اثر۔ ٹکنالوجی اور اسمارٹ کلاس کا استعمال"
             },
             {
               "english-name": "To Buisnessmen",
@@ -1886,13 +1995,19 @@
                   "hindi": "गैर मुस्लिम इस्लामी कानून का पालन करके कामयाब बनते हुवे",
                   "urdu": "غیر مسلم اسلامی تعلیم کی پابندی کرکے کامیاب ہوتے ہوئے"
                 }
-              ]
+              ],
+              "urdu-name": "تاجر",
+              "urdu-heading": "تاجر",
+              "urdu-sub-heading": "تاجر"
             },
             {
               "english-name": "To Butchers",
               "english-heading": "BUTCHERS(QUERSHI)",
               "english-sub-heading": "Butchers(Quershi)",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "قریشی",
+              "urdu-heading": "(قصائیوں کو(قریشی ",
+              "urdu-sub-heading": "     قریشی قصائیوں کو"
             },
             {
               "english-name": "To Masjid Trustee",
@@ -1971,9 +2086,13 @@
                   "hindi": "मस्जिद वीरान क्यूं? समाज की जरूरत। मस्जिद में करने के २० काम और २० जुमा बयान टॉपिक",
                   "urdu": "مساجد ویران کیوں؟ سماج کی ضرورت۔ مسجد میں کرنے کے بیس کام اور جمعہ بیان کے بیس عنوان"
                 }
-              ]
+              ],
+              "urdu-heading": "خصوصی پیغام مسجد ٹرسٹی کی خدمت میں",
+              "urdu-name": " مسجد ٹرسٹی",
+              "urdu-sub-heading": "مسجد ٹرسٹی ہونے کا معیار. مسجد میں کیا ہونا چاہئے۔ موجودہ امام اور ٹرسٹی کی صورتحال اور مسجد چندا"
             }
-          ]
+          ],
+          "urdu-name": "خصوصی پیغامات"
         },
         {
           "english-name": "Special Occasions",
@@ -2001,7 +2120,10 @@
                   "hindi": "रमजान के बाद खाली मस्जिद क्यों?",
                   "urdu": "رمضان کے بعد خالی مسجد کیوں؟"
                 }
-              ]
+              ],
+              "urdu-name": "عید الفطر",
+              "urdu-heading": "عید الفطر",
+              "urdu-sub-heading": "عید الفطر"
             },
             {
               "english-name": "Eid Ul-Adha",
@@ -2044,25 +2166,35 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "عید الاضحی",
+              "urdu-heading": "عید الاضحی",
+              "urdu-sub-heading": "ذبح اور دعائیں کیسے کریں ، جانوروں کا احترام کریں ، 3 حصوں کے بارے میں کچھ غلط فہمیاں ، حلال جانوروں میں حرمت والے حصے ، صفائی ستھرائی"
             },
             {
               "english-name": "Milad un Nabi",
               "english-heading": "MILAD",
               "english-sub-heading": "milad",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "میلاد النبی",
+              "urdu-heading": "میلاد",
+              "urdu-sub-heading": "میلاد"
             },
             {
               "english-name": "Moharram",
               "english-heading": "MUHARRAM",
               "english-sub-heading": "muharram",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "محرم",
+              "urdu-heading": "محرم",
+              "urdu-sub-heading": "محرم"
             },
             {
               "english-name": "Salatul Istisqa",
               "english-heading": "EID",
               "english-sub-heading": "eid",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "صلاۃ الاستسقاء"
             },
             {
               "english-name": "haj and Umrah",
@@ -2111,32 +2243,43 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "حج اور عمرہ",
+              "urdu-heading": "حج اور عمرہ",
+              "urdu-sub-heading": "حج اور عمرہ"
             },
             {
               "english-name": "Shabe-E-Meraj or Barat or Qadr",
               "english-heading": "SHAB-E-MERAJ/BARAAT/QADR",
               "english-sub-heading": "Shab-E-Meraj/Baraat/Qadr",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "شب معراج اور شب قدر یا شب بر‏ات",
+              "urdu-heading": "شب معراج اور شب قدر یا شب بر‏ات"
             },
             {
               "english-name": "Janazah",
               "english-heading": "Janazah",
               "english-sub-heading": "",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "جنازہ",
+              "urdu-heading": "جنازہ"
             },
             {
               "english-name": "Daswa Chilla Barsi",
               "english-heading": "DASWA, CHILLA, BARSI",
               "english-sub-heading": "",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "دسواں۔چلہ۔برسی",
+              "urdu-heading": "دسواں۔چلہ۔برسی",
+              "urdu-sub-heading": ""
             }
           ]
         }
-      ]
+      ],
+      "urdu-name": "خصوصی پیغامات"
     },
     {
-      "english-name": "دوسرے عنوانات",
+      "english-name": "Others",
       "children": [
         {
           "english-name": "Useful Online Information",
@@ -2158,7 +2301,10 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "حکومتی دستاویزات کے لئے درخواست دیں۔ ",
+              "urdu-heading": "پاس ورڈ / آدھار کارڈ / ووٹر شناختی کارڈ کا اطلاق کیسے کریں",
+              "urdu-sub-heading": "رجسٹرڈ لاگ ان شناخت کے ساتھ پاسپورٹ سروس آن لائن پورٹل میں لاگ ان کریں۔ \"تازہ ترین پاسپورٹ کے لئے درخواست دیں / پاسپورٹ کے دوبارہ اجراء\" کے لنک پر کلک کریں۔ فارم میں مطلوبہ تفصیلات پُر کریں اور جمع کروائیں۔ ملاقات کا وقت طے کرنے کے لئے \"محفوظ شدہ / جمع درخواستیں دیکھیں\" اسکرین پر \"تنخواہ اور وقت کی تقرری\" لنک ​​پر کلک کریں"
             },
             {
               "english-name": "Train and Flight tickets Booking",
@@ -2171,17 +2317,24 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": "ٹرین اور فلائٹ ٹکٹوں کی بکنگ",
+              "urdu-heading": "آن لائن ٹرین / فلائٹ ٹکٹس کس طرح سیکھیں",
+              "urdu-sub-heading": "صارفین کو ذریعہ اور منزل مقصود اسٹیشن کا انتخاب کرنا ہوگا ، ٹرین کا انتخاب کرنا ہوگا ، ٹرین کی ٹکٹ کی دستیابی کے لئے جانچ کرنا ہو گا ، مسافروں کی تفصیلات (نام / ص ، عمر ، صنف ، برتھ ترجیح اور کھانے کی ترجیح) فراہم کرنا ہوں گے اور پھر ادائیگی کے گیٹ وے کی طرف بڑھنا ہو گا۔ ایک بار ادائیگی کے بعد آن لائن ٹرین کی ٹکٹ بکنگ کو حتمی شکل دی جاتی ہے۔"
             },
             {
               "english-name": "Scholarship",
-              "external-url": "http://www.360careervision.com/"
+              "external-url": "http://www.360careervision.com/",
+              "urdu-name": "وظیفہ"
             },
             {
               "english-name": "What is KYC",
               "english-heading": "WHAT IS KYC",
               "english-sub-heading": "Know Your Customer, alternatively known as know your client or simply KYC, is the process of a business verifying the identity of its clients and assessing their suitability, along with the potential risks of illegal intentions towards the business relationship.",
-              "videos-list": []
+              "videos-list": [],
+              "urdu-name": "کیا ہے؟  KYC",
+              "urdu-heading": " کیا ہے؟  KYC",
+              "urdu-sub-heading": "اپنے کسٹمر کو جانیں ، جسے متبادل طور پر آپ کے مؤکل کو جانتے ہیں یا صرف کے وائی سی کو جانا جاتا ہے ، یہ ایک ایسا کاروبار ہے جس میں کاروباری تعلقات کی طرف ہونے والے غیر قانونی ارادوں کے امکانی خطرات کے ساتھ ساتھ اپنے مراجعین کی شناخت کی تصدیق اور ان کے مناسب ہونے کا اندازہ لگانا ہوتا ہے۔"
             },
             {
               "english-name": "Using UPI & Paytm",
@@ -2200,12 +2353,15 @@
                   "hindi": "",
                   "urdu": ""
                 }
-              ]
+              ],
+              "urdu-name": " کا استعمال کرتے ہوئے UPI & Paytm",
+              "urdu-heading": "گوگل پے اور پٹیم کا استعمال کیسے کریں",
+              "urdu-sub-heading": "Google Play یا App Store پر ایپ ڈاؤن لوڈ کریں ، یا pay.google.com دیکھیں۔ اپنے Google اکاؤنٹ میں سائن ان کریں اور ادائیگی کا طریقہ شامل کریں۔ اگر آپ اسٹورز میں گوگل پے استعمال کرنا چاہتے ہیں تو یہ دیکھنے کے ل check چیک کریں کہ آیا آپ کے فون میں این ایف سی ہے"
             }
           ]
         },
         {
-          "english-name": "اسلامی تاریخ",
+          "english-name": "Islamic History",
           "children": [
             {
               "english-name": "Muslim in Freedom of India",
@@ -2367,9 +2523,11 @@
                 }
               ]
             }
-          ]
+          ],
+          "urdu-name": "اسلامی تاریخ"
         }
-      ]
+      ],
+      "urdu-name": "دوسرے عنوانات"
     }
   ]
 }
