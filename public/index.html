@@ -22,27 +22,25 @@
     <!-- Insert these scripts at the bottom of the HTML, but before you use any Firebase services -->
 
     <!-- Firebase App (the core Firebase SDK) is always required and must be listed first -->
-    <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"></script>
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/7.15.0/firebase-app.js"
+    ></script>
 
-    <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-auth.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-firestore.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"></script>
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/7.15.0/firebase-auth.js"
+    ></script>
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/7.15.0/firebase-firestore.js"
+    ></script>
+    <script
+      defer
+      src="https://www.gstatic.com/firebasejs/7.15.0/firebase-analytics.js"
+    ></script>
 
-    <script>
-      var firebaseConfig = {
-        apiKey: "AIzaSyAaB-8OlMJ-gc1hFxya2hTXEww8rppZwXw",
-        authDomain: "jamiatulama-solapur.firebaseapp.com",
-        databaseURL: "https://jamiatulama-solapur.firebaseio.com",
-        projectId: "jamiatulama-solapur",
-        storageBucket: "jamiatulama-solapur.appspot.com",
-        messagingSenderId: "351010064384",
-        appId: "1:351010064384:web:d5258cf2806d522645b0e5",
-        measurementId: "G-YP619B0WGR",
-      };
-      // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
-      firebase.analytics();
-    </script>
+    <script defer src="./init-firebase.js"></script>
     <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
