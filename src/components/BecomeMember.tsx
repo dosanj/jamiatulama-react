@@ -8,7 +8,6 @@ export function BecomeMember() {
   const [isNewUser, setIsNewUser] = useState(false);
   const [user, setCurrentUser] = useState(null as any);
   const [error, setError] = useState(null as any);
-  console.log(user);
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
       if (user) {
@@ -48,17 +47,20 @@ export function BecomeMember() {
       .confirm(code)
       .then((result: any) => {
         // User signed in successfully.
-        user
-          .updateProfile({
-            displayName: displayName,
-          })
-          .then(() => {
-            setIsNewUser(result.additionalUserInfo.isNewUser);
-            setError(null);
-          })
-          .catch((error: any) => {
-            setError(error);
-          });
+        setIsNewUser(result.additionalUserInfo.isNewUser);
+        if (!isNewUser) {
+          result.user
+            .updateProfile({
+              displayName: displayName,
+            })
+            .then((response: any) => {
+              setCurrentUser(result.user);
+              setError(null);
+            })
+            .catch((error: any) => {
+              setError(error);
+            });
+        }
       })
       .catch((error: any) => {
         setError(error);
@@ -67,21 +69,20 @@ export function BecomeMember() {
   if (user && isNewUser) {
     return (
       <div className="become-member">
-        <h1>Thanks for registring with us.</h1>
+        <h1> {user.displayName}, Thanks for registring with us.</h1>
       </div>
     );
   }
   if (user && !isNewUser) {
     return (
       <div className="become-member">
-        <h1>This number is already registered with us.</h1>
+        <h1>{user.displayName}, you are already registered with us.</h1>
       </div>
     );
   }
   const handleMobileNumberChange = (value: string) => {
     const phoneno = /^\+?([0-9]{2})([0-9]{10})$/;
     if (value.match(phoneno) && value) {
-      debugger;
       setPhoneNumber(value);
     }
     return true;
@@ -101,6 +102,7 @@ export function BecomeMember() {
           <label> Mobile Number </label>
           <input
             type="tel"
+            placeholder="+XXXXXXXXXXXX"
             onChange={(e) => handleMobileNumberChange(e.target.value)}
           />
         </div>
@@ -131,7 +133,6 @@ export function BecomeMember() {
             type="text"
             value={code}
             onChange={(e) => {
-              console.log(e);
               setCode(e.target.value);
             }}
           />
