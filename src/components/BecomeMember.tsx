@@ -1,12 +1,14 @@
 import React, { useEffect, useState } from "react";
-declare const firebase: any;
+// Firebase App (the core Firebase SDK) is always required and must be listed first
+import * as firebase from "firebase/app";
+
 export function BecomeMember() {
   const [phoneNumber, setPhoneNumber] = useState("");
   const [displayName, setDisplayName] = useState("");
   const [codeSent, setCodeSent] = useState(false);
   const [code, setCode] = useState("");
   const [isNewUser, setIsNewUser] = useState(false);
-  const [user, setCurrentUser] = useState(null as any);
+  const [currentUser, setCurrentUser] = useState(null as any);
   const [error, setError] = useState(null as any);
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
@@ -14,7 +16,7 @@ export function BecomeMember() {
         setCurrentUser(user);
       }
     });
-    if (!(window as any).recaptchaVerifier && !codeSent) {
+    if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
       firebase.auth().useDeviceLanguage();
       (window as any).recaptchaVerifier = new firebase.auth.RecaptchaVerifier(
         "recaptcha-container"
@@ -34,7 +36,6 @@ export function BecomeMember() {
         // user in with confirmationResult.confirm(code).
         (window as any).confirmationResult = confirmationResult;
         (window as any).grecaptcha.reset((window as any).recaptchaWidgetId);
-        (window as any).recaptchaVerifier = null;
         setCodeSent(true);
         setError(null);
       })
@@ -66,17 +67,17 @@ export function BecomeMember() {
         setError(error);
       });
   };
-  if (user && isNewUser) {
+  if (currentUser && isNewUser) {
     return (
       <div className="become-member">
-        <h1> {user.displayName}, Thanks for registring with us.</h1>
+        <h1> {currentUser.displayName}, Thanks for registring with us.</h1>
       </div>
     );
   }
-  if (user && !isNewUser) {
+  if (currentUser && !isNewUser) {
     return (
       <div className="become-member">
-        <h1>{user.displayName}, you are already registered with us.</h1>
+        <h1>{currentUser.displayName}, you are already registered with us.</h1>
       </div>
     );
   }
