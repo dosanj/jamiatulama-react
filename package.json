@@ -23,7 +23,7 @@
     "build:scss": "node-sass -r --output-style compressed src/scss/index.scss -o src/css",
     "watch:scss": "npm run build:scss && npm run build:scss -- -w -r",
     "start:ts": "react-scripts start",
-    "start": "npm-run-all -p watch:scss start:ts",
+    "start": "set PORT=80 && npm-run-all -p watch:scss start:ts",
     "build": "npm run build:scss && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
