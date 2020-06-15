@@ -48,7 +48,7 @@ export function BecomeMember() {
       .then((result: any) => {
         // User signed in successfully.
         setIsNewUser(result.additionalUserInfo.isNewUser);
-        if (!isNewUser) {
+        if (!isNewUser || !result.user.displayName) {
           result.user
             .updateProfile({
               displayName: displayName,
