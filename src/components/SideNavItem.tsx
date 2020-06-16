@@ -47,13 +47,15 @@ export function SideNavItem(props: ISideNavItemProps) {
     if (children && children.length > 0) {
       return (
         <div className={`side-nav--item ${isExpanded ? "expanded" : null}`}>
-          <div className="side-nav--item__name" onClick={toggleChildren}>
-            <span
-              style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}
-              className={
-                props.currentLanguage === Languages.URDU ? "urduText" : ""
-              }
-            >
+          <div
+            className={
+              props.currentLanguage === Languages.URDU
+                ? "side-nav--item__name urduText"
+                : "side-nav--item__name"
+            }
+            onClick={toggleChildren}
+          >
+            <span style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}>
               {getCurrentName()}
             </span>
             <span className={`side-nav--item__name__icon `}>
@@ -70,14 +72,9 @@ export function SideNavItem(props: ISideNavItemProps) {
           <div
             className={`side-nav--item__name ${
               props?.item.selected ? "selected" : ""
-            }`}
+            } ${props.currentLanguage === Languages.URDU ? "urduText" : ""}`}
           >
-            <span
-              style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}
-              className={
-                props.currentLanguage === Languages.URDU ? "urduText" : ""
-              }
-            >
+            <span style={{ paddingLeft: `${1 + props.navLevel * 1}rem` }}>
               {getCurrentName()}
             </span>
           </div>

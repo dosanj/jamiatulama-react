@@ -3,7 +3,6 @@
   display: block;
   transition: ease-out margin 0.2s;
   overflow-y: hidden;
-  padding-top: 1rem;
   width: 260px;
   background-color: var(--color-background);
 
@@ -20,6 +19,9 @@
 
   & > .side-nav--item {
     border-bottom: 1px solid var(--color-text-tertiary);
+    &.expanded {
+      background: var(--color-hover);
+    }
   }
 
   &.show {
