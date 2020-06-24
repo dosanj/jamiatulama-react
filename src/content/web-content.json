@@ -1521,9 +1521,11 @@
           "english-name": "Parenting Guidelines",
           "children": [
             {
-              "english-name": "Upto 5 years",
+              "urdu-heading": "والدین کی رہنما - بچہ کی پیدائش سے 5 سال کی عمر",
               "english-heading": "PARENTING GUIDLINES - NEWBORN TO 5 YEARS OLD",
-              "english-sub-heading": "Newborn baby - Things to do and not to do. Keeping name and circumcision, Black Threads, Aqeeqa,Massage, Birthday,When kid starts talking, cleanliness, schooling age.",
+              "hindi-heading": "मान बाप को हिदायत - पैदाइश से ५ साल तक",
+              "english-name": "Upto 5 years",
+              "urdu-name": "  پانچ سال تک کے بچے",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/rnRpN0zK67M",
@@ -1598,9 +1600,9 @@
                   "urdu": "قرآن حفظ کی امر اور اسکول میں کب ڈالیں"
                 }
               ],
-              "urdu-name": "  پانچ سال تک کے بچے",
-              "urdu-heading": "والدین کی رہنما - بچہ کی پیدائش سے 5 سال کی عمر",
-              "urdu-sub-heading": "نوزائیدہ بچہ - کرنے اور نہ کرنے کی چیزیں۔ نام اور ختنہ ، کالے دھاگے ، عقیقہ ، مساج ، سالگرہ ، جب بچ بات کرنا سیکھے ، صفائی ستھرائی ، اسکول کی عمر کا آغاز کرتا ہے۔"
+              "urdu-sub-heading": "نوزائیدہ بچہ - کرنے اور نہ کرنے کی چیزیں۔ نام اور ختنہ ، کالے دھاگے ، عقیقہ ، مساج ، سالگرہ ، جب بچ بات کرنا سیکھے ، صفائی ستھرائی ، اسکول کی عمر کا آغاز کرتا ہے۔",
+              "english-sub-heading": "Newborn baby - Things to do and not to do. Keeping name and circumcision, Black Threads, Aqeeqa,Massage, Birthday,When kid starts talking, cleanliness, schooling age.",
+              "hindi-sub-heading": "पैदा हुवा बच्चा - करने के और नहीं करने के काम । नाम और खतना, ब्लैक थ्रेड्स, अक़ीक़ा , मसाज, बर्थडे, जब बच्चा बात करना शुरू करता है, सफाई, स्कूली उम्र।"
             },
             {
               "english-name": "5 to 10 years",
