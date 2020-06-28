@@ -17,6 +17,13 @@ export interface ISideNavProps {
   closeSideMenu: () => void;
 }
 
+export interface IVerifyCodeProps {
+  code: string;
+  setCode: (code: string) => void;
+  verifyCode: (event: any) => void;
+  error: Error;
+}
+
 export interface ISideNavItemProps {
   item: ISideMenuItem;
   currentLanguage: string;
@@ -36,4 +43,19 @@ export interface IHomePageProps {
 }
 export interface IImageSliderProps {
   images: IHomePageImage[];
+}
+export interface IBecomeMemberFormProps {
+  codeSent: boolean;
+  captchaValue: string;
+  error: Error;
+  submitButtonClicked: (data: IUserDetails) => void;
+}
+export interface IUserDetails {
+  age: number;
+  displayName: string;
+  profession: string;
+  gender: string;
+  nearestMasjid: string;
+  phoneNumber: { value: string; valid: boolean };
+  masjidZimmedar: string;
 }

@@ -1,13 +1,16 @@
-import React, { useEffect, useState } from "react";
-// Firebase App (the core Firebase SDK) is always required and must be listed first
-import * as firebase from "firebase/app";
-
 // If you enabled Analytics in your project, add the Firebase SDK for Analytics
 import "firebase/analytics";
-
+// Firebase App (the core Firebase SDK) is always required and must be listed first
+import * as firebase from "firebase/app";
 // Add the Firebase products that you want to use
 import "firebase/auth";
 import "firebase/firestore";
+import React, { useEffect, useState } from "react";
+import "react-phone-input-2/lib/material.css";
+import { BecomeMemberForm } from "./BecomeMemberForm";
+import { VerifyCode } from "./VerifyCode";
+import { IUserDetails } from "../models/components.props";
+
 var firebaseConfig = {
   apiKey: "AIzaSyAaB-8OlMJ-gc1hFxya2hTXEww8rppZwXw",
   authDomain: "jamiatulama-solapur.firebaseapp.com",
@@ -23,15 +26,19 @@ firebase.initializeApp(firebaseConfig);
 firebase.analytics();
 
 export function BecomeMember() {
-  const [phoneNumber, setPhoneNumber] = useState("");
-  const [displayName, setDisplayName] = useState("");
+  const [details, setDetails] = useState((null as unknown) as IUserDetails);
   const [codeSent, setCodeSent] = useState(false);
   const [code, setCode] = useState("");
   const [isNewUser, setIsNewUser] = useState(false);
-  const [currentUser, setCurrentUser] = useState(null as any);
+  const [currentUser, setCurrentUser] = useState(
+    (null as unknown) as IUserDetails
+  );
+  const [captchaValue, setCaptchValue] = useState("");
   const [error, setError] = useState(null as any);
   useEffect(() => {
+    console.log(firebase.auth());
     firebase.auth().onAuthStateChanged((user: any) => {
+      console.log(user);
       if (user) {
         setCurrentUser(user);
       }
@@ -44,13 +51,25 @@ export function BecomeMember() {
       (window as any).recaptchaVerifier.render().then((widgetId: any) => {
         (window as any).recaptchaWidgetId = widgetId;
       });
+      (window as any).recaptchaVerifier.verify().then((token: any) => {
+        setCaptchValue(token);
+      });
     }
   });
-  const submitButtonClicked = () => {
+  const submitButtonClicked = (data: IUserDetails) => {
+    let { phoneNumber } = data;
+    if (phoneNumber.valid) {
+      phoneNumber.value = `+${phoneNumber.value
+        .replace(/ /g, "")
+        .replace(/-/g, "")}`;
+    }
+
+    setDetails(data);
     const appVerifier = (window as any).recaptchaVerifier;
+    console.log(appVerifier);
     firebase
       .auth()
-      .signInWithPhoneNumber(phoneNumber, appVerifier)
+      .signInWithPhoneNumber(phoneNumber.value, appVerifier)
       .then((confirmationResult: any) => {
         // SMS sent. Prompt user to type the code from the message, then sign the
         // user in with confirmationResult.confirm(code).
@@ -71,11 +90,9 @@ export function BecomeMember() {
         setIsNewUser(result.additionalUserInfo.isNewUser);
         if (isNewUser || !result.user.displayName) {
           result.user
-            .updateProfile({
-              displayName: displayName,
-            })
+            .updateProfile({ ...details })
             .then((response: any) => {
-              setCurrentUser(result.user);
+              setCurrentUser(details);
               setError(null);
             })
             .catch((error: any) => {
@@ -90,7 +107,10 @@ export function BecomeMember() {
   if (currentUser && isNewUser) {
     return (
       <div className="become-member">
-        <h1> {currentUser.displayName}, Thanks for registring with us.</h1>
+        <h1>
+          {currentUser.displayName}, Thanks for registring with us.
+          {currentUser}
+        </h1>
       </div>
     );
   }
@@ -101,81 +121,30 @@ export function BecomeMember() {
       </div>
     );
   }
-  const handleMobileNumberChange = (value: string) => {
-    const phoneno = /^\+?([0-9]{2})([0-9]{10})$/;
-    if (value.match(phoneno) && value) {
-      setPhoneNumber(value);
-    }
-    return true;
-  };
+
   const getDetailsTemplate = () => {
     return (
-      <div className="form">
-        <div className="form-group">
-          <label> Name </label>
-          <input
-            type="text"
-            value={displayName}
-            onChange={(e) => setDisplayName(e.target.value)}
-          />
-        </div>
-        <div className="form-group">
-          <label> Mobile Number </label>
-          <input
-            type="tel"
-            placeholder="+XXXXXXXXXXXX"
-            onChange={(e) => handleMobileNumberChange(e.target.value)}
-          />
-        </div>
-        {!codeSent && (
-          <div id="recaptcha-container" className="form-group"></div>
-        )}
-        <div className="form-group">
-          <button
-            className="button button-primary clickable"
-            type="submit"
-            id="submit-button"
-            disabled={!(phoneNumber && displayName)}
-            onClick={submitButtonClicked}
-          >
-            Submit
-          </button>
-        </div>
-        {error && <div className="form-group error"> {error.message} </div>}
-      </div>
+      <BecomeMemberForm
+        codeSent={codeSent}
+        error={error}
+        captchaValue={captchaValue}
+        submitButtonClicked={submitButtonClicked}
+      />
     );
   };
   const verifyCodeTemplate = () => {
     return (
-      <div className="form">
-        <div className="form-group">
-          <label> Verify Code </label>
-          <input
-            type="text"
-            value={code}
-            onChange={(e) => {
-              setCode(e.target.value);
-            }}
-          />
-        </div>
-        <div className="form-group">
-          <button
-            className="button button-primary clickable"
-            type="submit"
-            id="submit-button"
-            disabled={!code}
-            onClick={verifyCode}
-          >
-            Verify
-          </button>
-        </div>
-        {error && <div className="form-group error"> {error.message} </div>}
-      </div>
+      <VerifyCode
+        code={code}
+        setCode={setCode}
+        error={error}
+        verifyCode={verifyCode}
+      />
     );
   };
   return (
     <div className="become-member">
-      <h1> Fill in the details to become a member</h1>
+      <h1> Fill in the details</h1>
       {codeSent ? verifyCodeTemplate() : getDetailsTemplate()}
     </div>
   );
