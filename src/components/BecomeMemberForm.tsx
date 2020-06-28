@@ -19,6 +19,7 @@ export function BecomeMemberForm(props: IBecomeMemberFormProps) {
   const [masjidZimmedar, setMasjidZimmedar] = useState("I am Not");
   const [nearestMasjid, setNearestMasjid] = useState("");
   const [age, setAge] = useState(18);
+  const [areaOfInterest, setAreaOfInterest] = useState("None");
   const [profession, setProfession] = useState("");
   const submitButtonClicked = () => {
     props.submitButtonClicked({
@@ -123,6 +124,38 @@ export function BecomeMemberForm(props: IBecomeMemberFormProps) {
                 "Mufti",
                 "Alim",
                 "Hafiz",
+              ],
+              (e) => {
+                return (
+                  <MenuItem key={e} value={e}>
+                    {e}
+                  </MenuItem>
+                );
+              }
+            )}
+          </Select>
+        </FormControl>
+      </div>
+      <div className="form-group">
+        <FormControl variant="outlined">
+          <InputLabel>Area of Interest</InputLabel>
+          <Select
+            value={areaOfInterest}
+            onChange={(e) => setAreaOfInterest(e.target.value as string)}
+            label="Area of Interest"
+          >
+            {Array.from(
+              [
+                "None",
+                "Charity",
+                "School education",
+                "Madarsa & Maktab",
+                "Health & Medicine",
+                "Journalism",
+                "Health & hygiene",
+                "Scholarship & schemes",
+                "Job assistance",
+                "Teaching",
               ],
               (e) => {
                 return (

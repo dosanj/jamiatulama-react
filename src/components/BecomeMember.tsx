@@ -36,9 +36,7 @@ export function BecomeMember() {
   const [captchaValue, setCaptchValue] = useState("");
   const [error, setError] = useState(null as any);
   useEffect(() => {
-    console.log(firebase.auth());
     firebase.auth().onAuthStateChanged((user: any) => {
-      console.log(user);
       if (user) {
         setCurrentUser(user);
       }
@@ -66,7 +64,6 @@ export function BecomeMember() {
 
     setDetails(data);
     const appVerifier = (window as any).recaptchaVerifier;
-    console.log(appVerifier);
     firebase
       .auth()
       .signInWithPhoneNumber(phoneNumber.value, appVerifier)
@@ -90,7 +87,7 @@ export function BecomeMember() {
         setIsNewUser(result.additionalUserInfo.isNewUser);
         if (isNewUser || !result.user.displayName) {
           result.user
-            .updateProfile({ ...details })
+            .updateProfile({ displayName: details.displayName })
             .then((response: any) => {
               setCurrentUser(details);
               setError(null);
@@ -107,10 +104,7 @@ export function BecomeMember() {
   if (currentUser && isNewUser) {
     return (
       <div className="become-member">
-        <h1>
-          {currentUser.displayName}, Thanks for registring with us.
-          {currentUser}
-        </h1>
+        <h1>{currentUser.displayName}, Thanks for registring with us. </h1>
       </div>
     );
   }
