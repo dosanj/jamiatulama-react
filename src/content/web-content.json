@@ -1850,9 +1850,12 @@
           "english-name": "Special Messages",
           "children": [
             {
-              "english-name": "To Ulama",
+              "urdu-heading": "علمائے کرام کو خصوصی پیغام",
               "english-heading": "SPECIAL MESSAGE TO ULAMA",
-              "english-sub-heading": "Responsibility of Ulama. Decide topic for lecture carefully with pure intentions. and dont to these ten mistakes. Correct the misconception about understanding of Quran in people. few maktab teaching guidelines.",
+              "hindi-name": " विद्वानों",
+              "hindi-heading": " विद्वानों को विशेष संदेश",
+              "english-name": "To Ulama",
+              "urdu-name": "علمائے کرام ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Ww_6tDq6po4",
@@ -1921,14 +1924,17 @@
                   "urdu": "عالم وہ نہیں جو صرف فقہی علم(روزہ،نماز وغیرہ ) کی تعلیم دیتا ہے"
                 }
               ],
-              "urdu-name": "علمائے کرام ",
-              "urdu-heading": "علمائے کرام کو خصوصی پیغام",
-              "urdu-sub-heading": "علمائے کرام کی ذمہ داری۔ خالص نیت کے ساتھ تقریر کے لئے عنوان کا فیصلہ کریں۔ اور ان دس غلطیوں سے بچے ۔ لوگوں میں قرآن کی تفہیم کے بارے میں غلط فہمی کو دور کریں۔ مکتب کی تعلیم کے کچھ اصول۔"
+              "urdu-sub-heading": "علمائے کرام کی ذمہ داری۔ خالص نیت کے ساتھ تقریر کے لئے عنوان کا فیصلہ کریں۔ اور ان دس غلطیوں سے بچے ۔ لوگوں میں قرآن کی تفہیم کے بارے میں غلط فہمی کو دور کریں۔ مکتب کی تعلیم کے کچھ اصول۔",
+              "english-sub-heading": "Responsibility of Ulama. Decide topic for lecture carefully with pure intentions. and dont to these ten mistakes. Correct the misconception about understanding of Quran in people. few maktab teaching guidelines.",
+              "hindi-sub-heading": " विद्वानों की जिम्मेदारी है। शुद्ध इरादे के साथ भाषण के लिए शीर्षक तय करें। और इन दस गलतियों से बचें। कुरान की समझ के बारे में लोगों के बीच गलतफहमी को दूर करें। स्कूली शिक्षा के कुछ सिद्धांत।"
             },
             {
-              "english-name": "To Doctors",
+              "urdu-heading": "مسلم ڈاکٹروں کو خصوصی پیغام",
               "english-heading": "SPECIAL MESSAGE TO MUSLIM DOCTORS",
-              "english-sub-heading": "Intentions, free service, history, guidelines and responsibility",
+              "hindi-name": " डॉक्टर",
+              "hindi-heading": " मुस्लिम डॉक्टरों को विशेष संदेश",
+              "english-name": "To Doctors",
+              "urdu-name": "ڈاکٹر",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/P5g-bH8cBIE",
@@ -1967,14 +1973,17 @@
                   "urdu": "علمائے کرام کے بعد ، معاشرے کے ذمہ دار کون ہیں؟"
                 }
               ],
-              "urdu-name": " ڈاکٹر",
-              "urdu-heading": "مسلم ڈاکٹروں کو خصوصی پیغام",
-              "urdu-sub-heading": "ارادے ، مفت خدمت ، تاریخ ، رہنما اصول اور ذمہ داری"
+              "urdu-sub-heading": "ارادے ، مفت خدمت ، تاریخ ، رہنما اصول اور ذمہ داری",
+              "english-sub-heading": "Intentions, free service, history, guidelines and responsibility",
+              "hindi-sub-heading": " इरादे, नि: शुल्क सेवा, इतिहास, दिशानिर्देश और जिम्मेदारियां"
             },
             {
-              "english-name": "To Engineers",
+              "urdu-heading": "انجینئر",
               "english-heading": "ENGINEER",
-              "english-sub-heading": "Engineer",
+              "hindi-name": " इंजीनियर",
+              "hindi-heading": " इंजीनियर",
+              "english-name": "To Engineers",
+              "urdu-name": "انجینئر",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/x_5fwIiwC-M",
@@ -1995,14 +2004,17 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "انجینئر",
-              "urdu-heading": "انجینئر",
-              "urdu-sub-heading": "انجینئر"
+              "urdu-sub-heading": "انجینئر",
+              "english-sub-heading": "Engineer",
+              "hindi-sub-heading": " इंजीनियर"
             },
             {
-              "english-name": "To Lawyers",
+              "urdu-heading": "مسلم وکلاء کی خدمات میں خصوصی پیغام",
               "english-heading": "ESPECIAL MESSAGE TO MUSLIM LAWYERS",
-              "english-sub-heading": "Contribution in justice in society. few qualities of good lawyer. Maulana Tariq jameel speech in lawyers.",
+              "hindi-name": " वकील",
+              "hindi-heading": " मुस्लिम वकीलों की सेवाओं में विशेष संदेश",
+              "english-name": "To Lawyers",
+              "urdu-name": "وکیل",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/NYSLIjAHp6I",
@@ -2029,14 +2041,17 @@
                   "urdu": "مولانا طارق جمیل بیان وکلاء میں"
                 }
               ],
-              "urdu-name": "وکیل",
-              "urdu-heading": "مسلم وکلاء کی خدمات میں خصوصی پیغام",
-              "urdu-sub-heading": "معاشرے میں انصاف میں تعاون۔ اچھے وکیل کی کچھ خصوصیات۔ وکلاء میں مولانا طارق جمیل کا بیان ۔"
+              "urdu-sub-heading": "معاشرے میں انصاف میں تعاون۔ اچھے وکیل کی کچھ خصوصیات۔ وکلاء میں مولانا طارق جمیل کا بیان ۔",
+              "english-sub-heading": "Contribution in justice in society. few qualities of good lawyer. Maulana Tariq jameel speech in lawyers.",
+              "hindi-sub-heading": "समाज में न्याय में सहयोग। एक अच्छे वकील की कुछ विशेषताएं। वकीलों के बीच मौलाना तारिक जमील का बयान"
             },
             {
-              "english-name": "To Teachers",
+              "urdu-heading": "مسلمان اساتذہ کو پیغام",
               "english-heading": "MESSAGE TO MUSLIMS TEACHERS",
-              "english-sub-heading": "Quality of Good teacher. Prophetic qualities of teaching. Impact of voice tone. Use of technology and smart class",
+              "hindi-name": " शिक्षकों की",
+              "hindi-heading": " मुस्लिम शिक्षकों को संदेश",
+              "english-name": "To Teachers",
+              "urdu-name": "اساتذہ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Gkgo_jRoPwk",
@@ -2075,14 +2090,17 @@
                   "urdu": "اسمارٹ کلاس کیا ہے؟"
                 }
               ],
-              "urdu-heading": "مسلمان اساتذہ کو پیغام",
-              "urdu-name": "اساتذہ",
-              "urdu-sub-heading": "اچھے استاد کا پہچان ۔ نبی. کی تعلیمات کی خصوصیات۔ آواز کے انداز کا اثر۔ ٹکنالوجی اور اسمارٹ کلاس کا استعمال"
+              "urdu-sub-heading": "اچھے استاد کا پہچان ۔ نبی. کی تعلیمات کی خصوصیات۔ آواز کے انداز کا اثر۔ ٹکنالوجی اور اسمارٹ کلاس کا استعمال",
+              "english-sub-heading": "Quality of Good teacher. Prophetic qualities of teaching. Impact of voice tone. Use of technology and smart class",
+              "hindi-sub-heading": " एक अच्छे शिक्षक की पहचान। पैगंबर। की शिक्षाओं की विशेषताएं ध्वनि प्रभाव। प्रौद्योगिकी और स्मार्ट क्लास का उपयोग"
             },
             {
-              "english-name": "To Buisnessmen",
+              "urdu-heading": "تاجر",
               "english-heading": "BUISNESSMAN",
-              "english-sub-heading": "Buisnessman",
+              "hindi-name": " व्यवसायी` व्यवसायी",
+              "hindi-heading": " व्यवसायी",
+              "english-name": "To Buisnessmen",
+              "urdu-name": "تاجر",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/i_OAzpdC_H8",
@@ -2091,23 +2109,29 @@
                   "urdu": "غیر مسلم اسلامی تعلیم کی پابندی کرکے کامیاب ہوتے ہوئے"
                 }
               ],
-              "urdu-name": "تاجر",
-              "urdu-heading": "تاجر",
-              "urdu-sub-heading": "تاجر"
+              "urdu-sub-heading": "تاجر",
+              "english-sub-heading": "Buisnessman",
+              "hindi-sub-heading": " व्यवसायी"
             },
             {
-              "english-name": "To Butchers",
-              "english-heading": "BUTCHERS(QUERSHI)",
-              "english-sub-heading": "Butchers(Quershi)",
-              "videos-list": [],
-              "urdu-name": "قریشی",
               "urdu-heading": "(قصائیوں کو(قریشی ",
-              "urdu-sub-heading": "     قریشی قصائیوں کو"
+              "english-heading": "BUTCHERS(QUERSHI)",
+              "hindi-name": " कुरैशी",
+              "hindi-heading": " (कसाईयों में (कुरैशी)",
+              "english-name": "To Butchers",
+              "urdu-name": "قریشی",
+              "videos-list": [],
+              "urdu-sub-heading": "     قریشی قصائیوں کو",
+              "english-sub-heading": "Butchers(Quershi)",
+              "hindi-sub-heading": " कुरैश कसाई को"
             },
             {
-              "english-name": "To Masjid Trustee",
+              "urdu-heading": "خصوصی پیغام مسجد ٹرسٹی کی خدمت میں",
               "english-heading": "SPECIAL MESSAGE TO MASJID TRUSTEE",
-              "english-sub-heading": "Criteria to be Masjid Trustee. What should happen in Masjid. Situation of present Imam & Trustee and Masjid Chanda",
+              "hindi-name": " मस्जिद के ट्रस्टी",
+              "hindi-heading": " मस्जिद के ट्रस्टी की सेवा में विशेष संदेश",
+              "english-name": "To Masjid Trustee",
+              "urdu-name": " مسجد ٹرسٹی",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/2yTSaQFk3mA",
@@ -2182,20 +2206,24 @@
                   "urdu": "مساجد ویران کیوں؟ سماج کی ضرورت۔ مسجد میں کرنے کے بیس کام اور جمعہ بیان کے بیس عنوان"
                 }
               ],
-              "urdu-heading": "خصوصی پیغام مسجد ٹرسٹی کی خدمت میں",
-              "urdu-name": " مسجد ٹرسٹی",
-              "urdu-sub-heading": "مسجد ٹرسٹی ہونے کا معیار. مسجد میں کیا ہونا چاہئے۔ موجودہ امام اور ٹرسٹی کی صورتحال اور مسجد چندا"
+              "urdu-sub-heading": "مسجد ٹرسٹی ہونے کا معیار. مسجد میں کیا ہونا چاہئے۔ موجودہ امام اور ٹرسٹی کی صورتحال اور مسجد چندا",
+              "english-sub-heading": "Criteria to be Masjid Trustee. What should happen in Masjid. Situation of present Imam & Trustee and Masjid Chanda",
+              "hindi-sub-heading": " मस्जिद के ट्रस्टी होने का मानक। मस्जिद में क्या होना चाहिए? वर्तमान इमाम और ट्रस्टी और चंदा मस्जिद की स्थिति"
             }
           ],
-          "urdu-name": "خصوصی پیغامات"
+          "urdu-name": "خصوصی پیغامات",
+          "hindi-name": " विशेष संदेश"
         },
         {
           "english-name": "Special Occasions",
           "children": [
             {
-              "english-name": "Eid ul-Fitr",
+              "urdu-heading": "عید الفطر",
               "english-heading": "EID -UL - FITR",
-              "english-sub-heading": "eid -ul - fitr",
+              "hindi-name": " ईद दुल - फित्र",
+              "hindi-heading": " ईद दुल - फित्र",
+              "english-name": "Eid ul-Fitr",
+              "urdu-name": "عید الفطر",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/xsUglChIk5E",
@@ -2216,14 +2244,17 @@
                   "urdu": "رمضان کے بعد خالی مسجد کیوں؟"
                 }
               ],
-              "urdu-name": "عید الفطر",
-              "urdu-heading": "عید الفطر",
-              "urdu-sub-heading": "عید الفطر"
+              "urdu-sub-heading": "عید الفطر",
+              "english-sub-heading": "eid -ul - fitr",
+              "hindi-sub-heading": " ईद दुल - फित्र"
             },
             {
-              "english-name": "Eid Ul-Adha",
+              "urdu-heading": "عید الاضحی",
               "english-heading": "EID UL ADHA",
-              "english-sub-heading": "How to slaughter and supplication, Respect the animal, few misconceptions about 3 divisions, Prohibited parts in Halal Animal, cleanliness",
+              "hindi-name": " ईद-उल-अधा",
+              "hindi-heading": " ईद-उल-अधा",
+              "english-name": "Eid Ul-Adha",
+              "urdu-name": "عید الاضحی",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/FMQDWv6j8x0",
@@ -2262,39 +2293,49 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "عید الاضحی",
-              "urdu-heading": "عید الاضحی",
-              "urdu-sub-heading": "ذبح اور دعائیں کیسے کریں ، جانوروں کا احترام کریں ، 3 حصوں کے بارے میں کچھ غلط فہمیاں ، حلال جانوروں میں حرمت والے حصے ، صفائی ستھرائی"
+              "urdu-sub-heading": "ذبح اور دعائیں کیسے کریں ، جانوروں کا احترام کریں ، 3 حصوں کے بارے میں کچھ غلط فہمیاں ، حلال جانوروں میں حرمت والے حصے ، صفائی ستھرائی",
+              "english-sub-heading": "How to slaughter and supplication, Respect the animal, few misconceptions about 3 divisions, Prohibited parts in Halal Animal, cleanliness",
+              "hindi-sub-heading": " वध और प्रार्थना कैसे करें, जानवरों का सम्मान करें, 3 भागों के बारे में कुछ गलत धारणाएं, हलाल जानवरों के हलाल भाग, स्वच्छता"
             },
             {
-              "english-name": "Milad un Nabi",
-              "english-heading": "MILAD",
-              "english-sub-heading": "milad",
-              "videos-list": [],
-              "urdu-name": "میلاد النبی",
               "urdu-heading": "میلاد",
-              "urdu-sub-heading": "میلاد"
+              "english-heading": "MILAD",
+              "hindi-name": " मिलाद-उन-नबी",
+              "hindi-heading": " मिलाद",
+              "english-name": "Milad un Nabi",
+              "urdu-name": "میلاد النبی",
+              "videos-list": [],
+              "urdu-sub-heading": "میلاد",
+              "english-sub-heading": "milad",
+              "hindi-sub-heading": " मिलाद"
             },
             {
-              "english-name": "Moharram",
-              "english-heading": "MUHARRAM",
-              "english-sub-heading": "muharram",
-              "videos-list": [],
-              "urdu-name": "محرم",
               "urdu-heading": "محرم",
-              "urdu-sub-heading": "محرم"
+              "english-heading": "MUHARRAM",
+              "hindi-name": " मुहर्रम",
+              "hindi-heading": " मुहर्रम",
+              "english-name": "Moharram",
+              "urdu-name": "محرم",
+              "videos-list": [],
+              "urdu-sub-heading": "محرم",
+              "english-sub-heading": "muharram",
+              "hindi-sub-heading": " मुहर्रम"
             },
             {
               "english-name": "Salatul Istisqa",
               "english-heading": "EID",
               "english-sub-heading": "eid",
               "videos-list": [],
-              "urdu-name": "صلاۃ الاستسقاء"
+              "urdu-name": "صلاۃ الاستسقاء",
+              "hindi-name": " सलात अल-इस्तिसका '"
             },
             {
-              "english-name": "haj and Umrah",
+              "urdu-heading": "حج اور عمرہ",
               "english-heading": "HAJ AND UMRAH",
-              "english-sub-heading": "haj",
+              "hindi-name": " हज और उमराह",
+              "hindi-heading": " हज और उमराह",
+              "english-name": "haj and Umrah",
+              "urdu-name": "حج اور عمرہ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/48SaU6ii8y4",
@@ -2339,9 +2380,9 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "حج اور عمرہ",
-              "urdu-heading": "حج اور عمرہ",
-              "urdu-sub-heading": "حج اور عمرہ"
+              "urdu-sub-heading": "حج اور عمرہ",
+              "english-sub-heading": "haj",
+              "hindi-sub-heading": " हज और उमराह"
             },
             {
               "english-name": "Shabe-E-Meraj or Barat or Qadr",
@@ -2349,7 +2390,9 @@
               "english-sub-heading": "Shab-E-Meraj/Baraat/Qadr",
               "videos-list": [],
               "urdu-name": "شب معراج اور شب قدر یا شب بر‏ات",
-              "urdu-heading": "شب معراج اور شب قدر یا شب بر‏ات"
+              "urdu-heading": "شب معراج اور شب قدر یا شب بر‏ات",
+              "hindi-name": " शब मिराज और शब क़द्र या शब बारात",
+              "hindi-heading": " शब मिराज और शब क़द्र या शब बारात"
             },
             {
               "english-name": "Janazah",
@@ -2357,22 +2400,28 @@
               "english-sub-heading": "",
               "videos-list": [],
               "urdu-name": "جنازہ",
-              "urdu-heading": "جنازہ"
+              "urdu-heading": "جنازہ",
+              "hindi-name": " अंतिम संस्कार",
+              "hindi-heading": " अंतिम संस्कार"
             },
             {
-              "english-name": "Daswa Chilla Barsi",
-              "english-heading": "DASWA, CHILLA, BARSI",
-              "english-sub-heading": "",
-              "videos-list": [],
-              "urdu-name": "دسواں۔چلہ۔برسی",
               "urdu-heading": "دسواں۔چلہ۔برسی",
-              "urdu-sub-heading": ""
+              "english-heading": "DASWA, CHILLA, BARSI",
+              "hindi-name": " दसवीं सालगिरह",
+              "hindi-heading": " दसवीं सालगिरह",
+              "english-name": "Daswa Chilla Barsi",
+              "urdu-name": "دسواں۔چلہ۔برسی",
+              "videos-list": [],
+              "urdu-sub-heading": "",
+              "english-sub-heading": ""
             }
           ],
-          "urdu-name": "خاص مواقع"
+          "urdu-name": "خاص مواقع",
+          "hindi-name": " विशेष अवसर"
         }
       ],
-      "urdu-name": "خصوصی پیغامات"
+      "urdu-name": "خصوصی پیغامات",
+      "hindi-name": " विशेष संदेश"
     },
     {
       "english-name": "Others",
@@ -2381,9 +2430,12 @@
           "english-name": "Useful Online Information",
           "children": [
             {
-              "english-name": "Apply for Govt. Documents",
+              "urdu-heading": "پاس ورڈ / آدھار کارڈ / ووٹر شناختی کارڈ کا اطلاق کیسے کریں",
               "english-heading": "HOW TO APPLY PASSORT / AADHAAR CARD / VOTER ID CARD",
-              "english-sub-heading": "Login to the Passport Seva Online Portal with the registered Login Id. Click \"Apply for Fresh Passport/Re-issue of Passport\" link. Fill in the required details in the form and submit. Click the \"Pay and Schedule Appointment\" link on the \"View Saved/Submitted Applications\" screen to schedule an appointment",
+              "hindi-name": " सरकारी दस्तावेजों के लिए आवेदन करें।",
+              "hindi-heading": " पासवर्ड / आधार कार्ड / मतदाता पहचान पत्र कैसे आवेदन करें",
+              "english-name": "Apply for Govt. Documents",
+              "urdu-name": "حکومتی دستاویزات کے لئے درخواست دیں۔ ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Eo5KFT9W8Wc",
@@ -2398,14 +2450,17 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "حکومتی دستاویزات کے لئے درخواست دیں۔ ",
-              "urdu-heading": "پاس ورڈ / آدھار کارڈ / ووٹر شناختی کارڈ کا اطلاق کیسے کریں",
-              "urdu-sub-heading": "رجسٹرڈ لاگ ان شناخت کے ساتھ پاسپورٹ سروس آن لائن پورٹل میں لاگ ان کریں۔ \"تازہ ترین پاسپورٹ کے لئے درخواست دیں / پاسپورٹ کے دوبارہ اجراء\" کے لنک پر کلک کریں۔ فارم میں مطلوبہ تفصیلات پُر کریں اور جمع کروائیں۔ ملاقات کا وقت طے کرنے کے لئے \"محفوظ شدہ / جمع درخواستیں دیکھیں\" اسکرین پر \"تنخواہ اور وقت کی تقرری\" لنک ​​پر کلک کریں"
+              "urdu-sub-heading": "رجسٹرڈ لاگ ان شناخت کے ساتھ پاسپورٹ سروس آن لائن پورٹل میں لاگ ان کریں۔ \"تازہ ترین پاسپورٹ کے لئے درخواست دیں / پاسپورٹ کے دوبارہ اجراء\" کے لنک پر کلک کریں۔ فارم میں مطلوبہ تفصیلات پُر کریں اور جمع کروائیں۔ ملاقات کا وقت طے کرنے کے لئے \"محفوظ شدہ / جمع درخواستیں دیکھیں\" اسکرین پر \"تنخواہ اور وقت کی تقرری\" لنک ​​پر کلک کریں",
+              "english-sub-heading": "Login to the Passport Seva Online Portal with the registered Login Id. Click \"Apply for Fresh Passport/Re-issue of Passport\" link. Fill in the required details in the form and submit. Click the \"Pay and Schedule Appointment\" link on the \"View Saved/Submitted Applications\" screen to schedule an appointment",
+              "hindi-sub-heading": "पंजीकृत लॉगिन आईडी के साथ पासपोर्ट सेवा ऑनलाइन पोर्टल पर लॉगिन करें। \"नवीनतम पासपोर्ट / फिर से पासपोर्ट के लिए आवेदन करें\" लिंक पर क्लिक करें। फॉर्म में आवश्यक विवरण भरें और सबमिट करें। अपॉइंटमेंट शेड्यूल करने के लिए \"सेव एंड सब्मिट एप्लिकेशन\" स्क्रीन पर \"पे एंड शेड्यूल अपॉइंटमेंट\" लिंक पर क्लिक करें"
             },
             {
-              "english-name": "Train and Flight tickets Booking",
+              "urdu-heading": "آن لائن ٹرین / فلائٹ ٹکٹس کس طرح سیکھیں",
               "english-heading": "HOW TO BOOK ONLINE TRAIN/FLIGHT TICKETS",
-              "english-sub-heading": "Users have to select the source and destination stations, select a train, check for train ticket availability, provide the passenger details (name/s, age, gender, berth preference and meal preference) and then proceed towards payment gateway. The online train ticket booking is finalized once the payment is made.",
+              "hindi-name": " ट्रेन और फ्लाइट टिकट बुकिंग",
+              "hindi-heading": " ट्रेन / फ्लाइट टिकट ऑनलाइन प्राप्त करना सीखें",
+              "english-name": "Train and Flight tickets Booking",
+              "urdu-name": "ٹرین اور فلائٹ ٹکٹوں کی بکنگ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/atatSgZ-mtY",
@@ -2414,28 +2469,35 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "ٹرین اور فلائٹ ٹکٹوں کی بکنگ",
-              "urdu-heading": "آن لائن ٹرین / فلائٹ ٹکٹس کس طرح سیکھیں",
-              "urdu-sub-heading": "صارفین کو ذریعہ اور منزل مقصود اسٹیشن کا انتخاب کرنا ہوگا ، ٹرین کا انتخاب کرنا ہوگا ، ٹرین کی ٹکٹ کی دستیابی کے لئے جانچ کرنا ہو گا ، مسافروں کی تفصیلات (نام / ص ، عمر ، صنف ، برتھ ترجیح اور کھانے کی ترجیح) فراہم کرنا ہوں گے اور پھر ادائیگی کے گیٹ وے کی طرف بڑھنا ہو گا۔ ایک بار ادائیگی کے بعد آن لائن ٹرین کی ٹکٹ بکنگ کو حتمی شکل دی جاتی ہے۔"
+              "urdu-sub-heading": "صارفین کو ذریعہ اور منزل مقصود اسٹیشن کا انتخاب کرنا ہوگا ، ٹرین کا انتخاب کرنا ہوگا ، ٹرین کی ٹکٹ کی دستیابی کے لئے جانچ کرنا ہو گا ، مسافروں کی تفصیلات (نام / ص ، عمر ، صنف ، برتھ ترجیح اور کھانے کی ترجیح) فراہم کرنا ہوں گے اور پھر ادائیگی کے گیٹ وے کی طرف بڑھنا ہو گا۔ ایک بار ادائیگی کے بعد آن لائن ٹرین کی ٹکٹ بکنگ کو حتمی شکل دی جاتی ہے۔",
+              "english-sub-heading": "Users have to select the source and destination stations, select a train, check for train ticket availability, provide the passenger details (name/s, age, gender, berth preference and meal preference) and then proceed towards payment gateway. The online train ticket booking is finalized once the payment is made.",
+              "hindi-sub-heading": "ग्राहकों को स्रोत और गंतव्य स्टेशन का चयन करना चाहिए, ट्रेन का चयन करना चाहिए, ट्रेन की टिकट उपलब्धता की जांच करनी चाहिए, यात्री विवरण (नाम / नाम, आयु, लिंग, बर्थ वरीयता और भोजन वरीयता) प्रदान करना चाहिए और फिर पेमेंट गेटवे की तरफ बढ़ें। एक बार भुगतान करने के बाद, ऑनलाइन ट्रेन टिकट बुकिंग को अंतिम रूप दिया जाता है।"
             },
             {
               "english-name": "Scholarship",
               "external-url": "http://www.360careervision.com/",
-              "urdu-name": "وظیفہ"
+              "urdu-name": "وظیفہ",
+              "hindi-name": " छात्रवृत्ति / शिष्यवृत्ती"
             },
             {
-              "english-name": "What is KYC",
-              "english-heading": "WHAT IS KYC",
-              "english-sub-heading": "Know Your Customer, alternatively known as know your client or simply KYC, is the process of a business verifying the identity of its clients and assessing their suitability, along with the potential risks of illegal intentions towards the business relationship.",
-              "videos-list": [],
-              "urdu-name": "کیا ہے؟  KYC",
               "urdu-heading": " کیا ہے؟  KYC",
-              "urdu-sub-heading": "اپنے کسٹمر کو جانیں ، جسے متبادل طور پر آپ کے مؤکل کو جانتے ہیں یا صرف کے وائی سی کو جانا جاتا ہے ، یہ ایک ایسا کاروبار ہے جس میں کاروباری تعلقات کی طرف ہونے والے غیر قانونی ارادوں کے امکانی خطرات کے ساتھ ساتھ اپنے مراجعین کی شناخت کی تصدیق اور ان کے مناسب ہونے کا اندازہ لگانا ہوتا ہے۔"
+              "english-heading": "WHAT IS KYC",
+              "hindi-name": " यह क्या है? केवाईसी",
+              "hindi-heading": " यह क्या है? केवाईसी",
+              "english-name": "What is KYC",
+              "urdu-name": "کیا ہے؟  KYC",
+              "videos-list": [],
+              "urdu-sub-heading": "اپنے کسٹمر کو جانیں ، جسے متبادل طور پر آپ کے مؤکل کو جانتے ہیں یا صرف کے وائی سی کو جانا جاتا ہے ، یہ ایک ایسا کاروبار ہے جس میں کاروباری تعلقات کی طرف ہونے والے غیر قانونی ارادوں کے امکانی خطرات کے ساتھ ساتھ اپنے مراجعین کی شناخت کی تصدیق اور ان کے مناسب ہونے کا اندازہ لگانا ہوتا ہے۔",
+              "english-sub-heading": "Know Your Customer, alternatively known as know your client or simply KYC, is the process of a business verifying the identity of its clients and assessing their suitability, along with the potential risks of illegal intentions towards the business relationship.",
+              "hindi-sub-heading": "अपने ग्राहक को जानें, वैकल्पिक रूप से अपने ग्राहक या बस केवाईसी को जानना, एक ऐसा व्यवसाय है जो व्यापार संबंधों के साथ-साथ आपके ग्राहकों के लिए अवैध इरादे के संभावित जोखिमों से संबंधित है। पहचान सत्यापित की जानी है और उनकी उपयुक्तता का आकलन किया गया है।"
             },
             {
-              "english-name": "Using UPI & Paytm",
+              "urdu-heading": "گوگل پے اور پٹیم کا استعمال کیسے کریں",
               "english-heading": "HOW TO USE GOOGLE PAY & PAYTM",
-              "english-sub-heading": "Download the app on Google Play or the App Store, or visit pay.google.com. Sign in to your Google Account and add a payment method. If you want to use Google Pay in stores, check to see if your phone has NFC.",
+              "hindi-name": "UPI & Paytm का उपयोग करते हुए",
+              "hindi-heading": " Google पे और पेटीएम का उपयोग कैसे करें",
+              "english-name": "Using UPI & Paytm",
+              "urdu-name": " کا استعمال کرتے ہوئے UPI & Paytm",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/-cw523kk1Hw",
@@ -2450,20 +2512,24 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": " کا استعمال کرتے ہوئے UPI & Paytm",
-              "urdu-heading": "گوگل پے اور پٹیم کا استعمال کیسے کریں",
-              "urdu-sub-heading": "Google Play یا App Store پر ایپ ڈاؤن لوڈ کریں ، یا pay.google.com دیکھیں۔ اپنے Google اکاؤنٹ میں سائن ان کریں اور ادائیگی کا طریقہ شامل کریں۔ اگر آپ اسٹورز میں گوگل پے استعمال کرنا چاہتے ہیں تو یہ دیکھنے کے ل check چیک کریں کہ آیا آپ کے فون میں این ایف سی ہے"
+              "urdu-sub-heading": "Google Play یا App Store پر ایپ ڈاؤن لوڈ کریں ، یا pay.google.com دیکھیں۔ اپنے Google اکاؤنٹ میں سائن ان کریں اور ادائیگی کا طریقہ شامل کریں۔ اگر آپ اسٹورز میں گوگل پے استعمال کرنا چاہتے ہیں تو یہ دیکھنے کے ل check چیک کریں کہ آیا آپ کے فون میں این ایف سی ہے",
+              "english-sub-heading": "Download the app on Google Play or the App Store, or visit pay.google.com. Sign in to your Google Account and add a payment method. If you want to use Google Pay in stores, check to see if your phone has NFC.",
+              "hindi-sub-heading": "Google Play या ऐप स्टोर पर ऐप डाउनलोड करें, या pay.google.com पर जाएं। अपने Google खाते में साइन इन करें और एक भुगतान विधि जोड़ें। यदि आप Google पे इन स्टोर्स का उपयोग करना चाहते हैं, तो यह देखने के लिए जांचें कि क्या आपके फोन में एनएफसी है।"
             }
           ],
-          "urdu-name": "کارآمد آن لائن معلومات"
+          "urdu-name": "کارآمد آن لائن معلومات",
+          "hindi-name": " उपयोगी ऑनलाइन जानकारी"
         },
         {
           "english-name": "Islamic History",
           "children": [
             {
-              "english-name": "Muslim in Freedom of India",
+              "urdu-heading": " مسلمان آزادی میں    ",
               "english-heading": "MUSLIM IN FREEDOM",
-              "english-sub-heading": "Muslim in Freedom",
+              "hindi-name": " मुस्लिम भारत की स्वतंत्रता",
+              "hindi-heading": " आजादी में मुसलमान",
+              "english-name": "Muslim in Freedom of India",
+              "urdu-name": "  مسلمان  ہندوستان کی آزادی ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/pq_O-rJUP7Q",
@@ -2502,14 +2568,17 @@
                   "urdu": "ٹیپو سلطان کون تھے؟ 1760-1799"
                 }
               ],
-              "urdu-heading": " مسلمان آزادی میں    ",
               "urdu-sub-heading": "مسلمان آزادی میں    ",
-              "urdu-name": "  مسلمان  ہندوستان کی آزادی "
+              "english-sub-heading": "Muslim in Freedom",
+              "hindi-sub-heading": "आजादी में मुसलमान"
             },
             {
-              "english-name": "Muslim Scientist",
+              "urdu-heading": "مسلم سائنسدان",
               "english-heading": "MUSLIM SCIENTIST",
-              "english-sub-heading": "1001 inventions, 10 Muslim scientists, who invented Algorithm, soap, optics/photoghraphy, free healthcare, education and algebra, Islamic architecture in India, Who invented coffee , and First degree giving University of the world as per Guinness Book of World records.",
+              "hindi-name": " मुस्लिम वैज्ञानिक",
+              "hindi-heading": " मुस्लिम वैज्ञानिक",
+              "english-name": "Muslim Scientist",
+              "urdu-name": "مسلم سائنسدان",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/879kqbx9rqc",
@@ -2554,14 +2623,17 @@
                   "urdu": "دنیا کی سب سے پرانی یونیورسٹی ایک مسلم کی بنائی ہوئی - گنیز ورلڈ ریکارڈز کے مطابق"
                 }
               ],
-              "urdu-name": "مسلم سائنسدان",
-              "urdu-heading": "مسلم سائنسدان",
-              "urdu-sub-heading": "1001 ایجادات ، 10 مسلمان سائنس دان ، جنہوں نے الگوریتم ، صابن ، آپٹکس / فوٹوگرافی ، مفت صحت کی دیکھ بھال ، تعلیم اور الجبرا ، ہندوستان میں اسلامی فن تعمیر ایجاد کیا ، جس نے کافی ایجاد کی ، اور گنیز بک آف ورلڈ ریکارڈ کے مطابق یونیورسٹی کو دنیا کی پہلی ڈگری دی۔"
+              "urdu-sub-heading": "1001 ایجادات ، 10 مسلمان سائنس دان ، جنہوں نے الگوریتم ، صابن ، آپٹکس / فوٹوگرافی ، مفت صحت کی دیکھ بھال ، تعلیم اور الجبرا ، ہندوستان میں اسلامی فن تعمیر ایجاد کیا ، جس نے کافی ایجاد کی ، اور گنیز بک آف ورلڈ ریکارڈ کے مطابق یونیورسٹی کو دنیا کی پہلی ڈگری دی۔",
+              "english-sub-heading": "1001 inventions, 10 Muslim scientists, who invented Algorithm, soap, optics/photoghraphy, free healthcare, education and algebra, Islamic architecture in India, Who invented coffee , and First degree giving University of the world as per Guinness Book of World records.",
+              "hindi-sub-heading": " 1001 आविष्कार, 10 मुस्लिम वैज्ञानिक जिन्होंने भारत में एल्गोरिदम, साबुन, प्रकाशिकी / फोटोग्राफी, मुफ्त स्वास्थ्य सेवा, शिक्षा और बीजगणित, इस्लामी वास्तुकला का आविष्कार किया, जिन्होंने कई आविष्कार किए, और गिनीज बुक ऑफ वर्ल्ड रिकॉर्ड के अनुसार विश्वविद्यालय ने दुनिया की पहली डिग्री से सम्मानित किया।"
             },
             {
-              "english-name": "How Old is Islam",
+              "urdu-heading": "اسلام کتنا پرانا ہے",
               "english-heading": "HOW OLD IS ISLAM",
-              "english-sub-heading": "Before Adam (a.s), similarities between Islam, Christianity and Judaism, idol worship",
+              "hindi-name": " इस्लाम कितना पुराना है",
+              "hindi-heading": " इस्लाम कितना पुराना है",
+              "english-name": "How Old is Islam",
+              "urdu-name": "اسلام کتنا پرانا ہے",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/JDaPA7yLUqs",
@@ -2589,13 +2661,16 @@
                 }
               ],
               "urdu-sub-heading": "آدم (ع) سے پہلے ، اسلام ، عیسائیت اور یہودیت کے درمیان مماثلت , بتوں کی پوجا",
-              "urdu-name": "اسلام کتنا پرانا ہے",
-              "urdu-heading": "اسلام کتنا پرانا ہے"
+              "english-sub-heading": "Before Adam (a.s), similarities between Islam, Christianity and Judaism, idol worship",
+              "hindi-sub-heading": " एडम (pbuh) से पहले, इस्लाम, ईसाई धर्म और यहूदी धर्म के बीच समानता, मूर्ति पूजा"
             },
             {
-              "english-name": "Misconseption About Islam",
+              "urdu-heading": "اسلام کے بارے میں غلط فہمی",
               "english-heading": "MISCONCEPTION ABOUT ISLAM",
-              "english-sub-heading": "Some people allege that Islamic values are somehow incompatible with decent \"Western\" values. Such claims could not be further from the truth.",
+              "hindi-name": "इस्लाम के बारे में गलतफहमी",
+              "hindi-heading": "इस्लाम के बारे में गलतफहमी",
+              "english-name": "Misconseption About Islam",
+              "urdu-name": "اسلام کے بارے میں غلط فہمی",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/BbYgWHf5Li4",
@@ -2628,15 +2703,17 @@
                   "urdu": "اسلام کے بارے میں ٹاپ 10 غلط فہمیاں بشمول دہشت گردی"
                 }
               ],
-              "urdu-name": "اسلام کے بارے میں غلط فہمی",
-              "urdu-heading": "اسلام کے بارے میں غلط فہمی",
-              "urdu-sub-heading": "کچھ لوگوں کا الزام ہے کہ اسلامی اقدار کسی طرح مہذب \"مغربی\" اقدار سے مطابقت نہیں رکھتی ہیں۔ اس طرح کے دعوے حقیقت سے آگے نہیں بڑھ سکتے ہیں"
+              "urdu-sub-heading": "کچھ لوگوں کا الزام ہے کہ اسلامی اقدار کسی طرح مہذب \"مغربی\" اقدار سے مطابقت نہیں رکھتی ہیں۔ اس طرح کے دعوے حقیقت سے آگے نہیں بڑھ سکتے ہیں",
+              "english-sub-heading": "Some people allege that Islamic values are somehow incompatible with decent \"Western\" values. Such claims could not be further from the truth.",
+              "hindi-sub-heading": " कुछ लोगों का आरोप है कि इस्लामी मूल्य किसी भी तरह से सभ्य \"पश्चिमी\" मूल्यों के अनुकूल नहीं हैं। इस तरह के दावे वास्तविकता से परे नहीं जा सकते"
             }
           ],
-          "urdu-name": "اسلامی تاریخ"
+          "urdu-name": "اسلامی تاریخ",
+          "hindi-name": " इस्लामी इतिहास"
         }
       ],
-      "urdu-name": "دوسرے عنوانات"
+      "urdu-name": "دوسرے عنوانات",
+      "hindi-name": " अन्य विषय"
     }
   ]
 }
