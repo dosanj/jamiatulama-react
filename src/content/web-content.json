@@ -492,9 +492,12 @@
           "english-name": "Economical Issues‎",
           "children": [
             {
-              "english-name": "Property Distribution",
+              "urdu-heading": "ہندوستان کے مسلمان میں جائیداد کی تقسیم",
               "english-heading": "PROPERTY DISTRIBUTION IN INDIAN MUSLIM",
-              "english-sub-heading": "What is Property distribution is Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
+              "hindi-name": "संपत्ति का वितरण",
+              "hindi-heading": " भारत में मुसलमानों के बीच संपत्ति का वितरण",
+              "english-name": "Property Distribution",
+              "urdu-name": " جائیداد کی تقسیم",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/ahMtxBxgZCY",
@@ -563,14 +566,17 @@
                   "urdu": "ایسا مسلم مت بنو جو صرف نماز پڑھتا ہو"
                 }
               ],
-              "urdu-name": " جائیداد کی تقسیم",
-              "urdu-heading": "ہندوستان کے مسلمان میں جائیداد کی تقسیم",
-              "urdu-sub-heading": "جائداد کا غیر منقولہ مسئلہ کیا ہے؟ گھر والوں میں لڑائی۔ خواتین کی جائداد کا حصہ. اسلامی قانون کے مطابق کس طرح جائیداد کی جائے"
+              "urdu-sub-heading": "جائداد کا غیر منقولہ مسئلہ کیا ہے؟ گھر والوں میں لڑائی۔ خواتین کی جائداد کا حصہ. اسلامی قانون کے مطابق کس طرح جائیداد کی جائے",
+              "english-sub-heading": "What is Property distribution is Islam? Fight among families. Women's share in property.How to distribute as per Islamic Law",
+              "hindi-sub-heading": " एक अचल संपत्ति मुद्दा क्या है? परिवार में लड़ाई। महिलाओं की संपत्ति का हिस्सा। इस्लामिक कानून के अनुसार संपत्ति कैसे बनाई जाए"
             },
             {
-              "english-name": "Money Lending",
+              "urdu-heading": "قرض کے لین دین کے بارے میں",
               "english-heading": "GUIDELINE MONEY LENDING/QARZ",
-              "english-sub-heading": "Who is good person? Quran on Qarz/debt. Debt of a martyr. Tone of people while returning money. And what about person who does not return a debt",
+              "hindi-name": " पैसा उधार देना आदि।",
+              "hindi-heading": " ऋण लेनदेन के बारे में",
+              "english-name": "Money Lending",
+              "urdu-name": "پیسہ  وغیرہ قرض دینا",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/5gd_E5TT-LI",
@@ -621,14 +627,17 @@
                   "urdu": "جو قرض واپس نہیں کرتا ہے اسے قیامت کے دن اپنی نیکیاں دینا پڑتی ہیں"
                 }
               ],
-              "urdu-heading": "قرض کے لین دین کے بارے میں",
               "urdu-sub-heading": "اچھا انسان کون ہے؟ قرآن قرض کے بارے میں ۔ ایک شہید کا قرض۔ پیسے لوٹتے وقت لوگوں کی لہجہ ۔ اور اس شخص کا کیا ہوگا جو قرض واپس نہیں کرتا ہے؟",
-              "urdu-name": "پیسہ  وغیرہ قرض دینا"
+              "english-sub-heading": "Who is good person? Quran on Qarz/debt. Debt of a martyr. Tone of people while returning money. And what about person who does not return a debt",
+              "hindi-sub-heading": " अच्छा आदमी कौन है क़र्ज़ के बारे में कुरान एक शहीद का कर्ज। पैसा वापस करते समय लोगों का हुजूम। और उस व्यक्ति के बारे में क्या जो ऋण नहीं चुकाता है?"
             },
             {
-              "english-name": "Improvement_in_Business'",
+              "urdu-heading": "مسلمان کاروبار اور کاروبار کیوں کام نہیں کرتا ہے",
               "english-heading": "MUSLIM BUSINESSMEN AND WHY BUSINESS DOES NOT WORK",
-              "english-sub-heading": "Why should customer come to you? Laziness on the name of Islam. Effect of politeness. why business of non-Muslims work? Incorrect concept of Destiny. Working hard. Sahaba in Indonesia",
+              "hindi-name": " अपने व्यापार को कैसे बढ़ाएं",
+              "hindi-heading": " मुस्लिम व्यवसाय और व्यवसाय क्यों नहीं चलता है",
+              "english-name": "Improvement_in_Business'",
+              "urdu-name": "\"کاروبار میں ترقی کیسے کریں",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/UaVv8swrkJc",
@@ -685,20 +694,24 @@
                   "urdu": "انڈونیشیا میں صحابہ"
                 }
               ],
-              "urdu-name": "\"کاروبار میں ترقی کیسے کریں",
-              "urdu-heading": "مسلمان کاروبار اور کاروبار کیوں کام نہیں کرتا ہے",
-              "urdu-sub-heading": "گاہک آپ کے پاس کیوں آئے؟ اسلام کے نام پر کاہلی۔ شائستگی کا اثر۔ غیر مسلموں کا کاروبار کیوں کام کرتا ہے؟ مقدر کا غلط تصور۔ سخت محنت کر. صحابہ انڈونیشیا میں"
+              "urdu-sub-heading": "گاہک آپ کے پاس کیوں آئے؟ اسلام کے نام پر کاہلی۔ شائستگی کا اثر۔ غیر مسلموں کا کاروبار کیوں کام کرتا ہے؟ مقدر کا غلط تصور۔ سخت محنت کر. صحابہ انڈونیشیا میں",
+              "english-sub-heading": "Why should customer come to you? Laziness on the name of Islam. Effect of politeness. why business of non-Muslims work? Incorrect concept of Destiny. Working hard. Sahaba in Indonesia",
+              "hindi-sub-heading": "ग्राहक आपके पास क्यों आते हैं? इस्लाम के नाम पर आलस्य। राजनीति का प्रभाव। गैर-मुस्लिमों का व्यवसाय क्यों चलता है? भाग्य की भ्रांति। कड़ी मेहनत इंडोनेशिया में साथी"
             }
           ],
-          "urdu-name": "معاشی مسائل"
+          "urdu-name": "معاشی مسائل",
+          "hindi-name": " आर्थिक समस्यायें"
         },
         {
           "english-name": "Religious Issues",
           "children": [
             {
-              "english-name": "Understanding Quran",
+              "urdu-heading": "قرآن نہیں سمجھنا",
               "english-heading": "NOT UNDERSTANDING QURAN",
-              "english-sub-heading": "Can only ulema understand the Quran? How to understand Quran? Famous Tafseer and how Quran was compiled in a book",
+              "hindi-name": " कुरान को नहीं समझ रहे हैं",
+              "hindi-heading": " कुरान को नहीं समझ रहे हैं",
+              "english-name": "Understanding Quran",
+              "urdu-name": "قرآن نہیں سمجھنا ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/-HWIfBKtVBU",
@@ -755,14 +768,17 @@
                   "urdu": "کیسے بطور کتاب قرآن مجید تخلیق ہوا"
                 }
               ],
-              "urdu-name": "قرآن نہیں سمجھنا ",
-              "urdu-heading": "قرآن نہیں سمجھنا",
-              "urdu-sub-heading": "قرآن نہیں سمجھنا"
+              "urdu-sub-heading": "قرآن نہیں سمجھنا",
+              "english-sub-heading": "Can only ulema understand the Quran? How to understand Quran? Famous Tafseer and how Quran was compiled in a book",
+              "hindi-sub-heading": " कुरान को नहीं समझ रहे हैं"
             },
             {
-              "english-name": "Seerat un Nabi",
+              "urdu-heading": "حضرت محمد صلی اللہ علیہ وسلم کی زندگی",
               "english-heading": "LIFE OF PROPHET MOHAMMAD (PEACE BE UPON HIM)",
-              "english-sub-heading": "Life of Prophet Mohammad (peace be upon him) from his childhood to his last moment. Also First among with top 100 world personalities.",
+              "hindi-name": " इन नबियों की जीवनी नहीं जानते",
+              "hindi-heading": "पैगंबर मुहम्मद का जीवन (उन पर शांति)",
+              "english-name": "Seerat un Nabi",
+              "urdu-name": "سیرت ان نبی نہیں جاننا",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/WfLIflyBSz4",
@@ -837,13 +853,17 @@
                   "urdu": "دنیا کی 100 اثر دار شخصیات"
                 }
               ],
-              "urdu-name": "سیرت ان نبی نہیں جاننا",
-              "urdu-heading": "حضرت محمد صلی اللہ علیہ وسلم کی زندگی"
+              "urdu-sub-heading": "",
+              "english-sub-heading": "Life of Prophet Mohammad (peace be upon him) from his childhood to his last moment. Also First among with top 100 world personalities.",
+              "hindi-sub-heading": "पैगंबर मुहम्मद का जीवन (उन पर शांति)"
             },
             {
-              "english-name": "Living with Non-Muslims",
+              "urdu-heading": "غیرمسلموں کے ساتھ رہنا",
               "english-heading": "LIVING WITH NON-MUSLIMS",
-              "english-sub-heading": "Non-Muslim's/minorities right in Islamic rule. showing good character with them. This much involvement is not allowed.",
+              "hindi-name": " एक गैर-मुस्लिम के साथ रहना",
+              "hindi-heading": " एक गैर-मुस्लिम के साथ रहना",
+              "english-name": "Living with Non-Muslims",
+              "urdu-name": "غیر مسلم کے ساتھ رہنا",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/o-KlFGWUvFY",
@@ -894,9 +914,9 @@
                   "urdu": "خلیفہ عمر نے ایک غیر مسلم بھکاری کی مدد کی"
                 }
               ],
-              "urdu-name": "غیر مسلم کے ساتھ رہنا",
-              "urdu-heading": "غیرمسلموں کے ساتھ رہنا",
-              "urdu-sub-heading": "غیر مسلموں / اقلیتوں کا حق اسلامی حکمرانی میں ہے۔ ان کے ساتھ اچھا کردار دکھا رہا ہے۔اس حد تک انکے ساتھ رہنے کی اجازت نہیں"
+              "urdu-sub-heading": "غیر مسلموں / اقلیتوں کا حق اسلامی حکمرانی میں ہے۔ ان کے ساتھ اچھا کردار دکھا رہا ہے۔اس حد تک انکے ساتھ رہنے کی اجازت نہیں",
+              "english-sub-heading": "Non-Muslim's/minorities right in Islamic rule. showing good character with them. This much involvement is not allowed.",
+              "hindi-sub-heading": " गैर-मुस्लिम / अल्पसंख्यकों का अधिकार इस्लामी शासन के अधीन है। उनके साथ अच्छे चरित्र को दिखाना। इस हद तक उनके साथ रहने की अनुमति नहीं"
             },
             {
               "english-name": "Missing Fajr",
@@ -904,12 +924,17 @@
               "english-sub-heading": "",
               "videos-list": [],
               "urdu-name": "فجر کے لئے اٹھنا ",
-              "urdu-heading": "فجر کے لئے اٹھنا "
+              "urdu-heading": "فجر کے لئے اٹھنا ",
+              "urdu-sub-heading": " फज्र के लिए उठना",
+              "hindi-name": " फज्र के लिए उठना"
             },
             {
-              "english-name": "Azan and its Volume",
+              "urdu-heading": "غلط اذان اور اسپیکر آواز",
               "english-heading": "INCORRECT AZAN AND SPEAKER VOLUME",
-              "english-sub-heading": "Reason for Incorrect Azan, its impact, solution, speaker volume. A non-Muslim boy winning Azan Competetion.",
+              "hindi-name": "अज़ान और स्पीकर की मात्रा",
+              "hindi-heading": " प्रार्थना और वक्ता ध्वनि के लिए गलत कॉल",
+              "english-name": "Azan and its Volume",
+              "urdu-name": "اذان اور اسپیکر  کا حجم",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/JYuNKqlLExo",
@@ -954,9 +979,9 @@
                   "urdu": "اذان کیسے شروع ہوئی ؟"
                 }
               ],
-              "urdu-name": "اذان اور اسپیکر  کا حجم",
-              "urdu-heading": "غلط اذان اور اسپیکر آواز",
-              "urdu-sub-heading": "غلط اذان کی وجہ ، اس کے اثرات ، حل ، اسپیکر کی مقدار۔ اذان مقابلہ جیتنے والا ایک غیر مسلم لڑکا۔"
+              "urdu-sub-heading": "غلط اذان کی وجہ ، اس کے اثرات ، حل ، اسپیکر کی مقدار۔ اذان مقابلہ جیتنے والا ایک غیر مسلم لڑکا۔",
+              "english-sub-heading": "Reason for Incorrect Azan, its impact, solution, speaker volume. A non-Muslim boy winning Azan Competetion.",
+              "hindi-sub-heading": " प्रार्थना के गलत कॉल का कारण, इसके प्रभाव, समाधान, स्पीकर की मात्रा। एक गैर-मुस्लिम लड़का जिसने अदनान प्रतियोगिता जीती।"
             },
             {
               "english-name": "Destiny and Planning",
@@ -1012,13 +1037,18 @@
                   "urdu": "بوڑھاپے کے لئے پیسے جما کرنا کیسا ہے ؟"
                 }
               ],
-              "urdu-name": "تقدیر یا منصوبہ بندی\"",
-              "urdu-heading": "تقدیر یا منصوبہ بندی\""
+              "urdu-name": "تقدیر یا منصوبہ بندی",
+              "urdu-heading": "تقدیر یا منصوبہ بندی",
+              "hindi-name": " भाग्य या योजना",
+              "hindi-heading": " भाग्य या योजना"
             },
             {
-              "english-name": "Khatme Nabuwat",
+              "urdu-heading": "ختم نبوت",
               "english-heading": "LAST PROPHET ( KHATME NUBUWAT)",
-              "english-sub-heading": "",
+              "hindi-name": " पैगंबर की अंतिमता",
+              "hindi-heading": " पैगंबर की अंतिमता",
+              "english-name": "Khatme Nabuwat",
+              "urdu-name": "ختم نبوت",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/og3ygPic6zg",
@@ -1027,12 +1057,13 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "ختم نبوت",
-              "urdu-heading": "ختم نبوت",
-              "urdu-sub-heading": "ختم النبیین (‎ختم نبوت)"
+              "urdu-sub-heading": "ختم النبیین (‎ختم نبوت)",
+              "english-sub-heading": "",
+              "hindi-sub-heading": " पैगंबर का अंत (पैगंबर का अंत)"
             }
           ],
-          "urdu-name": "مذہبی مسائل"
+          "urdu-name": "مذہبی مسائل",
+          "hindi-name": " धार्मिक मुद्दे"
         }
       ],
       "urdu-name": "موجودہ مسائل",
@@ -1045,9 +1076,12 @@
           "english-name": "Marriage Guidelines",
           "children": [
             {
-              "english-name": "Marriage Age",
+              "urdu-heading": "شادی کب کرنی چاہیے",
               "english-heading": "WHEN TO GET MARRIED",
-              "english-sub-heading": "A new study suggests that people should get married between the ages of 28 and 32 if they don't want to get divorced, at least in the first five years",
+              "hindi-name": " शादी की उम्र",
+              "hindi-heading": " शादी कब करनी है",
+              "english-name": "Marriage Age",
+              "urdu-name": "شادی کی عمر",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/GEJwQXNijJE",
@@ -1080,14 +1114,17 @@
                   "urdu": ""
                 }
               ],
-              "urdu-heading": "شادی کب کرنی چاہیے",
-              "urdu-name": "شادی کی عمر",
-              "urdu-sub-heading": "ایک نئی تحقیق میں بتایا گیا ہے کہ لوگوں کو کم از کم ابتدائی پانچ سالوں میں ، اگر وہ طلاق نہیں لینا چاہتے ہیں تو ، 28 اور 32 سال کی عمر کے درمیان شادی کرنی چاہئے۔"
+              "urdu-sub-heading": "ایک نئی تحقیق میں بتایا گیا ہے کہ لوگوں کو کم از کم ابتدائی پانچ سالوں میں ، اگر وہ طلاق نہیں لینا چاہتے ہیں تو ، 28 اور 32 سال کی عمر کے درمیان شادی کرنی چاہئے۔",
+              "english-sub-heading": "A new study suggests that people should get married between the ages of 28 and 32 if they don't want to get divorced, at least in the first five years",
+              "hindi-sub-heading": "एक नए अध्ययन के अनुसार, लोगों को 28 से 32 साल की उम्र में शादी करनी चाहिए, कम से कम पहले पांच वर्षों में, अगर वे तलाक नहीं लेना चाहते हैं।"
             },
             {
-              "english-name": "Wedding Preparation",
+              "urdu-heading": "شادی کی تیاری",
               "english-heading": "MARRIAGE PREPARATION",
-              "english-sub-heading": "Researchers found the \"right\" amount of time to date beforot as long as ye getting married — and it's nou'd think. A study found that waiting a bit to get married can decrease the likelihood you'll get divorced. Specifically, waiting three years or more decreases the likelihood of divorce by 50%.",
+              "hindi-name": " शादी की तैयारी",
+              "hindi-heading": " शादी की तैयारी",
+              "english-name": "Wedding Preparation",
+              "urdu-name": "شادی کی تیاری",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/e8LYc6CJMt8",
@@ -1126,14 +1163,17 @@
                   "urdu": "دولہا مہندی اور پھول پہنے ہوئے"
                 }
               ],
-              "urdu-name": "شادی کی تیاری",
-              "urdu-heading": "شادی کی تیاری",
-              "urdu-sub-heading": "محققین کو تاریخ کے وقت تک \"صحیح\" وقت معلوم ہوا جب تک آپ کی شادی ہو رہی ہے - اور یہ سوچنے کی ضرورت نہیں ہوگی۔ ایک تحقیق میں بتایا گیا ہے کہ شادی کے لئے تھوڑا انتظار کرنا آپ کے طلاق کا امکان کم کرسکتا ہے۔ خاص طور پر ، تین سال یا زیادہ انتظار کرنے سے طلاق کے امکانات میں 50٪ کمی واقع ہوتی ہے۔"
+              "urdu-sub-heading": "محققین کو تاریخ کے وقت تک \"صحیح\" وقت معلوم ہوا جب تک آپ کی شادی ہو رہی ہے - اور یہ سوچنے کی ضرورت نہیں ہوگی۔ ایک تحقیق میں بتایا گیا ہے کہ شادی کے لئے تھوڑا انتظار کرنا آپ کے طلاق کا امکان کم کرسکتا ہے۔ خاص طور پر ، تین سال یا زیادہ انتظار کرنے سے طلاق کے امکانات میں 50٪ کمی واقع ہوتی ہے۔",
+              "english-sub-heading": "Researchers found the \"right\" amount of time to date beforot as long as ye getting married — and it's nou'd think. A study found that waiting a bit to get married can decrease the likelihood you'll get divorced. Specifically, waiting three years or more decreases the likelihood of divorce by 50%.",
+              "hindi-sub-heading": " जब तक आपकी शादी हो रही है, तब तक शोधकर्ताओं ने सही समय पाया है - और आपको इसके बारे में सोचने की ज़रूरत नहीं है। एक अध्ययन से पता चलता है कि शादी के लिए थोड़ी देर इंतजार करने से तलाक लेने की संभावना कम हो सकती है। विशेष रूप से, तीन साल या उससे अधिक की प्रतीक्षा करने से तलाक की संभावना 50% कम हो जाती है।"
             },
             {
-              "english-name": "Right Life Partner",
+              "urdu-heading": "شریک حیات کی تلاش",
               "english-heading": "FIND RIGHT LIFE PARTNER",
-              "english-sub-heading": "Take a test drive. ... Look for A. Religiousness B. Good Nature C. Compatibility D. Decent Family E. Reason F. Physical and Mental Health G. Whom can you Marry?someone who is kind and loving. ...",
+              "hindi-name": " पति या पत्नी",
+              "hindi-heading": "जीवनसाथी की तलाश",
+              "english-name": "Right Life Partner",
+              "urdu-name": "شریک حیات",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/M4m8r-Z3l4k",
@@ -1166,14 +1206,17 @@
                   "urdu": "استخارہ کرنے کا غلط طریقہ"
                 }
               ],
-              "urdu-name": "شریک حیات",
               "urdu-sub-heading": "ٹیسٹ ڈرائیو لیں۔ ... اے مذہب کو تلاش کریں B. اچھی فطرت سی. مطابقت D. مہذب فیملی E. وجہ F. جسمانی اور دماغی صحت جی۔ آپ کس سے شادی کر سکتے ہیں؟ وہ شخص جو نیک اور محبت کرنے والا ہے۔ ...",
-              "urdu-heading": "شریک حیات کی تلاش"
+              "english-sub-heading": "Take a test drive. ... Look for A. Religiousness B. Good Nature C. Compatibility D. Decent Family E. Reason F. Physical and Mental Health G. Whom can you Marry?someone who is kind and loving. ...",
+              "hindi-sub-heading": " टेस्ट ड्राइव लें। ... ओ धर्म बी का पता लगाएं। अच्छा स्वभाव c। संगतता डी। सभ्य परिवार ई। कारण शारीरिक और मानसिक स्वास्थ्य जी। आप किससे शादी कर सकते हैं? वह जो दयालु और प्रेम करने वाला हो। ..."
             },
             {
-              "english-name": "Engagement",
+              "urdu-heading": "منگنی",
               "english-heading": "ENGAGEMENT",
-              "english-sub-heading": "engagement",
+              "hindi-name": " सगाई",
+              "hindi-heading": " सगाई",
+              "english-name": "Engagement",
+              "urdu-name": "منگنی",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/9glfuJzc-Yc",
@@ -1188,14 +1231,16 @@
                   "urdu": "منگنی کے بعد بات/چیت کرنے کے نقصانات"
                 }
               ],
-              "urdu-name": "منگنی",
-              "urdu-heading": "منگنی",
-              "urdu-sub-heading": "منگنی"
+              "urdu-sub-heading": "منگنی",
+              "english-sub-heading": "engagement"
             },
             {
-              "english-name": "Wedding Expenses",
+              "urdu-heading": "شادی کے اخراجات",
               "english-heading": "MARRIAGE EXPENSES",
-              "english-sub-heading": "marriage expenses",
+              "hindi-name": " शादी का खर्च",
+              "hindi-heading": " शादी का खर्च",
+              "english-name": "Wedding Expenses",
+              "urdu-name": "شادی کے اخراجات",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/eVvQQcbfqhU",
@@ -1210,14 +1255,17 @@
                   "urdu": "مسلمان خواتین سڑک پر بھیک مانگتی ہیں اور ہم شادی میں رقم خرچ کرتے ہیں"
                 }
               ],
-              "urdu-name": "شادی کے اخراجات",
-              "urdu-heading": "شادی کے اخراجات",
-              "urdu-sub-heading": "شادی کے اخراجات"
+              "urdu-sub-heading": "شادی کے اخراجات",
+              "english-sub-heading": "marriage expenses",
+              "hindi-sub-heading": " शादी का खर्च"
             },
             {
-              "english-name": "Dowry",
+              "urdu-heading": "جہیز",
               "english-heading": "DOWRY",
-              "english-sub-heading": "dowry",
+              "hindi-name": " दहेज",
+              "hindi-heading": " दहेज",
+              "english-name": "Dowry",
+              "urdu-name": "جہیز",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/THu4PH-Gfr0",
@@ -1244,14 +1292,17 @@
                   "urdu": "جہیز کی موت"
                 }
               ],
-              "urdu-name": "جہیز",
-              "urdu-heading": "جہیز",
-              "urdu-sub-heading": "جہیز"
+              "urdu-sub-heading": "جہیز",
+              "english-sub-heading": "dowry",
+              "hindi-sub-heading": " दहेज"
             },
             {
-              "english-name": "Post Wedding Life",
+              "urdu-heading": "شادی کے بعد",
               "english-heading": "AFTER MARRIAGE",
-              "english-sub-heading": "12 short videos. Supplication for first night. Prayer for first night. Halal Waleema. How to take bath. Staying Away from wife. 52 sexual knowledge points. Expending on wife. Good Wife. Joint family.What wife wants?Honeymoon.",
+              "hindi-name": " शादी के बाद का जीवन",
+              "hindi-heading": " शादी के बाद",
+              "english-name": "Post Wedding Life",
+              "urdu-name": "شادی کے بعد کی زندگی",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/VpbE8p6ej9o",
@@ -1320,14 +1371,17 @@
                   "urdu": "اسلام میں ہنی مون"
                 }
               ],
-              "urdu-name": "شادی کے بعد کی زندگی",
-              "urdu-heading": "شادی کے بعد",
-              "urdu-sub-heading": "12 مختصر ویڈیوز پہلی رات کے لئے دعا. پہلی رات کے لئے دعا. حلال ولیمہ۔ نہانے کا طریقہ بیوی سے دور رہنا۔ 52 جنسی علم کے نکات۔ بیوی پر خرچ کرنا۔ اچھی بیوی. مشترکہ کنبہ ۔کون کی بیوی چاہتی ہے؟ ہنی مون۔"
+              "urdu-sub-heading": "12 مختصر ویڈیوز پہلی رات کے لئے دعا. پہلی رات کے لئے دعا. حلال ولیمہ۔ نہانے کا طریقہ بیوی سے دور رہنا۔ 52 جنسی علم کے نکات۔ بیوی پر خرچ کرنا۔ اچھی بیوی. مشترکہ کنبہ ۔کون کی بیوی چاہتی ہے؟ ہنی مون۔",
+              "english-sub-heading": "12 short videos. Supplication for first night. Prayer for first night. Halal Waleema. How to take bath. Staying Away from wife. 52 sexual knowledge points. Expending on wife. Good Wife. Joint family.What wife wants?Honeymoon.",
+              "hindi-sub-heading": "12 लघु वीडियो पहली रात के लिए प्रार्थना करते हैं। पहली रात के लिए प्रार्थना करें। حلال ولیمہ و स्नान कैसे करें अपनी पत्नी से दूर रहें। यौन ज्ञान के 52 अंक। पत्नी पर खर्च। अच्छी पत्नी। संयुक्त परिवार - किसकी पत्नी चाहती है? सुहाग रात"
             },
             {
-              "english-name": "Saas and Sasur",
+              "urdu-heading": "ساس اور سسر",
               "english-heading": "SAAS AND SASUR",
-              "english-sub-heading": "saas and sasur",
+              "hindi-name": " सास और ससुर",
+              "hindi-heading": " सास और ससुर",
+              "english-name": "Saas and Sasur",
+              "urdu-name": "ساس اور سسر",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/s6ZnG4PNyMk",
@@ -1348,14 +1402,17 @@
                   "urdu": "ساس بہو اور شیطان"
                 }
               ],
-              "urdu-name": "ساس اور سسر",
-              "urdu-heading": "ساس اور سسر",
-              "urdu-sub-heading": "ساس اور سسر"
+              "urdu-sub-heading": "ساس اور سسر",
+              "english-sub-heading": "saas and sasur",
+              "hindi-sub-heading": " सास और ससुर"
             },
             {
-              "english-name": "Husband and Wife Love",
+              "urdu-heading": "شوہر بیوی میں محبت",
               "english-heading": "HUSBAND WIFE LOVE",
-              "english-sub-heading": "Expressing love, Prophet Mohammad (pbuh) and ideal husband, husband wife mistakes, 5 things to control wife, Love with husband,",
+              "hindi-name": "पति-पत्नी के बीच प्यार",
+              "hindi-heading": "पति-पत्नी के बीच प्यार",
+              "english-name": "Husband and Wife Love",
+              "urdu-name": "شوہر بیوی میں محبت",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/YmbuvrrpRu4",
@@ -1412,14 +1469,17 @@
                   "urdu": "میاں بیوی محبت کی چند باتیں"
                 }
               ],
-              "urdu-name": "شوہر بیوی میں محبت",
-              "urdu-heading": "شوہر بیوی میں محبت",
-              "urdu-sub-heading": "محبت کا اظہار ، پیغمبر اسلام (ص) اور مثالی شوہر ، شوہر کی بیوی کی غلطیاں ، بیوی پر قابو پانے کے لئے پانچ چیزیں ، شوہر سے محبت ،"
+              "urdu-sub-heading": "محبت کا اظہار ، پیغمبر اسلام (ص) اور مثالی شوہر ، شوہر کی بیوی کی غلطیاں ، بیوی پر قابو پانے کے لئے پانچ چیزیں ، شوہر سے محبت ،",
+              "english-sub-heading": "Expressing love, Prophet Mohammad (pbuh) and ideal husband, husband wife mistakes, 5 things to control wife, Love with husband,",
+              "hindi-sub-heading": " प्यार की अभिव्यक्ति, इस्लाम के पैगंबर (SAW) और आदर्श पति, पति की पत्नी की गलतियां, पत्नी से दूर होने के लिए पांच चीजें, पति से प्यार।"
             },
             {
-              "english-name": "Court Involvment",
+              "urdu-heading": "ازدواجی عدالت کے مقدمات کے بعد",
               "english-heading": "AFTER MARRIAGE COURT CASES",
-              "english-sub-heading": "You have two spouses: the one you have not divorced yet and the one you just married. ... Civil family laws treat the concept of bigamy somewhat differently; because your second marriage is illegal, it technically can not exist. You can still be prosecuted in criminal court, but you do not have to divorce to end the marriage.",
+              "hindi-name": " न्यायालय की भागीदारी",
+              "hindi-heading": " वैवाहिक मामलों के बाद",
+              "english-name": "Court Involvment",
+              "urdu-name": "کورٹ انوولویمنٹ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/5s0qJVemxOM",
@@ -1446,14 +1506,17 @@
                   "urdu": "بیوی نے جہیز کے جھوٹے معاملے میں کھینچنے کی دھمکی دی"
                 }
               ],
-              "urdu-name": "کورٹ انوولویمنٹ",
-              "urdu-heading": "ازدواجی عدالت کے مقدمات کے بعد",
-              "urdu-sub-heading": "آپ کے دو میاں بیوی ہیں: ایک آپ نے ابھی طلاق نہیں دی ہے اور ایک آپ نے ابھی شادی کی ہے۔ ... شہری خاندانی قوانین شادی بیاہ کے تصور کو کچھ مختلف انداز میں پیش کرتے ہیں۔ کیونکہ آپ کی دوسری شادی غیر قانونی ہے ، تکنیکی طور پر یہ موجود نہیں ہوسکتی ہے۔ آپ پر پھر بھی فوجداری عدالت میں مقدمہ چلایا جاسکتا ہے ، لیکن شادی ختم کرنے کے ل you آپ کو طلاق دینے کی ضرورت نہیں ہے۔"
+              "urdu-sub-heading": "آپ کے دو میاں بیوی ہیں: ایک آپ نے ابھی طلاق نہیں دی ہے اور ایک آپ نے ابھی شادی کی ہے۔ ... شہری خاندانی قوانین شادی بیاہ کے تصور کو کچھ مختلف انداز میں پیش کرتے ہیں۔ کیونکہ آپ کی دوسری شادی غیر قانونی ہے ، تکنیکی طور پر یہ موجود نہیں ہوسکتی ہے۔ آپ پر پھر بھی فوجداری عدالت میں مقدمہ چلایا جاسکتا ہے ، لیکن شادی ختم کرنے کے ل you آپ کو طلاق دینے کی ضرورت نہیں ہے۔",
+              "english-sub-heading": "You have two spouses: the one you have not divorced yet and the one you just married. ... Civil family laws treat the concept of bigamy somewhat differently; because your second marriage is illegal, it technically can not exist. You can still be prosecuted in criminal court, but you do not have to divorce to end the marriage.",
+              "hindi-sub-heading": " आपके दो पति-पत्नी हैं: एक तो आपने अभी तक तलाक नहीं लिया है और एक आपने अभी शादी की है। ... नागरिक परिवार कानून शादी की अवधारणा को थोड़े अलग तरीके से प्रस्तुत करता है। क्योंकि आपकी दूसरी शादी अवैध है, इसलिए यह तकनीकी रूप से मौजूद नहीं है। आप अभी भी एक आपराधिक अदालत में कोशिश कर सकते हैं, लेकिन शादी को खत्म करने के लिए आपको तलाक नहीं देना होगा।"
             },
             {
-              "english-name": "Talaq and Khula",
+              "urdu-heading": "طلق اور خلع",
               "english-heading": "TALAQ AND KHULA",
-              "english-sub-heading": "Reasons, Does Allah like? No Love after love marriage,Effect on children, Talaq/Khula process. After Divorce",
+              "hindi-name": "तलाक़ और खुला",
+              "hindi-heading": "तलाक़ और खुला",
+              "english-name": "Talaq and Khula",
+              "urdu-name": "طلق اور خلع",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/RfC-2LBIlHA",
@@ -1504,9 +1567,9 @@
                   "urdu": "طلاق شودہ / بیوا کے ساتھ نکاح"
                 }
               ],
-              "urdu-name": "طلق اور خلع",
-              "urdu-heading": "طلق اور خلع",
-              "urdu-sub-heading": "اسباب ، کیا اللہ کو پسند ہے؟ محبت کی شادی کے بعد محبت نہیں ، بچوں پر اثر ، طلق / خولہ کا عمل۔طلاق کے بعد"
+              "urdu-sub-heading": "اسباب ، کیا اللہ کو پسند ہے؟ محبت کی شادی کے بعد محبت نہیں ، بچوں پر اثر ، طلق / خولہ کا عمل۔طلاق کے بعد",
+              "english-sub-heading": "Reasons, Does Allah like? No Love after love marriage,Effect on children, Talaq/Khula process. After Divorce",
+              "hindi-sub-heading": "वजह , क्या अल्लाह पसंद है? प्रेम विवाह के बाद कोई प्यार नहीं, बच्चों पर असर , तालाक / ख़ुला तरीक़ा ।तलाक के बाद"
             },
             {
               "english-name": "Husband and wife fighting",
@@ -1538,10 +1601,12 @@
                   "urdu": "عورتیں عورتوں کی دشمن ہیں"
                 }
               ],
-              "urdu-name": "شوہر اور بیوی  کی آپس میں لڑائی"
+              "urdu-name": "شوہر اور بیوی  کی آپس میں لڑائی",
+              "hindi-name": " पति और पत्नी की लड़ाई"
             }
           ],
-          "urdu-name": "\"شادی کی ہدایات\""
+          "urdu-name": "\"شادی کی ہدایات\"",
+          "hindi-name": "\"शादी के निर्देश\""
         },
         {
           "english-name": "Parenting Guidelines",
@@ -1771,10 +1836,12 @@
               "urdu-sub-heading": "والدین کا سلوک ، 10/12 کے بعد کیا ، نوعمروں کے 10 مسائل (10-20 سال) ، اپنے بیٹے / بیٹی کا دوست بنیں ، زندگی کے لئے منصوبہ بنا رہے ہو ، ان کی انٹرنیٹ سرگرمی کی نگرانی کریں ، نوعمر فوجی کمانڈرصحابی ، بلوغت اور نہانے کا طریقہ"
             }
           ],
-          "urdu-name": "والدین کے رہنما اصول"
+          "urdu-name": "والدین کے رہنما اصول",
+          "hindi-name": " माता-पिता के दिशा निर्देश"
         }
       ],
-      "urdu-name": "ہدایات"
+      "urdu-name": "ہدایات",
+      "hindi-name": " अनुदेश"
     },
     {
       "english-name": "Special",
