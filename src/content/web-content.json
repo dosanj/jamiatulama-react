@@ -68,9 +68,12 @@
               "hindi-sub-heading": " यहां तक ​​कि फूड वेस्ट बुफे सिस्टम में भी। भारत और विश्व में भोजन की बर्बादी। रेस्तरां से बचे हुए का उपयोग करें। रमजान में खाना बर्बाद करना। रोटी बैंक"
             },
             {
-              "english-name": "Social Media",
+              "urdu-heading": "سوشل میڈیا کا استعمال",
               "english-heading": "USE OF SOCIAL MEDIA",
-              "english-sub-heading": "Phone etiquette. Hajj/Umrah selfie. Wasting time on social media. Mobile phone in masjid. Fake WhatsApp messages.",
+              "hindi-name": " सोशल मीडिया का उपयोग",
+              "hindi-heading": " सोशल मीडिया का उपयोग",
+              "english-name": "Social Media",
+              "urdu-name": "سوشل میڈیا کا استعمال",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/8ZF3Wa07r5A",
@@ -121,14 +124,17 @@
                   "urdu": "سوشل میڈیا کے فوائد"
                 }
               ],
-              "urdu-name": "سوشل میڈیا کا استعمال",
-              "urdu-heading": "سوشل میڈیا کا استعمال",
-              "urdu-sub-heading": "فون کے آداب۔ حج / عمرہ سیلفی۔ سوشل میڈیا پر وقت ضائع کرنا۔ مسجد میں موبائل فون۔ جھوٹھے واٹس ایپ میسج "
+              "urdu-sub-heading": "فون کے آداب۔ حج / عمرہ سیلفی۔ سوشل میڈیا پر وقت ضائع کرنا۔ مسجد میں موبائل فون۔ جھوٹھے واٹس ایپ میسج ",
+              "english-sub-heading": "Phone etiquette. Hajj/Umrah selfie. Wasting time on social media. Mobile phone in masjid. Fake WhatsApp messages.",
+              "hindi-sub-heading": " फोन शिष्टाचार। हज / उमरा सेल्फी। सोशल मीडिया पर समय बिता रहे हैं। मस्जिद में मोबाइल फोन। व्हाट्सएप मैसेज को गलत"
             },
             {
-              "english-name": "PORNOGRAPHY AND  ADULTS FLIMS",
+              "urdu-heading": "فحش - ننگی فلمیں",
               "english-heading": "PORNOGRAPHY - NUDE FILMS",
-              "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
+              "hindi-name": " अश्लील नग्न फिल्में",
+              "hindi-heading": " अश्लील नग्न फिल्में",
+              "english-name": "PORNOGRAPHY AND  ADULTS FLIMS",
+              "urdu-name": "فحش ننگی فلمیں",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/Ebn2vvqElDM",
@@ -179,9 +185,9 @@
                   "urdu": "کس طرح فحش آپ کے دماغ کو ختم کرتی ہے"
                 }
               ],
-              "urdu-name": "فحش ننگی فلمیں",
-              "urdu-heading": "فحش - ننگی فلمیں",
-              "urdu-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے"
+              "urdu-sub-heading": "کیا فحش فلمیں اصلی ہے؟ مشت زنی کا اثر۔ شادی کے بعد فحش فلموں کی لت ۔ لت کو کیسے روکا جائے۔ اس کا اثر دماغ پر پڑتا ہے",
+              "english-sub-heading": "Is porn real? Effect of masturbation. Porn addiction after marriage. how to stop addiction. Its effect on brain",
+              "hindi-sub-heading": " क्या पोर्न फिल्में असली हैं? हस्तमैथुन का प्रभाव। शादी के बाद अश्लील फिल्मों की लत। नशे को कैसे रोकें। यह मस्तिष्क को प्रभावित करता है"
             },
             {
               "english-name": "cloths charity",
@@ -207,12 +213,17 @@
                   "urdu": ""
                 }
               ],
-              "urdu-name": "استعمال شدہ لباس  کا  صدقہ"
+              "urdu-name": "استعمال شدہ لباس  کا  صدقہ",
+              "hindi-name": " प्रयुक्त कपड़ों का दान",
+              "hindi-heading": " प्रयुक्त कपड़ों का दान"
             },
             {
-              "english-name": "STREET BEGGERS",
+              "urdu-heading": "مسجد اور راستے کے بھکاری",
               "english-heading": "STREET & MASJID BEGGERS",
-              "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
+              "hindi-name": " रास्ते में भिखारी",
+              "hindi-heading": "रास्ते में मस्जिद और भिखारी",
+              "english-name": "STREET BEGGERS",
+              "urdu-name": "راستے کے بھکاری",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/4CQFBRrWArE",
@@ -251,9 +262,9 @@
                   "urdu": "اس معاملے میں صدقہ کرنا حرام ہے"
                 }
               ],
-              "urdu-name": "راستے کے بھکاری",
-              "urdu-heading": "مسجد اور راستے کے بھکاری",
-              "urdu-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری"
+              "urdu-sub-heading": "جھوٹھےراستے پر کے اور مسجد کے بھکاری۔ دبئی میں بھکاری اورآپسے بھی زیادہ امیر بھکاری",
+              "english-sub-heading": "Fake Street and Masjid Beggars. Beggars in Dubai and Beggars who are richer than you",
+              "hindi-sub-heading": " झूठे मस्जिद और रस्ते के भिकारी। दुबई के भिकारी। भिकारी जो आपसे भी ज़्यदा अमीर है"
             },
             {
               "english-name": "Corruption",
@@ -286,12 +297,17 @@
                 }
               ],
               "urdu-name": "\"بدعنوانی\"",
-              "urdu-heading": "\"بدعنوانی\""
+              "urdu-heading": "\"بدعنوانی\"",
+              "hindi-name": " \"भ्रष्टाचार\"",
+              "hindi-heading": " \"भ्रष्टाचार\""
             },
             {
-              "english-name": "Education",
+              "urdu-heading": "تعلیم میں مسلمان",
               "english-heading": "Muslims in Education ",
-              "english-sub-heading": "Muslims in Education ",
+              "hindi-name": " शिक्षा",
+              "hindi-heading": " शिक्षा में मुसलमान",
+              "english-name": "Education",
+              "urdu-name": "تعلیم ",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/phBN9b-kexU",
@@ -330,14 +346,17 @@
                   "urdu": "مسلمان کب پڑھے گا؟"
                 }
               ],
-              "urdu-name": "تعلیم ",
-              "urdu-heading": "تعلیم میں مسلمان",
-              "urdu-sub-heading": "تعلیم میں مسلمان"
+              "urdu-sub-heading": "تعلیم میں مسلمان",
+              "english-sub-heading": "Muslims in Education ",
+              "hindi-sub-heading": " शिक्षा में मुसलमान"
             },
             {
-              "english-name": "FAMILY System",
+              "urdu-heading": "مغربی ممالک میں زندگی",
               "english-heading": "LIFE IN WESTERN COUNTRIES",
-              "english-sub-heading": "People not speaking to Friends/Families, Kids only with mothers and no fathers,Kids without marriage, problem due to no presence of father, Men suicide, legal suicide in Switzerland. Same sex marriage",
+              "hindi-name": " \"पश्चिम में परिवार प्रणाली\"",
+              "hindi-heading": "पश्चिम में जीवन",
+              "english-name": "FAMILY System",
+              "urdu-name": "\"مغرب میں خاندانی نظام\"",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/qFOvxG5sXpM",
@@ -394,14 +413,17 @@
                   "urdu": "جب غیرت مر جاتی ہے"
                 }
               ],
-              "urdu-name": "\"مغرب میں خاندانی نظام\"",
-              "urdu-heading": "مغربی ممالک میں زندگی",
-              "urdu-sub-heading": "لوگ دوست / اہل خانہ سے بات نہیں کرتے ، بچے صرف ماؤں کے ساتھ ہوتے ہیں اور والد نہیں ، شادی کے بغیر بچے ، والد کی غیر موجودگی کی وجہ سے مسئلہ ، مرد خود کشی ، قانونی خودکشی سوئٹزرلینڈ میں.ہم جنس پرست شادی"
+              "urdu-sub-heading": "لوگ دوست / اہل خانہ سے بات نہیں کرتے ، بچے صرف ماؤں کے ساتھ ہوتے ہیں اور والد نہیں ، شادی کے بغیر بچے ، والد کی غیر موجودگی کی وجہ سے مسئلہ ، مرد خود کشی ، قانونی خودکشی سوئٹزرلینڈ میں.ہم جنس پرست شادی",
+              "english-sub-heading": "People not speaking to Friends/Families, Kids only with mothers and no fathers,Kids without marriage, problem due to no presence of father, Men suicide, legal suicide in Switzerland. Same sex marriage",
+              "hindi-sub-heading": "लोग दोस्तों / परिवार से बात नहीं करते हैं, बच्चे केवल माताओं के साथ होते हैं और पिता के साथ नहीं, शादी के बिना बच्चे, पिता की अनुपस्थिति के कारण समस्या, पुरुष आत्महत्या, स्विट्जरलैंड में कानूनी आत्महत्या।"
             },
             {
-              "english-name": "Dispute Solving",
+              "urdu-heading": "دارالقضا / شرعی عدالت",
               "english-heading": "DARUL QAZA/ SHARIAH COURT",
-              "english-sub-heading": "What is Darul Qaza? its importance in today's society and assistance to indian judiciary system. How Prophet Mohammad (pbuh) establish Darul Qaza in Madina. Also pending court cases in Indian courts",
+              "hindi-name": " विवाद को हल करें",
+              "hindi-heading": " दारुल क़ज़ा / शरिया कोर्ट",
+              "english-name": "Dispute Solving",
+              "urdu-name": "جھگڑے کو حل کرنا",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/FwHa5INAi4s",
@@ -458,9 +480,9 @@
                   "urdu": "ہندوستان عدالت میں پینڈنگ کورٹ کیس"
                 }
               ],
-              "urdu-name": "جھگڑے کو حل کرنا",
-              "urdu-heading": "دارالقضا / شرعی عدالت",
-              "urdu-sub-heading": "دارالقضا کیا ہے؟ آج کے معاشرے میں اس کی اہمیت اور ہندوستانی عدلیہ کے نظام میں مدد۔ حضرت محمد (ص) مدینہ منورہ میں دارالقضا کو کس طرح قائم کی ۔ نیز ہندوستانی عدالتوں میں پینڈنگ عدالتی مقدمات"
+              "urdu-sub-heading": "دارالقضا کیا ہے؟ آج کے معاشرے میں اس کی اہمیت اور ہندوستانی عدلیہ کے نظام میں مدد۔ حضرت محمد (ص) مدینہ منورہ میں دارالقضا کو کس طرح قائم کی ۔ نیز ہندوستانی عدالتوں میں پینڈنگ عدالتی مقدمات",
+              "english-sub-heading": "What is Darul Qaza? its importance in today's society and assistance to indian judiciary system. How Prophet Mohammad (pbuh) establish Darul Qaza in Madina. Also pending court cases in Indian courts",
+              "hindi-sub-heading": "दारुल क़ज़ा क्या है? आज के समाज में इसका महत्व और भारतीय न्यायपालिका में इसका योगदान है। मदीना में हज़रत मुहम्मद (SAW) ने दारुल क़ज़ा की स्थापना कैसे की? साथ ही भारतीय अदालतों में अदालती मामले लंबित हैं"
             }
           ],
           "urdu-name": "معاشرتی مسا‏ئل",
