@@ -7,9 +7,12 @@
           "english-name": "Social Issues",
           "children": [
             {
-              "english-name": "FOOD WASTING",
+              "urdu-heading": "خوراک ضائع کرنا",
               "english-heading": "FOOD WASTING",
-              "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
+              "hindi-name": "खाना बर्बाद करना",
+              "hindi-heading": "खाना बर्बाद करना",
+              "english-name": "FOOD WASTING",
+              "urdu-name": "کھانا ضائع کرنا",
               "videos-list": [
                 {
                   "video-url": "https://youtube.com/embed/mTYFnB1T2qU",
@@ -60,9 +63,9 @@
                   "urdu": "زمین پر سب سے زیدہ بھوکا مقام"
                 }
               ],
-              "urdu-name": "کھانا ضائع کرنا",
-              "urdu-heading": "خوراک ضائع کرنا",
-              "urdu-sub-heading": "کھانے کی بربادی بوفے سسٹم میں بھی۔ ہندوستان اور دنیا میں کھانا ضائع کرنا۔ ریسٹورانٹ کے بچے ہوے کھانے کا استعمال۔ رمضان میں کھانا ضائع کرنا۔ روٹی بینک۔"
+              "urdu-sub-heading": "کھانے کی بربادی بوفے سسٹم میں بھی۔ ہندوستان اور دنیا میں کھانا ضائع کرنا۔ ریسٹورانٹ کے بچے ہوے کھانے کا استعمال۔ رمضان میں کھانا ضائع کرنا۔ روٹی بینک۔",
+              "english-sub-heading": "Waste of food even in buffet system. Food waste in India & world. Restaurant food waste use. Food waste in Ramzan. Roti Bank.",
+              "hindi-sub-heading": " यहां तक ​​कि फूड वेस्ट बुफे सिस्टम में भी। भारत और विश्व में भोजन की बर्बादी। रेस्तरां से बचे हुए का उपयोग करें। रमजान में खाना बर्बाद करना। रोटी बैंक"
             },
             {
               "english-name": "Social Media",
@@ -460,7 +463,8 @@
               "urdu-sub-heading": "دارالقضا کیا ہے؟ آج کے معاشرے میں اس کی اہمیت اور ہندوستانی عدلیہ کے نظام میں مدد۔ حضرت محمد (ص) مدینہ منورہ میں دارالقضا کو کس طرح قائم کی ۔ نیز ہندوستانی عدالتوں میں پینڈنگ عدالتی مقدمات"
             }
           ],
-          "urdu-name": "معاشرتی مسا‏ئل"
+          "urdu-name": "معاشرتی مسا‏ئل",
+          "hindi-name": "सामाजिक मुद्दे"
         },
         {
           "english-name": "Economical Issues‎",
