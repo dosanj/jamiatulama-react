@@ -1844,7 +1844,7 @@
       "hindi-name": " अनुदेश"
     },
     {
-      "english-name": "Special",
+      "english-name": "Special Message",
       "children": [
         {
           "english-name": "Special Messages",
@@ -1852,8 +1852,8 @@
             {
               "urdu-heading": "علمائے کرام کو خصوصی پیغام",
               "english-heading": "SPECIAL MESSAGE TO ULAMA",
-              "hindi-name": " विद्वानों",
-              "hindi-heading": " विद्वानों को विशेष संदेश",
+              "hindi-name": "उल्मा",
+              "hindi-heading": "उल्मा को खास पैगाम",
               "english-name": "To Ulama",
               "urdu-name": "علمائے کرام ",
               "videos-list": [
@@ -1926,13 +1926,13 @@
               ],
               "urdu-sub-heading": "علمائے کرام کی ذمہ داری۔ خالص نیت کے ساتھ تقریر کے لئے عنوان کا فیصلہ کریں۔ اور ان دس غلطیوں سے بچے ۔ لوگوں میں قرآن کی تفہیم کے بارے میں غلط فہمی کو دور کریں۔ مکتب کی تعلیم کے کچھ اصول۔",
               "english-sub-heading": "Responsibility of Ulama. Decide topic for lecture carefully with pure intentions. and dont to these ten mistakes. Correct the misconception about understanding of Quran in people. few maktab teaching guidelines.",
-              "hindi-sub-heading": " विद्वानों की जिम्मेदारी है। शुद्ध इरादे के साथ भाषण के लिए शीर्षक तय करें। और इन दस गलतियों से बचें। कुरान की समझ के बारे में लोगों के बीच गलतफहमी को दूर करें। स्कूली शिक्षा के कुछ सिद्धांत।"
+              "hindi-sub-heading": "उलमा की जिम्मेदारी। सही नियत के साथ बयान से उन्वान तय करें। और इन दस गलतियों से बचें । लोगों में कुरान की समझ के बारे में गलत फेहमी को ठीक करें। कुछ मकतब के बारे में हिदायत"
             },
             {
               "urdu-heading": "مسلم ڈاکٹروں کو خصوصی پیغام",
               "english-heading": "SPECIAL MESSAGE TO MUSLIM DOCTORS",
-              "hindi-name": " डॉक्टर",
-              "hindi-heading": " मुस्लिम डॉक्टरों को विशेष संदेश",
+              "hindi-name": "डॉक्टरों",
+              "hindi-heading": " मुस्लिम डॉक्टरों को खास पैगाम",
               "english-name": "To Doctors",
               "urdu-name": "ڈاکٹر",
               "videos-list": [
@@ -1981,7 +1981,7 @@
               "urdu-heading": "انجینئر",
               "english-heading": "ENGINEER",
               "hindi-name": " इंजीनियर",
-              "hindi-heading": " इंजीनियर",
+              "hindi-heading": " इंजीनियर को खास पैगाम",
               "english-name": "To Engineers",
               "urdu-name": "انجینئر",
               "videos-list": [
@@ -2006,13 +2006,13 @@
               ],
               "urdu-sub-heading": "انجینئر",
               "english-sub-heading": "Engineer",
-              "hindi-sub-heading": " इंजीनियर"
+              "hindi-sub-heading": " इंजीनियर को खास पैगाम"
             },
             {
               "urdu-heading": "مسلم وکلاء کی خدمات میں خصوصی پیغام",
               "english-heading": "ESPECIAL MESSAGE TO MUSLIM LAWYERS",
               "hindi-name": " वकील",
-              "hindi-heading": " मुस्लिम वकीलों की सेवाओं में विशेष संदेश",
+              "hindi-heading": " मुस्लिम वकीलों की सेवाओं में खास पैगाम",
               "english-name": "To Lawyers",
               "urdu-name": "وکیل",
               "videos-list": [
@@ -2048,8 +2048,8 @@
             {
               "urdu-heading": "مسلمان اساتذہ کو پیغام",
               "english-heading": "MESSAGE TO MUSLIMS TEACHERS",
-              "hindi-name": " शिक्षकों की",
-              "hindi-heading": " मुस्लिम शिक्षकों को संदेश",
+              "hindi-name": " शिक्षकों / अध्यापक ",
+              "hindi-heading": " मुस्लिम शिक्षकों को खास पैगाम",
               "english-name": "To Teachers",
               "urdu-name": "اساتذہ",
               "videos-list": [
@@ -2097,8 +2097,8 @@
             {
               "urdu-heading": "تاجر",
               "english-heading": "BUISNESSMAN",
-              "hindi-name": " व्यवसायी` व्यवसायी",
-              "hindi-heading": " व्यवसायी",
+              "hindi-name": "व्यवसायी",
+              "hindi-heading": " व्यवसायी को खास पैगाम",
               "english-name": "To Buisnessmen",
               "urdu-name": "تاجر",
               "videos-list": [
@@ -2111,25 +2111,25 @@
               ],
               "urdu-sub-heading": "تاجر",
               "english-sub-heading": "Buisnessman",
-              "hindi-sub-heading": " व्यवसायी"
+              "hindi-sub-heading": " व्यवसायी को खास पैगाम"
             },
             {
               "urdu-heading": "(قصائیوں کو(قریشی ",
               "english-heading": "BUTCHERS(QUERSHI)",
-              "hindi-name": " कुरैशी",
-              "hindi-heading": " (कसाईयों में (कुरैशी)",
+              "hindi-name": "कसाई (कुरैशी) ",
+              "hindi-heading": " कसाईयों में (कुरैशी)",
               "english-name": "To Butchers",
               "urdu-name": "قریشی",
               "videos-list": [],
               "urdu-sub-heading": "     قریشی قصائیوں کو",
               "english-sub-heading": "Butchers(Quershi)",
-              "hindi-sub-heading": " कुरैश कसाई को"
+              "hindi-sub-heading": " कुरैश कसाई को खास पैगाम"
             },
             {
               "urdu-heading": "خصوصی پیغام مسجد ٹرسٹی کی خدمت میں",
               "english-heading": "SPECIAL MESSAGE TO MASJID TRUSTEE",
-              "hindi-name": " मस्जिद के ट्रस्टी",
-              "hindi-heading": " मस्जिद के ट्रस्टी की सेवा में विशेष संदेश",
+              "hindi-name": "मस्जिद ट्रस्टी को",
+              "hindi-heading": " मस्जिद के ट्रस्टी की सेवा में  खास पैगाम",
               "english-name": "To Masjid Trustee",
               "urdu-name": " مسجد ٹرسٹی",
               "videos-list": [
@@ -2212,7 +2212,7 @@
             }
           ],
           "urdu-name": "خصوصی پیغامات",
-          "hindi-name": " विशेष संदेश."
+          "hindi-name": "खास पैगाम"
         },
         {
           "english-name": "Special Occasions",
@@ -2220,8 +2220,8 @@
             {
               "urdu-heading": "عید الفطر",
               "english-heading": "EID -UL - FITR",
-              "hindi-name": " ईद दुल - फित्र",
-              "hindi-heading": " ईद दुल - फित्र",
+              "hindi-name": "ईद उल फितर",
+              "hindi-heading": "ईद उल फितर",
               "english-name": "Eid ul-Fitr",
               "urdu-name": "عید الفطر",
               "videos-list": [
@@ -2246,13 +2246,13 @@
               ],
               "urdu-sub-heading": "عید الفطر",
               "english-sub-heading": "eid -ul - fitr",
-              "hindi-sub-heading": " ईद दुल - फित्र"
+              "hindi-sub-heading": "ईद उल फितर"
             },
             {
               "urdu-heading": "عید الاضحی",
               "english-heading": "EID UL ADHA",
-              "hindi-name": " ईद-उल-अधा",
-              "hindi-heading": " ईद-उल-अधा",
+              "hindi-name": "ईद उल अजहा (बकरा ईद)",
+              "hindi-heading": "ईद उल अजहा (बकरा ईद)",
               "english-name": "Eid Ul-Adha",
               "urdu-name": "عید الاضحی",
               "videos-list": [
@@ -2295,7 +2295,7 @@
               ],
               "urdu-sub-heading": "ذبح اور دعائیں کیسے کریں ، جانوروں کا احترام کریں ، 3 حصوں کے بارے میں کچھ غلط فہمیاں ، حلال جانوروں میں حرمت والے حصے ، صفائی ستھرائی",
               "english-sub-heading": "How to slaughter and supplication, Respect the animal, few misconceptions about 3 divisions, Prohibited parts in Halal Animal, cleanliness",
-              "hindi-sub-heading": " वध और प्रार्थना कैसे करें, जानवरों का सम्मान करें, 3 भागों के बारे में कुछ गलत धारणाएं, हलाल जानवरों के हलाल भाग, स्वच्छता"
+              "hindi-sub-heading": "जानवर ज़िबह का तरीक़ा और दुवा , जानवर की इज़्ज़त, ३ हिस्सों के बारे में गलत फेहमी, हलाल जानवर में हराम चीज़ें, सफाई का ख्याल"
             },
             {
               "urdu-heading": "میلاد",
@@ -2327,7 +2327,7 @@
               "english-sub-heading": "eid",
               "videos-list": [],
               "urdu-name": "صلاۃ الاستسقاء",
-              "hindi-name": " सलात अल-इस्तिसका '"
+              "hindi-name": "सलातुल इस्तिसका"
             },
             {
               "urdu-heading": "حج اور عمرہ",
@@ -2391,8 +2391,8 @@
               "videos-list": [],
               "urdu-name": "شب معراج اور شب قدر یا شب بر‏ات",
               "urdu-heading": "شب معراج اور شب قدر یا شب بر‏ات",
-              "hindi-name": " शब मिराज और शब क़द्र या शब बारात",
-              "hindi-heading": " शब मिराज और शब क़द्र या शब बारात"
+              "hindi-name": "शब्-ए -मिराज / शब्-ए -बारात / शब्-ए -क़दर",
+              "hindi-heading": "शब्-ए -मिराज / शब्-ए -बारात / शब्-ए -क़दर"
             },
             {
               "english-name": "Janazah",
@@ -2401,14 +2401,14 @@
               "videos-list": [],
               "urdu-name": "جنازہ",
               "urdu-heading": "جنازہ",
-              "hindi-name": " अंतिम संस्कार",
-              "hindi-heading": " अंतिम संस्कार"
+              "hindi-name": "जनाज़ा",
+              "hindi-heading": "जनाज़ा"
             },
             {
               "urdu-heading": "دسواں۔چلہ۔برسی",
               "english-heading": "DASWA, CHILLA, BARSI",
-              "hindi-name": " दसवीं सालगिरह",
-              "hindi-heading": " दसवीं सालगिरह",
+              "hindi-name": "दसवा (दहूम) छिल्ला बर्सी",
+              "hindi-heading": "दसवा (दहूम) छिल्ला बर्सी",
               "english-name": "Daswa Chilla Barsi",
               "urdu-name": "دسواں۔چلہ۔برسی",
               "videos-list": [],
@@ -2417,11 +2417,11 @@
             }
           ],
           "urdu-name": "خاص مواقع",
-          "hindi-name": " विशेष अवसर"
+          "hindi-name": "खास मौके"
         }
       ],
       "urdu-name": "خصوصی پیغامات",
-      "hindi-name": " विशेष संदेश"
+      "hindi-name": "खास पैगाम"
     },
     {
       "english-name": "Others",
@@ -2433,7 +2433,7 @@
               "urdu-heading": "پاس ورڈ / آدھار کارڈ / ووٹر شناختی کارڈ کا اطلاق کیسے کریں",
               "english-heading": "HOW TO APPLY PASSORT / AADHAAR CARD / VOTER ID CARD",
               "hindi-name": " सरकारी दस्तावेजों के लिए आवेदन करें।",
-              "hindi-heading": " पासवर्ड / आधार कार्ड / मतदाता पहचान पत्र कैसे आवेदन करें",
+              "hindi-heading": "पासपोर्ट कैसे बनाये/ आधार कार्ड / वोटर आईडी कार्ड कैसे तैयार करें",
               "english-name": "Apply for Govt. Documents",
               "urdu-name": "حکومتی دستاویزات کے لئے درخواست دیں۔ ",
               "videos-list": [
@@ -2458,7 +2458,7 @@
               "urdu-heading": "آن لائن ٹرین / فلائٹ ٹکٹس کس طرح سیکھیں",
               "english-heading": "HOW TO BOOK ONLINE TRAIN/FLIGHT TICKETS",
               "hindi-name": " ट्रेन और फ्लाइट टिकट बुकिंग",
-              "hindi-heading": " ट्रेन / फ्लाइट टिकट ऑनलाइन प्राप्त करना सीखें",
+              "hindi-heading": "ऑनलाइन ट्रेन / फ्लाइट टिकट कैसे बुक करें",
               "english-name": "Train and Flight tickets Booking",
               "urdu-name": "ٹرین اور فلائٹ ٹکٹوں کی بکنگ",
               "videos-list": [
@@ -2477,13 +2477,13 @@
               "english-name": "Scholarship",
               "external-url": "http://www.360careervision.com/",
               "urdu-name": "وظیفہ",
-              "hindi-name": " छात्रवृत्ति / शिष्यवृत्ती"
+              "hindi-name": " स्कॉलरशिप / छात्रवृत्ति / शिष्यवृत्ती"
             },
             {
               "urdu-heading": " کیا ہے؟  KYC",
               "english-heading": "WHAT IS KYC",
-              "hindi-name": " यह क्या है? केवाईसी",
-              "hindi-heading": " यह क्या है? केवाईसी",
+              "hindi-name": "KYC क्या है",
+              "hindi-heading": "KYC क्या है",
               "english-name": "What is KYC",
               "urdu-name": "کیا ہے؟  KYC",
               "videos-list": [],
@@ -2494,8 +2494,8 @@
             {
               "urdu-heading": "گوگل پے اور پٹیم کا استعمال کیسے کریں",
               "english-heading": "HOW TO USE GOOGLE PAY & PAYTM",
-              "hindi-name": "UPI & Paytm का उपयोग करते हुए",
-              "hindi-heading": " Google पे और पेटीएम का उपयोग कैसे करें",
+              "hindi-name": "UPI & Paytm का इस्तेमाल करते हुए",
+              "hindi-heading": " Google Pay / PayTm का इस्तेमाल कैसे करें",
               "english-name": "Using UPI & Paytm",
               "urdu-name": " کا استعمال کرتے ہوئے UPI & Paytm",
               "videos-list": [
@@ -2526,7 +2526,7 @@
             {
               "urdu-heading": " مسلمان آزادی میں    ",
               "english-heading": "MUSLIM IN FREEDOM",
-              "hindi-name": " मुस्लिम भारत की स्वतंत्रता",
+              "hindi-name": "भारत की आज़ादी में मुस्लिम",
               "hindi-heading": " आजादी में मुसलमान",
               "english-name": "Muslim in Freedom of India",
               "urdu-name": "  مسلمان  ہندوستان کی آزادی ",
@@ -2575,8 +2575,8 @@
             {
               "urdu-heading": "مسلم سائنسدان",
               "english-heading": "MUSLIM SCIENTIST",
-              "hindi-name": " मुस्लिम वैज्ञानिक",
-              "hindi-heading": " मुस्लिम वैज्ञानिक",
+              "hindi-name": "मुस्लिम साइंटिस्ट",
+              "hindi-heading": "मुस्लिम साइंटिस्ट",
               "english-name": "Muslim Scientist",
               "urdu-name": "مسلم سائنسدان",
               "videos-list": [
@@ -2709,11 +2709,11 @@
             }
           ],
           "urdu-name": "اسلامی تاریخ",
-          "hindi-name": " इस्लामी इतिहास"
+          "hindi-name": "इस्लामी तारिख"
         }
       ],
       "urdu-name": "دوسرے عنوانات",
-      "hindi-name": " अन्य विषय"
+      "hindi-name": "दूसरे टॉपिक्स"
     }
   ]
 }
