@@ -298,8 +298,8 @@
               ],
               "urdu-name": "\"بدعنوانی\"",
               "urdu-heading": "\"بدعنوانی\"",
-              "hindi-name": " \"भ्रष्टाचार\"",
-              "hindi-heading": " \"भ्रष्टाचार\""
+              "hindi-name": " भ्रष्टाचार",
+              "hindi-heading": " भ्रष्टाचार"
             },
             {
               "urdu-heading": "تعلیم میں مسلمان",
@@ -1606,7 +1606,7 @@
             }
           ],
           "urdu-name": "\"شادی کی ہدایات\"",
-          "hindi-name": "शादी हिदायात"
+          "hindi-name": "शादी की हिदायात"
         },
         {
           "english-name": "Parenting Guidelines",
