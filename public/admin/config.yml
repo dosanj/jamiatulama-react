@@ -12,9 +12,9 @@ collections:
     label: Posts
     extension: json
     files:
-      - label: 'Navigation Content'
-        name: 'navigation-content'
-        file: 'src/content/web-content.json'
+      - label: "Navigation Content"
+        name: "navigation-content"
+        file: "src/content/web-content.json"
         fields:
           - label: Main Category
             name: categories
@@ -141,25 +141,25 @@ collections:
                               widget: string,
                               required: false,
                             }
-      - label: 'Home Page Content'
-        name: 'home-page-content'
-        file: 'src/content/home-page.json'
+      - label: "Home Page Content"
+        name: "home-page-content"
+        file: "src/content/home-page.json"
         fields:
           - {
-              label: English Ayat Meaning,
-              name: english-ayat-meaning,
+              label: English Purpose,
+              name: english-purpose,
               required: false,
               widget: string,
             }
           - {
-              label: Hindi Ayat Meaning,
-              name: hindi-ayat-meaning,
+              label: Hindi Purpose,
+              name: hindi-purpose,
               widget: string,
               required: false,
             }
           - {
-              label: Urdu Ayat Meaning,
-              name: urdu-ayat-meaning,
+              label: Urdu Purpose,
+              name: urdu-purpose,
               widget: string,
               required: false,
             }
@@ -192,9 +192,9 @@ collections:
                   widget: string,
                 }
               - {
-                  label: 'Image',
-                  name: 'image',
-                  widget: 'image',
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
                   required: false,
-                  tagname: '',
+                  tagname: "",
                 }
