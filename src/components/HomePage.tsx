@@ -10,7 +10,6 @@ export function HomePage(props: IHomePageProps) {
     props.openSideMenu();
   };
   const getWebsitePurpose = () => {
-    let purpose;
     if (props.currentLanguage === Languages.URDU) {
       return (
         <div className="home-page__purpose urduText">
