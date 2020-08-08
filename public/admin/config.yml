@@ -3,7 +3,7 @@ backend:
   branch: master
   repo: dosanj/jamiatulama-react
 
-site_url: https://jamiatulama-solapur.web.app/
+site_url: https://jamiatulamasolapur.netlify.app/
 publish_mode: editorial_workflow
 media_folder: public/media
 public_folder: /media
