@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@google-cloud/firestore": "^4.2.0",
     "@material-ui/core": "^4.9.11",
     "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
@@ -21,7 +22,8 @@
     "react-phone-input-2": "^2.13.7",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
-    "typescript": "^3.7.5"
+    "typescript": "^3.7.5",
+    "webpack-node-externals": "^2.5.1"
   },
   "scripts": {
     "build:scss": "node-sass -r --output-style compressed src/scss/index.scss -o src/css",
@@ -32,10 +34,10 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start:lambda": "netlify-lambda serve src/lambda",
+    "start:lambda": "netlify-lambda serve --config ./src/webpack.functions.js src/lambda",
     "build": "run-p build:**",
     "build:app": "react-scripts build",
-    "build:lambda": "netlify-lambda build src/lambda"
+    "build:lambda": "netlify-lambda build --config ./src/webpack.functions.js src/lambda"
   },
   "eslintConfig": {
     "extends": "react-app"

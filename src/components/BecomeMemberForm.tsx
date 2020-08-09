@@ -9,8 +9,9 @@ import {
   Select,
   TextField,
 } from "@material-ui/core";
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import PhoneInput from "react-phone-input-2";
+import * as firebase from "firebase/app";
 import { IBecomeMemberFormProps } from "../models/components.props";
 export function BecomeMemberForm(props: IBecomeMemberFormProps) {
   const [phoneNumber, setPhoneNumber] = useState({ value: "", valid: false });
@@ -41,6 +42,14 @@ export function BecomeMemberForm(props: IBecomeMemberFormProps) {
     }
     return true;
   };
+  useEffect(() => {
+    (window as any).recaptchaVerifier = new firebase.auth.RecaptchaVerifier(
+      "submit-button",
+      {
+        size: "invisible",
+      }
+    );
+  });
   return (
     <div className="form">
       <div className="form-group">
@@ -213,7 +222,7 @@ export function BecomeMemberForm(props: IBecomeMemberFormProps) {
               age &&
               profession &&
               masjidZimmedar &&
-              props.captchaValue
+              nearestMasjid
             )
           }
           onClick={submitButtonClicked}

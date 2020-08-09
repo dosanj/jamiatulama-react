@@ -33,29 +33,49 @@ export function BecomeMember() {
   const [currentUser, setCurrentUser] = useState(
     (null as unknown) as IUserDetails
   );
-  const [captchaValue, setCaptchValue] = useState("");
   const [error, setError] = useState(null as any);
+
+  const getDataFromBackend = (phoneNumber: string) => {
+    return fetch("/.netlify/functions/get-member", {
+      method: "POST",
+      body: JSON.stringify({ phoneNumber }),
+    }).then((response) => response.json());
+  };
+
+  const updateBackendWithMemberDetail = async () => {
+    fetch("/.netlify/functions/add-member", {
+      method: "POST",
+      body: JSON.stringify(
+        details ? { ...details, phoneNumber: details.phoneNumber.value } : {}
+      ),
+    });
+  };
+
+  const verifyCode = () => {
+    (window as any).confirmationResult
+      .confirm(code)
+      .then((result: any) => {
+        setCurrentUser(details);
+        setIsNewUser(result.additionalUserInfo.isNewUser);
+        updateBackendWithMemberDetail();
+      })
+      .catch((error: any) => {
+        setError(error);
+      });
+  };
+
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
       if (user) {
-        setCurrentUser(user);
+        getDataFromBackend(user.phoneNumber).then((details) => {
+          debugger;
+          setCurrentUser(details);
+        });
       }
     });
-    if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
+    if (!codeSent && !currentUser) {
       firebase.auth().useDeviceLanguage();
-      (window as any).recaptchaVerifier = new firebase.auth.RecaptchaVerifier(
-        "recaptcha-container"
-      );
-      (window as any).recaptchaVerifier.render().then((widgetId: any) => {
-        (window as any).recaptchaWidgetId = widgetId;
-      });
-      (window as any).recaptchaVerifier.verify().then((token: any) => {
-        setCaptchValue(token);
-      });
     }
-    fetch("/.netlify/functions/test-firebase")
-      .then((response) => response.json())
-      .then(console.log);
   });
   const submitButtonClicked = (data: IUserDetails) => {
     let { phoneNumber } = data;
@@ -82,28 +102,7 @@ export function BecomeMember() {
         setError(error);
       });
   };
-  const verifyCode = () => {
-    (window as any).confirmationResult
-      .confirm(code)
-      .then((result: any) => {
-        // User signed in successfully.
-        setIsNewUser(result.additionalUserInfo.isNewUser);
-        if (isNewUser || !result.user.displayName) {
-          result.user
-            .updateProfile({ displayName: details.displayName })
-            .then((response: any) => {
-              setCurrentUser(details);
-              setError(null);
-            })
-            .catch((error: any) => {
-              setError(error);
-            });
-        }
-      })
-      .catch((error: any) => {
-        setError(error);
-      });
-  };
+
   if (currentUser && isNewUser) {
     return (
       <div className="become-member">
@@ -124,7 +123,6 @@ export function BecomeMember() {
       <BecomeMemberForm
         codeSent={codeSent}
         error={error}
-        captchaValue={captchaValue}
         submitButtonClicked={submitButtonClicked}
       />
     );

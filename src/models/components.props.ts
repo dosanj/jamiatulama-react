@@ -46,7 +46,6 @@ export interface IImageSliderProps {
 }
 export interface IBecomeMemberFormProps {
   codeSent: boolean;
-  captchaValue: string;
   error: Error;
   submitButtonClicked: (data: IUserDetails) => void;
 }
