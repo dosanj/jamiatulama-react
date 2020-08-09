@@ -39,7 +39,7 @@ export function BecomeMember() {
     try {
       const response = await fetch("/.netlify/functions/hello").then(
         (response) => {
-          return response.text();
+          return response.blob();
         }
       );
       console.log(response);
