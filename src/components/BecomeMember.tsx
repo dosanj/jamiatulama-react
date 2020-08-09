@@ -45,7 +45,12 @@ export function BecomeMember() {
       if (user) {
         setCurrentUser(user);
       }
-      init();
+      try {
+        const response = init();
+        console.log(response);
+      } catch (e) {
+        console.error(e);
+      }
     });
     if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
       firebase.auth().useDeviceLanguage();
