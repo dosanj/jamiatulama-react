@@ -76,7 +76,7 @@ export function BecomeMember() {
   useEffect(() => {
     if (!currentUser) {
       firebase.auth().onAuthStateChanged((user: any) => {
-        if (user && !currentUser) {
+        if (user && !currentUser && !loading) {
           setLoading(true);
           getDataFromBackend(user.phoneNumber).then((details) => {
             setCurrentUser(details);
