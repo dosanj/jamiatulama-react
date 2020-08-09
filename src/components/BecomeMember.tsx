@@ -41,7 +41,7 @@ export function BecomeMember() {
         setCurrentUser(user);
       }
       fetch("/.netlify/functions/hello").then((response) =>
-        console.log(response);
+        console.log(response)
       );
     });
     if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
