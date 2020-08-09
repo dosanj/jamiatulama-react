@@ -14,7 +14,7 @@ try {
 serviceAccount = {
   ...serviceAccount,
   private_key_id: process.env.private_key_id,
-  private_key: process.env.private_key,
+  private_key: process.env.private_key.replace(/\\n/g, "\n"),
   ...localPrivateKey,
 };
 admin.initializeApp({
