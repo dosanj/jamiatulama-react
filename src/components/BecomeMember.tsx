@@ -42,7 +42,6 @@ export function BecomeMember() {
       }
       fetch("/.netlify/functions/hello")
         .then((response) => {
-          console.log(response);
           return response.json();
         })
         .then((response) => {
