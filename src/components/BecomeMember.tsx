@@ -41,8 +41,13 @@ export function BecomeMember() {
         setCurrentUser(user);
       }
       fetch("/.netlify/functions/hello")
-        .then((response) => response.json())
-        .then((response) => console.log(response));
+        .then((response) => {
+          console.log(response);
+          return response.json();
+        })
+        .then((response) => {
+          console.log(response);
+        });
     });
     if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
       firebase.auth().useDeviceLanguage();
