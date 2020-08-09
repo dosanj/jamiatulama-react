@@ -30,6 +30,7 @@ export function BecomeMember() {
   const [codeSent, setCodeSent] = useState(false);
   const [code, setCode] = useState("");
   const [isNewUser, setIsNewUser] = useState(false);
+  const [loading, setLoading] = useState(false);
   const [currentUser, setCurrentUser] = useState(
     (null as unknown) as IUserDetails
   );
@@ -43,7 +44,7 @@ export function BecomeMember() {
   };
 
   const updateBackendWithMemberDetail = async () => {
-    fetch("/.netlify/functions/add-member", {
+    return fetch("/.netlify/functions/add-member", {
       method: "POST",
       body: JSON.stringify(
         details ? { ...details, phoneNumber: details.phoneNumber.value } : {}
@@ -52,13 +53,19 @@ export function BecomeMember() {
   };
 
   const verifyCode = () => {
+    setLoading(true);
     (window as any).confirmationResult
       .confirm(code)
       .then((result: any) => {
         setCurrentUser(details);
         setIsNewUser(result.additionalUserInfo.isNewUser);
+        debugger;
         if (isNewUser) {
-          updateBackendWithMemberDetail();
+          updateBackendWithMemberDetail().then(() => {
+            setLoading(false);
+          });
+        } else {
+          setLoading(false);
         }
       })
       .catch((error: any) => {
@@ -70,8 +77,10 @@ export function BecomeMember() {
     if (!currentUser) {
       firebase.auth().onAuthStateChanged((user: any) => {
         if (user && !currentUser) {
+          setLoading(true);
           getDataFromBackend(user.phoneNumber).then((details) => {
             setCurrentUser(details);
+            setLoading(false);
           });
         }
       });
@@ -106,14 +115,14 @@ export function BecomeMember() {
       });
   };
 
-  if (currentUser && isNewUser) {
+  if (!loading && currentUser && isNewUser) {
     return (
       <div className="become-member">
         <h1>{currentUser.displayName}, Thanks for registring with us. </h1>
       </div>
     );
   }
-  if (currentUser && !isNewUser) {
+  if (!loading && currentUser && !isNewUser) {
     return (
       <div className="become-member">
         <h1>{currentUser.displayName}, you are already registered with us.</h1>
