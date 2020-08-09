@@ -5,11 +5,11 @@ import * as firebase from "firebase/app";
 // Add the Firebase products that you want to use
 import "firebase/auth";
 import "firebase/firestore";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 import "react-phone-input-2/lib/material.css";
+import { IUserDetails } from "../models/components.props";
 import { BecomeMemberForm } from "./BecomeMemberForm";
 import { VerifyCode } from "./VerifyCode";
-import { IUserDetails } from "../models/components.props";
 
 var firebaseConfig = {
   apiKey: "AIzaSyAaB-8OlMJ-gc1hFxya2hTXEww8rppZwXw",
@@ -30,18 +30,10 @@ export function BecomeMember() {
   const [codeSent, setCodeSent] = useState(false);
   const [code, setCode] = useState("");
   const [isNewUser, setIsNewUser] = useState(false);
-  const [loading, setLoading] = useState(false);
   const [currentUser, setCurrentUser] = useState(
     (null as unknown) as IUserDetails
   );
   const [error, setError] = useState(null as any);
-
-  const getDataFromBackend = (phoneNumber: string) => {
-    return fetch("/.netlify/functions/get-member", {
-      method: "POST",
-      body: JSON.stringify({ phoneNumber }),
-    }).then((response) => response.json());
-  };
 
   const updateBackendWithMemberDetail = async () => {
     return fetch("/.netlify/functions/add-member", {
@@ -53,42 +45,18 @@ export function BecomeMember() {
   };
 
   const verifyCode = () => {
-    setLoading(true);
     (window as any).confirmationResult
       .confirm(code)
       .then((result: any) => {
         setCurrentUser(details);
         setIsNewUser(result.additionalUserInfo.isNewUser);
-        debugger;
-        if (isNewUser) {
-          updateBackendWithMemberDetail().then(() => {
-            setLoading(false);
-          });
-        } else {
-          setLoading(false);
-        }
+        updateBackendWithMemberDetail();
       })
       .catch((error: any) => {
         setError(error);
       });
   };
 
-  useEffect(() => {
-    if (!currentUser) {
-      firebase.auth().onAuthStateChanged((user: any) => {
-        if (user && !currentUser && !loading) {
-          setLoading(true);
-          getDataFromBackend(user.phoneNumber).then((details) => {
-            setCurrentUser(details);
-            setLoading(false);
-          });
-        }
-      });
-      if (!codeSent && !currentUser) {
-        firebase.auth().useDeviceLanguage();
-      }
-    }
-  });
   const submitButtonClicked = (data: IUserDetails) => {
     let { phoneNumber } = data;
     if (phoneNumber.valid) {
@@ -115,14 +83,14 @@ export function BecomeMember() {
       });
   };
 
-  if (!loading && currentUser && isNewUser) {
+  if (currentUser && isNewUser) {
     return (
       <div className="become-member">
         <h1>{currentUser.displayName}, Thanks for registring with us. </h1>
       </div>
     );
   }
-  if (!loading && currentUser && !isNewUser) {
+  if (currentUser && !isNewUser) {
     return (
       <div className="become-member">
         <h1>{currentUser.displayName}, you are already registered with us.</h1>

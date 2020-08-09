@@ -11,7 +11,6 @@ export async function handler(event, context) {
     const members = [];
     snapshot.forEach((doc) => members.push(doc.data()));
     const match = members.length ? members[0] : {};
-    console.log(match);
     return {
       statusCode: 200,
       body: JSON.stringify({
