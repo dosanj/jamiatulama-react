@@ -35,18 +35,6 @@ export function BecomeMember() {
   );
   const [captchaValue, setCaptchValue] = useState("");
   const [error, setError] = useState(null as any);
-  async function init() {
-    try {
-      const response = await fetch("/.netlify/functions/hello").then(
-        (response) => {
-          return response.text();
-        }
-      );
-      console.log(response);
-    } catch (e) {
-      console.error(e);
-    }
-  }
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
       if (user) {
@@ -65,7 +53,9 @@ export function BecomeMember() {
         setCaptchValue(token);
       });
     }
-    init();
+    fetch("/.netlify/functions/hello")
+      .then((response) => response.json())
+      .then(console.log);
   });
   const submitButtonClicked = (data: IUserDetails) => {
     let { phoneNumber } = data;
