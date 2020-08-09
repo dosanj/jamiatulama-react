@@ -35,18 +35,17 @@ export function BecomeMember() {
   );
   const [captchaValue, setCaptchValue] = useState("");
   const [error, setError] = useState(null as any);
+  async function init() {
+    return await fetch("/.netlify/functions/hello").then((response) => {
+      return response.json();
+    });
+  }
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
       if (user) {
         setCurrentUser(user);
       }
-      fetch("/.netlify/functions/hello")
-        .then((response) => {
-          return response.json();
-        })
-        .then((response) => {
-          console.log(response);
-        });
+      init();
     });
     if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
       firebase.auth().useDeviceLanguage();
