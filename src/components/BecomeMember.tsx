@@ -67,15 +67,17 @@ export function BecomeMember() {
   };
 
   useEffect(() => {
-    firebase.auth().onAuthStateChanged((user: any) => {
-      if (user && !currentUser) {
-        getDataFromBackend(user.phoneNumber).then((details) => {
-          setCurrentUser(details);
-        });
+    if (!currentUser) {
+      firebase.auth().onAuthStateChanged((user: any) => {
+        if (user && !currentUser) {
+          getDataFromBackend(user.phoneNumber).then((details) => {
+            setCurrentUser(details);
+          });
+        }
+      });
+      if (!codeSent && !currentUser) {
+        firebase.auth().useDeviceLanguage();
       }
-    });
-    if (!codeSent && !currentUser) {
-      firebase.auth().useDeviceLanguage();
     }
   });
   const submitButtonClicked = (data: IUserDetails) => {
