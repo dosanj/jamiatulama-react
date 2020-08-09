@@ -57,7 +57,9 @@ export function BecomeMember() {
       .then((result: any) => {
         setCurrentUser(details);
         setIsNewUser(result.additionalUserInfo.isNewUser);
-        updateBackendWithMemberDetail();
+        if (isNewUser) {
+          updateBackendWithMemberDetail();
+        }
       })
       .catch((error: any) => {
         setError(error);
@@ -66,9 +68,8 @@ export function BecomeMember() {
 
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
-      if (user) {
+      if (user && !currentUser) {
         getDataFromBackend(user.phoneNumber).then((details) => {
-          debugger;
           setCurrentUser(details);
         });
       }
