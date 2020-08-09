@@ -8,6 +8,7 @@
 # testing
 /coverage
 /built-lambda
+/src/lambda/local-privatekey.json
 # production
 /build
 

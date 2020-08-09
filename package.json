@@ -15,6 +15,7 @@
     "@types/react-router-dom": "^5.1.4",
     "axios": "^0.19.2",
     "firebase": "^7.15.1",
+    "firebase-admin": "^9.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-phone-input-2": "^2.13.7",

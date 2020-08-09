@@ -53,7 +53,7 @@ export function BecomeMember() {
         setCaptchValue(token);
       });
     }
-    fetch("/.netlify/functions/hello")
+    fetch("/.netlify/functions/test-firebase")
       .then((response) => response.json())
       .then(console.log);
   });
@@ -142,6 +142,7 @@ export function BecomeMember() {
   return (
     <div className="become-member">
       <h1> Fill in the details</h1>
+      {process.env.TEST}
       {codeSent ? verifyCodeTemplate() : getDetailsTemplate()}
     </div>
   );
