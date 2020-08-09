@@ -36,20 +36,21 @@ export function BecomeMember() {
   const [captchaValue, setCaptchValue] = useState("");
   const [error, setError] = useState(null as any);
   async function init() {
-    return await fetch("/.netlify/functions/hello").then((response) => {
-      return response.json();
-    });
+    try {
+      const response = await fetch("/.netlify/functions/hello").then(
+        (response) => {
+          return response.json();
+        }
+      );
+      console.log(response);
+    } catch (e) {
+      console.error(e);
+    }
   }
   useEffect(() => {
     firebase.auth().onAuthStateChanged((user: any) => {
       if (user) {
         setCurrentUser(user);
-      }
-      try {
-        const response = init();
-        console.log(response);
-      } catch (e) {
-        console.error(e);
       }
     });
     if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
