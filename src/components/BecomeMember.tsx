@@ -65,6 +65,7 @@ export function BecomeMember() {
         setCaptchValue(token);
       });
     }
+    init();
   });
   const submitButtonClicked = (data: IUserDetails) => {
     let { phoneNumber } = data;
