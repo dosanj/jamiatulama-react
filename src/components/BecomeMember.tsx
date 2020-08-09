@@ -40,9 +40,9 @@ export function BecomeMember() {
       if (user) {
         setCurrentUser(user);
       }
-      fetch("/.netlify/functions/hello").then((response) =>
-        console.log(response)
-      );
+      fetch("/.netlify/functions/hello")
+        .then((response) => response.json())
+        .then((response) => console.log(response));
     });
     if (!(window as any).recaptchaVerifier && !codeSent && !currentUser) {
       firebase.auth().useDeviceLanguage();
