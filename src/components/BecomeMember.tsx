@@ -1,29 +1,10 @@
-// If you enabled Analytics in your project, add the Firebase SDK for Analytics
-import "firebase/analytics";
-// Firebase App (the core Firebase SDK) is always required and must be listed first
-import * as firebase from "firebase/app";
-// Add the Firebase products that you want to use
-import "firebase/auth";
-import "firebase/firestore";
 import React, { useState } from "react";
 import "react-phone-input-2/lib/material.css";
 import { IUserDetails } from "../models/components.props";
 import { BecomeMemberForm } from "./BecomeMemberForm";
 import { VerifyCode } from "./VerifyCode";
-
-var firebaseConfig = {
-  apiKey: "AIzaSyAaB-8OlMJ-gc1hFxya2hTXEww8rppZwXw",
-  authDomain: "jamiatulama-solapur.firebaseapp.com",
-  databaseURL: "https://jamiatulama-solapur.firebaseio.com",
-  projectId: "jamiatulama-solapur",
-  storageBucket: "jamiatulama-solapur.appspot.com",
-  messagingSenderId: "351010064384",
-  appId: "1:351010064384:web:d5258cf2806d522645b0e5",
-  measurementId: "G-YP619B0WGR",
-};
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
-firebase.analytics();
+import { getFireBaseApp } from "../services/firebase-service";
+const firebase = getFireBaseApp();
 
 export function BecomeMember() {
   const [details, setDetails] = useState((null as unknown) as IUserDetails);

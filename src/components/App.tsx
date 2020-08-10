@@ -12,6 +12,7 @@ import { Route, Switch } from "react-router-dom";
 import { checkIfSmallDevice } from "../services/is-small-device-hook";
 import { BecomeMember } from "./BecomeMember";
 import { DonateUs } from "./DonateUs";
+import { AdminPanel } from "./AdminPanel";
 
 export function App() {
   // Hooks
@@ -112,6 +113,9 @@ export function App() {
           </Route>
           <Route path="/donate-us">
             <DonateUs />
+          </Route>
+          <Route path="/manage">
+            <AdminPanel></AdminPanel>
           </Route>
           <Route path="/:link">
             <AppContent
