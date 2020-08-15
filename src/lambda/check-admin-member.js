@@ -1,6 +1,6 @@
 import { getFireBase } from "./firebase/setup-firebase";
+const db = getFireBase("check-admin").firestore();
 export async function handler(event, context) {
-  const db = getFireBase().firestore();
   const { email } = JSON.parse(event.body);
   try {
     const membersRef = db.collection("admins");

@@ -4,6 +4,7 @@ import { IUserDetails } from "../models/components.props";
 import { BecomeMemberForm } from "./BecomeMemberForm";
 import { VerifyCode } from "./VerifyCode";
 import { getFireBaseApp } from "../services/firebase-service";
+import axios from "axios";
 const firebase = getFireBaseApp();
 
 export function BecomeMember() {
@@ -17,12 +18,11 @@ export function BecomeMember() {
   const [error, setError] = useState(null as any);
 
   const updateBackendWithMemberDetail = async () => {
-    return fetch("/.netlify/functions/add-member", {
-      method: "POST",
-      body: JSON.stringify(
-        details ? { ...details, phoneNumber: details.phoneNumber.value } : {}
-      ),
-    });
+    const body = details
+      ? { ...details, phoneNumber: details.phoneNumber.value }
+      : {};
+
+    return axios.post("/.netlify/functions/add-member", body);
   };
 
   const verifyCode = () => {

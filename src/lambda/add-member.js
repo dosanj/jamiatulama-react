@@ -1,6 +1,6 @@
 import { getFireBase } from "./firebase/setup-firebase";
+const db = getFireBase("add-member").firestore();
 export async function handler(event, context) {
-  const db = getFireBase().firestore();
   try {
     const member = JSON.parse(event.body);
     if (Object.keys(member).length) {

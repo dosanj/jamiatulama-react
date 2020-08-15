@@ -18,7 +18,7 @@
     "firebase": "^7.15.1",
     "firebase-admin": "^9.0.0",
     "react": "^16.13.1",
-    "react-admin": "^3.7.2",
+    "react-admin": "^3.8.1",
     "react-dom": "^16.13.1",
     "react-phone-input-2": "^2.13.7",
     "react-router-dom": "^5.1.2",

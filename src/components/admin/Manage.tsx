@@ -1,8 +1,17 @@
 import React, { useState } from "react";
-import { getFireBaseApp } from "../services/firebase-service";
+import { getFireBaseApp } from "../../services/firebase-service";
 import * as firebase from "firebase/app";
-getFireBaseApp();
-export function AdminPanel() {
+import axios from "axios";
+import { AdminPanel } from "./AdminPanel";
+// const testAdmin = {
+//   displayName: "Javed Dosani",
+//   email: "javeddosani2011@gmail.com",
+//   phoneNumber: null,
+//   providerId: "google.com",
+//   uid: "102270563813599047746",
+// };
+getFireBaseApp(); // setup firebase app
+export function Manage() {
   const [error, setError] = useState(null);
   const [user, setUser] = useState((null as unknown) as firebase.UserInfo);
   const [isAdmin, setIsAdmin] = useState(false);
@@ -15,20 +24,14 @@ export function AdminPanel() {
         const user = firebase.auth().currentUser;
         if (user != null && user.providerData?.length) {
           const [profile] = user.providerData;
+          // const profile = testAdmin as firebase.UserInfo;
           if (profile) {
-            console.log("Sign-in provider: " + profile.providerId);
-            console.log("  Provider-specific UID: " + profile.uid);
-            console.log("  Name: " + profile.displayName);
-            console.log("  Email: " + profile.email);
-            console.log("  Photo URL: " + profile.photoURL);
+            const { admin } = await axios
+              .post("/.netlify/functions/check-admin-member", {
+                email: profile.email,
+              })
+              .then(({ data }) => data);
             setUser(profile);
-            const { admin } = await fetch(
-              "/.netlify/functions/check-admin-member",
-              {
-                method: "POST",
-                body: JSON.stringify({ email: profile.email }),
-              }
-            ).then((response) => response.json());
             setIsAdmin(admin);
           }
         }
@@ -38,13 +41,13 @@ export function AdminPanel() {
       });
   };
   if (error) {
-    return <div>Error in Signing with Google</div>;
+    return <div className="d-flex m-auto">Error in Signing with Google</div>;
   }
   if (user) {
     if (isAdmin) {
-      return <div>You're signed in as an Admin</div>;
+      return <AdminPanel />;
     } else {
-      return <div>You are not an admin</div>;
+      return <div className="d-flex m-auto">You are not an admin</div>;
     }
   }
   return (

@@ -1,6 +1,6 @@
 import { getFireBase } from "./firebase/setup-firebase";
+const db = getFireBase("fetch-members").firestore();
 export async function handler(event, context) {
-  const db = getFireBase().firestore();
   try {
     const membersRef = db.collection("members");
     const snapshot = await membersRef.get();
@@ -9,8 +9,8 @@ export async function handler(event, context) {
     return {
       statusCode: 200,
       body: JSON.stringify({
+        members,
         type: "success",
-        data: members,
       }),
     };
   } catch (err) {

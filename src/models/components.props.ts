@@ -58,3 +58,4 @@ export interface IUserDetails {
   phoneNumber: { value: string; valid: boolean };
   masjidZimmedar: string;
 }
+export interface IAdminPanelProps {}
